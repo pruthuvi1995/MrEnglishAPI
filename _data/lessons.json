@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Article - part 01",
+    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
+    "day": "5ee42b08e0104f299c75d5d8",
+    "isCompleted": true,
+    "isActivated": false,
+    "marks": 78,
+    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew."
+  },
+  {
+    "title": "Article part02",
+    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
+    "day": "5ee42b08e0104f299c75d5d8",
+    "isCompleted": false,
+    "isActivated": false,
+    "marks": 78,
+    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew."
+  },
+  {
+    "title": "Article - part 03",
+    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
+    "day": "5ee42b08e0104f299c75d5d8",
+    "isCompleted": true,
+    "isActivated": false,
+    "marks": 78,
+    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew."
+  }
+]

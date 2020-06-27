@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Name1",
+    "lastName": "Name1",
+    "NICNo": "951062219v",
+    "password": "147896325",
+    "phoneNo": "+94716067110"
+  },
+  {
+    "firstName": "Name2",
+    "lastName": "Name2",
+    "NICNo": "961062219v",
+    "password": "147896325",
+    "phoneNo": "+94716067110"
+  },
+  {
+    "firstName": "Name3",
+    "lastName": "Name3",
+    "NICNo": "971062219v",
+    "password": "147896325",
+    "phoneNo": "+94716067110"
+  },
+  {
+    "firstName": "Name4",
+    "lastName": "Name4",
+    "NICNo": "981062219v",
+    "password": "147896325",
+    "phoneNo": "+94716067110"
+  }
+]
