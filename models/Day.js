@@ -5,7 +5,7 @@ const DaySchema = new mongoose.Schema(
   {
     title: {
       type: String,
-      required: [true, 'Please add a name'],
+      required: [true, 'Please add a name 2'],
       unique: true,
       trim: true,
       maxlength: [100, 'title can not be more than 100 charactors'],
