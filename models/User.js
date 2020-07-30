@@ -14,7 +14,7 @@ const UserSchema = new mongoose.Schema({
   },
   NICNo: {
     type: String,
-    required: [true, 'Please add an email'],
+    required: [true, 'Please add an NICNo'],
     unique: true,
   },
   password: {

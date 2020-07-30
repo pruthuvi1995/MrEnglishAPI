@@ -7,7 +7,7 @@ const ErrorResponse = require('../utils/errorResponse');
 // @access  Public
 
 exports.register = asyncHandler(async (req, res, next) => {
-  const { firstName, lastName, NICNo, password } = req.body;
+  const { firstName, lastName, NICNo, password, phoneNo } = req.body;
 
   // Create user
   const user = await User.create({
@@ -15,6 +15,7 @@ exports.register = asyncHandler(async (req, res, next) => {
     lastName,
     NICNo,
     password,
+    phoneNo,
   });
 
   sendTokenResponse(user, 200, res);
