@@ -25,6 +25,7 @@ connectDB();
 const days = require('./routes/days');
 const lessons = require('./routes/lessons');
 const auth = require('./routes/auth');
+const dayDetails = require('./routes/dayDetails');
 
 const app = express();
 
@@ -71,6 +72,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/api/v1/days', days);
 app.use('/api/v1/lessons', lessons);
 app.use('/api/v1/auth', auth);
+app.use('./api/v1/dayDetails', dayDetails);
 
 app.use(errorHandler);
 
