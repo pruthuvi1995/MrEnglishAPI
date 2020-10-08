@@ -3,21 +3,18 @@
     "title": "Article - part 01",
     "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
     "isCompleted": true,
-    "isActivated": false,
-    "marks": 78
+    "isActivated": false
   },
   {
     "title": "Article part02",
     "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
     "isCompleted": false,
-    "isActivated": false,
-    "marks": 78
+    "isActivated": false
   },
   {
-    "title": "Article - part 03",
+    "title": "ArtizxZXcle - part 03",
     "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
     "isCompleted": true,
-    "isActivated": false,
-    "marks": 78
+    "isActivated": false
   }
 ]

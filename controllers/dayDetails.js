@@ -1,90 +1,96 @@
-const dayDetail = require('../models/DayDetail');
+const DayDetail = require('../models/DayDetail');
+const Day = require('../models/Day');
+const User = require('../models/User');
+const asyncHandler = require('../middleware/async');
 const ErrorResponse = require('../utils/errorResponse');
 
-// @desc    get day details of user
+// @desc    Get all day details
 // @route   GET /api/v1/dayDetails/:userId
-// @access  Private
-exports.getDayDetails = async (req, res, next) => {
-  try {
-    const dayDetails = await dayDetail.findById(req.param.userId);
+// @access  Public
 
-    res.status(200).json({ success: true, data: dayDetails });
-  } catch (err) {
-    res.status(200).json({ success: false });
+exports.getDayDetails = asyncHandler(async (req, res, next) => {
+  if (req.params.userId) {
+    const dayDetails = await DayDetail.find({ user: req.params.userId });
+
+    return res.status(200).json({
+      success: true,
+      count: dayDetails.length,
+      data: dayDetails,
+    });
   }
-};
+  // else {
+  //   res.status(200).json(res.advancedResults);
+  // }
+});
 
-// @desc    get day details of user
+// @desc    Get a single day details
 // @route   GET /api/v1/dayDetails/:userId/:dayId
 // @access  Private
-exports.getSingleDayDetails = async (req, res, next) => {
-  try {
-    const dayDetail = await dayDetail.findById(req.param.userId);
 
-    if (!dayDetail) {
-      return res.status(400).json({ success: false });
-    }
+exports.getSingleDayDetails = asyncHandler(async (req, res, next) => {
+  const dayDetails = await DayDetail.find(
+    { user: req.params.userId } && { day: req.params.dayId }
+  );
 
-    res.status(200).json({ success: true, data: dayDetail });
-  } catch (err) {
-    // res.status(200).json({ success: false });
-    next(new ErrorResponse(`Day details are not found with id of `));
-  }
-};
-
-// @desc    Creating a single day details
-// @route   POST /api/v1/dayDetails/:userId/:dayId
-// @access  Private
-exports.createDayDetails = async (req, res, next) => {
-  try {
-    const datDetail = await DayDetail.create(req.body);
-
-    res.status(201).json({
-      success: true,
-      data: dayDetail,
-    });
-  } catch (err) {
-    res.status(400).json({ success: false });
-  }
-};
-
-// @desc    update day details of user
-// @route   PUT /api/v1/dayDetails/:userId/:dayId
-// @access  Private
-exports.updateSingleDayDetails = async (req, res, next) => {
-  try {
-    const dayDetail = await dayDetail.findByIdAndUpdate(
-      req.param.id,
-      req.body,
-      {
-        new: true,
-        runValidators: true,
-      }
+  if (!dayDetails) {
+    return next(
+      new ErrorResponse(
+        `No review found with the id of ${req.params.userId} and ${req.params.dayId}`,
+        404
+      )
     );
-
-    if (!dayDetail) {
-      return res.status(400).json({ success: false });
-    }
-
-    res.status(200).json({ success: true, data: dayDetail });
-  } catch (err) {
-    res.status(200).json({ success: false });
   }
-};
 
-// @desc    delete day details of user
-// @route   DELETE /api/v1/dayDetails/:userId/:dayId
+  res.status(200).json({
+    success: true,
+    data: dayDetails,
+  });
+});
+
+// @desc    add day details
+// @route   POST /api/v1/dayDetails/:dayId
 // @access  Private
-exports.deleteSingleDayDetails = async (req, res, next) => {
-  try {
-    const dayDetail = await dayDetail.findByIdAndDelete(req.param.id);
 
-    if (!dayDetail) {
-      return res.status(400).json({ success: false });
-    }
+exports.addDayDetails = asyncHandler(async (req, res, next) => {
+  req.body.user = req.user.userId;
+  req.body.day = req.params.dayId;
 
-    res.status(200).json({ success: true, data: {} });
-  } catch (err) {
-    res.status(200).json({ success: false });
+  const day = await Day.findById(req.params.dayId);
+
+  if (!day) {
+    return next(new ErrorResponse(`No day with the id`, 404));
   }
-};
+
+  const dayDetail = await DayDetail.create(req.body);
+
+  return res.status(201).json({
+    success: true,
+    data: dayDetail,
+  });
+});
+
+// @desc    update day details
+// @route   PUT /api/v1/dayDetails/:id
+// @access  Private
+
+exports.updateDayDetails = asyncHandler(async (req, res, next) => {
+  let dayDetails = await DayDetail.findById(req.params.id);
+
+  if (!dayDetails) {
+    return next(new ErrorResponse(`No day details  with the id`, 404));
+  }
+
+  if (dayDetails.user.toString() !== req.user.id) {
+    return next(new ErrorResponse(`Not authorized to update day details`, 401));
+  }
+
+  dayDetails = await DayDetail.findByIdAndUpdate(req.params.id, req.body, {
+    new: true,
+    runValidators: true,
+  });
+
+  return res.status(200).json({
+    success: true,
+    data: dayDetail,
+  });
+});

@@ -45,6 +45,48 @@ const DayDetailSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
   },
+  day: {
+    type: mongoose.Schema.ObjectId,
+    ref: 'Day',
+    required: true,
+  },
+  user: {
+    type: mongoose.Schema.ObjectId,
+    ref: 'User',
+    required: true,
+  },
 });
 
-module.exports = mongoose.model('Daydetail', DayDetailSchema);
+// //Statics method to get and save mark of lessons
+// DayDetailSchema.statics.getMark = async function (dayId) {
+//   const obj = await this.aggregate([
+//     {
+//       $match: { day: dayId },
+//     },
+//     {
+//       $group: {
+//         _id: '$day',
+//         averageMark: { $avg: '$marks' },
+//       },
+//     },
+//   ]);
+//   try {
+//     await this.model('Day').findByIdAndUpdate(dayId, {
+//       marks: obj[0].averageMark,
+//     });
+//   } catch (err) {
+//     console.error(err);
+//   }
+// };
+
+// //call getMark after save
+// LessonSchema.post('save', function () {
+//   this.constructor.getMark(this.day);
+// });
+
+// //call getMark after save
+// LessonSchema.pre('remove', function () {
+//   this.constructor.getMark(this.day);
+// });
+
+module.exports = mongoose.model('DayDetail', DayDetailSchema);

@@ -6,25 +6,29 @@ const ErrorResponse = require('../utils/errorResponse');
 // @desc    Get all lessons
 // @route   GET /api/v1/lessons
 // @route   GET /api/v1/days/:dayId/lessons
-// @access  Public
+// @access  Private
 
 exports.getLessons = asyncHandler(async (req, res, next) => {
-  if (req.params.dayId) {
-    const lessons = await Lesson.find({ day: req.params.dayId });
+  let query;
 
-    return res.status(200).json({
-      success: true,
-      count: lessons.length,
-      data: lessons,
-    });
+  if (req.params.dayId) {
+    query = Lesson.find({ day: req.params.dayId });
   } else {
-    res.status(200).json(res.advancedResults);
+    query = Lesson.find().populate('day');
   }
+
+  const lessons = await query;
+
+  res.status(200).json({
+    success: true,
+    count: lessons.length,
+    data: lessons,
+  });
 });
 
 // @desc    Get single lesson
 // @route   GET /api/v1/lesson/:id
-// @access  Public
+// @access  Private
 
 exports.getLesson = asyncHandler(async (req, res, next) => {
   const lesson = await Lesson.findById(req.params.id).populate({
@@ -46,7 +50,7 @@ exports.getLesson = asyncHandler(async (req, res, next) => {
 });
 
 // @desc    Add single lesson
-// @route   GET /api/v1/day/:dayId/lessons
+// @route   POST /api/v1/day/:dayId/lessons
 // @access  Private
 
 exports.addLesson = asyncHandler(async (req, res, next) => {

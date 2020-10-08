@@ -72,7 +72,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/api/v1/days', days);
 app.use('/api/v1/lessons', lessons);
 app.use('/api/v1/auth', auth);
-app.use('./api/v1/dayDetails', dayDetails);
+app.use('/api/v1/dayDetails', dayDetails);
 
 app.use(errorHandler);
 

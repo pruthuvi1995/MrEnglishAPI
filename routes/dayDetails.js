@@ -2,19 +2,31 @@ const express = require('express');
 const {
   getDayDetails,
   getSingleDayDetails,
-  createDayDetails,
-  updateSingleDayDetails,
-  deleteSingleDayDetails,
+  addDayDetails,
+  updateDayDetails,
+  // deleteSingleDayDetails,
 } = require('../controllers/dayDetails');
 
-const router = express.Router();
+const DayDetail = require('../models/DayDetail');
 
-router.route('/:userId').get(getDayDetails);
-router.route('/').post(createDayDetails);
-router
-  .route('/:userId/:dayId')
-  .post(createDayDetails)
-  .get(getSingleDayDetails)
-  .put(updateSingleDayDetails)
-  .delete(deleteSingleDayDetails);
+const router = express.Router({ mergeParams: true });
+
+// const advancedResults = require('../middleware/advancedResults');
+const { protect } = require('../middleware/auth');
+
+router.route('/:userId').get(protect, getDayDetails);
+
+router.route('/:userId/:dayId').get(
+  protect,
+  // advancedResults(DayDetail, {
+  //   path: 'day',
+  //   select: 'title',
+  // }),
+  getSingleDayDetails
+);
+
+router.route('/:dayId').post(protect, addDayDetails);
+
+router.route('/:id').post(protect, updateDayDetails);
+
 module.exports = router;

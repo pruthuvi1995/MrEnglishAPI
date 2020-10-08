@@ -110,6 +110,7 @@ exports.updateDetails = asyncHandler(async (req, res, next) => {
     firstName: req.body.firstName,
     lastName: req.body.lastName,
     NICNo: req.body.NICNo,
+    phoneNo: req.body.phoneNo,
   };
 
   const user = await User.findByIdAndUpdate(req.user.id, fieldsToUpdate, {
@@ -141,11 +142,11 @@ exports.updatePassword = asyncHandler(async (req, res, next) => {
 });
 
 // @desc    forgot password
-// @route   GET /api/v1/auth/forgotpassword
+// @route   POST /api/v1/auth/forgotpassword
 // @access  Public
 exports.forgotPassword = asyncHandler(async (req, res, next) => {
   const user = await User.findOne({
-    phoneNo: req.body.phoneNo,
+    NICNo: req.body.NICNo,
   });
 
   if (!user) {

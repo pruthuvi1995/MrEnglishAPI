@@ -11,7 +11,7 @@ const {
 
 const Day = require('../models/Day');
 
-const advancedResults = require('../middleware/advancedResults');
+// const advancedResults = require('../middleware/advancedResults');
 
 // Include other resourses routers
 const lessonRouter = require('./lessons');
@@ -25,12 +25,13 @@ router.use('/:dayId/lessons', lessonRouter);
 
 router
   .route('/')
-  .get(advancedResults(Day, 'courses'), getDays)
+  // .get(advancedResults(Day, 'courses'), getDays)
+  .get(protect, getDays)
   .post(protect, createDay);
 
 router
   .route('/:id')
-  .get(getDay)
+  .get(protect, getDay)
   .put(protect, updateDay)
   .delete(protect, deleteDay);
 

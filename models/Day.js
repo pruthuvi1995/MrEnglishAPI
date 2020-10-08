@@ -14,7 +14,7 @@ const DaySchema = new mongoose.Schema(
     description: {
       type: String,
       required: [true, 'Please add a description'],
-      maxlength: [100, 'Description can not be more than 1000 charactors'],
+      maxlength: [1000, 'Description can not be more than 1000 charactors'],
     },
     isCompleted: {
       type: Boolean,
@@ -29,6 +29,10 @@ const DaySchema = new mongoose.Schema(
       min: [0, 'Marks must be at least 0'],
       max: [100, 'Marks must can not be more than 100'],
     },
+    noOfLessons: {
+      type: Number,
+      default: 0,
+    },
     photo: {
       type: String,
       default: 'no-photo.jpg',
@@ -37,11 +41,6 @@ const DaySchema = new mongoose.Schema(
       type: Date,
       default: Date.now,
     },
-    // user: {
-    //   type: mongoose.Schema.ObjectId,
-    //   ref: 'User',
-    //   required: true,
-    // },
   },
   {
     toJSON: { virtuals: true },
@@ -57,7 +56,7 @@ DaySchema.pre('save', function (next) {
 
 //cascade delete lessons when a day is deleted
 DaySchema.pre('remove', async function (next) {
-  await this.model('Course'.deleteMany({ day: this._id }));
+  await this.model('Lesson'.deleteMany({ day: this._id }));
   next();
 });
 

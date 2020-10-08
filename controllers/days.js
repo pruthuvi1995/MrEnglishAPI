@@ -5,14 +5,16 @@ const ErrorResponse = require('../utils/errorResponse');
 
 // @desc    Get all Days
 // @route   GET /api/v1/days
-// @access  Public
+// @access  Private
 exports.getDays = asyncHandler(async (req, res, next) => {
-  res.status(200).json(res.advancedResults);
+  const days = await Day.find().populate('lessons');
+
+  res.status(200).json({ success: true, count: days.length, data: days });
 });
 
 // @desc    Get single Day
 // @route   GET /api/v1/days/:id
-// @access  Public
+// @access  Private
 exports.getDay = asyncHandler(async (req, res, next) => {
   const day = await Day.findById(req.params.id);
 
@@ -29,9 +31,6 @@ exports.getDay = asyncHandler(async (req, res, next) => {
 // @route   POST /api/v1/days
 // @access  Private
 exports.createDay = asyncHandler(async (req, res, next) => {
-  //Add user to req.body
-  req.body.user = req.user.id;
-
   const day = await Day.create(req.body);
   res.status(201).json({ success: true, msg: day });
 });
@@ -71,7 +70,7 @@ exports.deleteDay = asyncHandler(async (req, res, next) => {
   res.status(200).json({ success: true, data: {} });
 });
 
-// @desc    Upload Day
+// @desc    Upload Day photo
 // @route   PUT /api/v1/days/:id/photo
 // @access  Private
 exports.dayPhotoUpload = asyncHandler(async (req, res, next) => {
