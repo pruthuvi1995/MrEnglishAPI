@@ -11,7 +11,6 @@ const ErrorResponse = require('../utils/errorResponse');
 exports.getDayDetails = asyncHandler(async (req, res, next) => {
   if (req.params.userId) {
     const dayDetails = await DayDetail.find({ user: req.params.userId }).populate('user').populate('day');
-
     return res.status(200).json({
       success: true,
       count: dayDetails.length,
@@ -30,7 +29,7 @@ exports.getDayDetails = asyncHandler(async (req, res, next) => {
 exports.getSingleDayDetails = asyncHandler(async (req, res, next) => {
   const dayDetails = await DayDetail.find(
     { user: req.params.userId } && { day: req.params.dayId }
-  );
+  ).populate('user').populate('day');
 
   if (!dayDetails) {
     return next(

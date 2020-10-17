@@ -33,6 +33,10 @@ const DaySchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    dayNo: {
+      type: Number,
+      default: 0,
+    },
     photo: {
       type: String,
       default: 'no-photo.jpg',
