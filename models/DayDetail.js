@@ -1,10 +1,7 @@
 const mongoose = require('mongoose');
 
 const DayDetailSchema = new mongoose.Schema({
-  totalMark: {
-    type: Number,
-    default: 0,
-  },
+  
   dayPaperMark: {
     type: Number,
     default: 0,
@@ -18,6 +15,10 @@ const DayDetailSchema = new mongoose.Schema({
     default: 0,
   },
   lesson3Mark: {
+    type: Number,
+    default: 0,
+  },
+  totalMark: {
     type: Number,
     default: 0,
   },
