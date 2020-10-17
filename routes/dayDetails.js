@@ -10,8 +10,8 @@ const {
 const DayDetail = require('../models/DayDetail');
 
 // Include other resourses routers
-const lessonRouter = require('./days');
-const lessonRouter = require('./auth');
+// const lessonRouter = require('./days');
+// const lessonRouter = require('./auth');
 
 const router = express.Router({ mergeParams: true });
 

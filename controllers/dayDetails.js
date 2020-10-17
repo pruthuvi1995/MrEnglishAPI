@@ -10,7 +10,7 @@ const ErrorResponse = require('../utils/errorResponse');
 
 exports.getDayDetails = asyncHandler(async (req, res, next) => {
   if (req.params.userId) {
-    const dayDetails = await DayDetail.find({ user: req.params.userId }).populate('user','day');
+    const dayDetails = await DayDetail.find({ user: req.params.userId }).populate('user').populate('day');
 
     return res.status(200).json({
       success: true,
