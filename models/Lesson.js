@@ -15,21 +15,22 @@ const LessonSchema = new mongoose.Schema({
     ref: 'Day',
     required: true,
   },
-
-  isCompleted: {
-    type: Boolean,
-    default: false,
+  lesson:{
+    type: String,
+    required: [true, 'Please add a lesson'],
   },
-  isActivated: {
-    type: Boolean,
-    default: false,
-  },
-  marks: {
-    type: Number,
-    min: [0, 'Marks must be at least 0'],
-    max: [100, 'Marks must can not be more than 100'],
+  mcq:{
+    type: String,
+    required: [true, 'Please add mcq'],
   },
   imageURL: {
+    type: String,
+    // match: [
+    //   /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/,
+    //   'Please use a valid URL with HTTP or HTTPS',
+    // ],
+  },
+  videoURL: {
     type: String,
     // match: [
     //   /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/,
