@@ -20,11 +20,11 @@ const LessonSchema = new mongoose.Schema({
     required: [true, 'Please add a lesson'],
   },
   mcqTrail:{
-    type: Map,
+    type: [],
     required: [true, 'Please add mcq'],
   },
   mcqLesson:{
-    type: Map,
+    type: [],
     required: [true, 'Please add mcq'],
   },
   imageURL: {
