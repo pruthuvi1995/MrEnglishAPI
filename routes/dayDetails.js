@@ -31,6 +31,6 @@ router.route('/:userId/:dayId').get(
 
 router.route('/:dayId').post(protect, addDayDetails);
 
-router.route('/:id').post(protect, updateDayDetails);
+router.route('/:id').put(protect, updateDayDetails);
 
 module.exports = router;

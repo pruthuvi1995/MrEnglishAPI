@@ -69,7 +69,7 @@ exports.addDayDetails = asyncHandler(async (req, res, next) => {
 });
 
 // @desc    update day details
-// @route   PUT /api/v1/dayDetails/:id
+// @route   PUT /api/v1/dayDetails/id
 // @access  Private
 
 exports.updateDayDetails = asyncHandler(async (req, res, next) => {
@@ -90,6 +90,6 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 
   return res.status(200).json({
     success: true,
-    data: dayDetail,
+    data: dayDetails,
   });
 });

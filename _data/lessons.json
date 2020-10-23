@@ -1,175 +1,163 @@
 [
   {
-    "title": "Articlcczxce - part 01",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "lesson":"rfdsfdf",
+    "title": "Prepositions-time",
+    "description": "කාලය සමඟ භාවිතා වන ප්‍රධාන prepositions කිහිපයක් මෙහිදී සාකච්ඡා'කෙරේ.",
+    "lesson":"කාලය සමඟ භාවිතා වන ප්‍රධාන prepositions කිහිපයක් මෙහිදී සාකච්ඡා'කෙරේ. මෙහිදී ඔබ විශේෂයෙන්ම අවබෝධ කරගත යුත්තේ එකම preposition එක place-preposition හා time-preposition ලෙස යෙදෙන අවස්ථා ඇත. එම නිසා යම්තාක් දුරට පැටලිලි සහගත විය හැකිය. මේ නිසා prepositions පිළිබඳව නිවැරිදි අදහසක් ඉංග්‍රීසි ඉගෙන ගන්නා අයෙකු ලෙස ඔබ තුළ තිබීම අත්‍යවශ්‍ය වේ. ඒ සඳහා මෙම පාඩම් මාලාව විශාල රුකුලක් වනු නොවනුමානය.",
     "day": "5f8ec68c9128332074ca8a86",
     "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew.",
     "mcqTrail":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
+      {"qText": "My birthday is ............ May",
+      "mark":0.2,
+        "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "in",
+        "on",
+        "at"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "in"
+    },{"qText": "My examination is .............. the 12th of November.",
+      "mark":0.2,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "in",
+        "at",
+        "on"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "on"
+    },{"qText": "Suresh has been working in a bank ......... 2003.",
+      "mark":0.2,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "in",
+        "since",
+        "on"
       ],
-      "correctAnswer": "an"
+      "correctAnswer": "since"
+    },
+    {"qText": "I don't like it when people phone ........... I'm having my lunch.",
+      "mark":0.2,
+      "type": "mcq",
+      "answers": [
+        "on",
+        "while",
+        "for"
+      ],
+      "correctAnswer": "while"
+    },
+    {"qText": "He has't worked .......... he lost his job.",
+      "mark":0.2,
+      "type": "mcq",
+      "answers": [
+        "since",
+        "for",
+        "by"
+      ],
+      "correctAnswer": "since"
     }
     ],
     "mcqLesson":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
+      {"qText": "Which sentence is not correct?",
+        "mark":0.05,
+        "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "We went to Turkey in June",
+        "Let's go to the cinema in the weekend.",
+        "I'll finish the work in the morining."
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "Let's go to the cinema in the weekend."
+    },{"qText": "Which sentence is not correct?",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "I want to go on holiday at New year.",
+        "I have got a meeting at 10' o clock.",
+        "I'm having a party at my birthday."
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "I'm having a party at my birthday."
+    },{"qText": "Which sentence is not correct?",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "I saw Adikari yesterday.",
+        "I went to the university 1996.",
+        "Shall we go out tonight."
       ],
-      "correctAnswer": "an"
+      "correctAnswer": "I went to the university 1996."
+    },
+    {"qText": "Which sentence is correct?",
+      "mark":0.05,
+      "type": "mcq",
+      "answers": [
+        "We are going to the theatre on tomorrow night.",
+        "Shehani was born on 5th October.",
+        "I have got to go to work in Monday."
+      ],
+      "correctAnswer": "Shehani was born on 5th October."
+    },
+    {"qText": "We will be going ......... a trip to Anuradhapura ........... wesak season.",
+      "mark":0.05,
+      "type": "mcq",
+      "answers": [
+        "on, on",
+        "in, at)",
+        "on, at"
+      ],
+      "correctAnswer": "(on, at)"
     }
-    ],
-    "videoURL":"28oaxHHCaSU"
-
-  },
- 
-  {
-    "title": "Articlcczxce - part 01",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "lesson":"rfdsfdf",
-    "day": "5f8ec68c9128332074ca8a86",
-    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew.",
-    "mcqTrail":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
+    ,{"qText": "Pawithra and Senuri have been in the same class .......... Five grade.",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "for",
+        "on",
+        "since"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "since"
+    },
+    {"qText": "Kevin has been studying music ........... Five years.",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "on",
+        "since",
+        "for"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "for"
+    },
+    {"qText": "Lunch is served ......... one o' clock.",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "at",
+        "in",
+        "on"
       ],
-      "correctAnswer": "an"
-    }
-    ],
-    "mcqLesson":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "at"
+    },
+    {"qText": "The train leaves .......... Five minutes.",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "at",
+        "in",
+        "on"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
+      "correctAnswer": "in"
+    },
+    {"qText": "Don't waste your time. Come ........ the evening. Because he will be talking with him ........... 6 o'clock.",
+      "mark":0.05,
+      "type": "mcq",
       "answers": [
-        "a",
-        "an",
-        "no article"
+        "in, untill",
+        "on, at",
+        "in, on"
       ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    }
-    ],
-    "videoURL":"28oaxHHCaSU"
-
-  },
-  
-  {
-    "title": "Articlcczxce - part 01",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "lesson":"rfdsfdf",
-    "day": "5f8ec68c9128332074ca8a86",
-    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew.",
-    "mcqTrail":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    }
-    ],
-    "mcqLesson":[
-      {"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
-    },{"qText": "Yesterday my sister bought .......... expensive phone.",
-      "answers": [
-        "a",
-        "an",
-        "no article"
-      ],
-      "correctAnswer": "an"
+      "correctAnswer": "in, untill"
     }
     ],
     "videoURL":"28oaxHHCaSU"
 
   }
+ 
+  
 ]
