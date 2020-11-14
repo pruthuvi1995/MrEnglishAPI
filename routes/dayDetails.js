@@ -4,6 +4,8 @@ const {
   getSingleDayDetails,
   addDayDetails,
   updateDayDetails,
+  getOtp,
+  verifyOtp
   // deleteSingleDayDetails,
 } = require('../controllers/dayDetails');
 
@@ -19,6 +21,10 @@ const router = express.Router({ mergeParams: true });
 const { protect } = require('../middleware/auth');
 
 router.route('/:userId').get(protect, getDayDetails);
+
+router.route('/getOtp').post(getOtp);
+
+router.route('/verify').post(verifyOtp);
 
 router.route('/:userId/:dayId').get(
   protect,

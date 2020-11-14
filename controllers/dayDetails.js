@@ -3,6 +3,10 @@ const Day = require('../models/Day');
 const User = require('../models/User');
 const asyncHandler = require('../middleware/async');
 const ErrorResponse = require('../utils/errorResponse');
+const axios = require('axios');
+// const otplib = require("otplib");
+// var speakeasy = require("speakeasy");
+
 
 // @desc    Get all day details
 // @route   GET /api/v1/dayDetails/:userId
@@ -93,3 +97,100 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
     data: dayDetails,
   });
 });
+
+// @desc    Get otp
+// @route   post /api/v1/dayDetails/getOtp
+// @access  Private
+
+exports.getOtp = asyncHandler(async (req, res, next) => {
+  const phoneNo = req.body.phoneNo;
+  const data = {
+    applicationId:"APP_059742",
+    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    subscriberId: "tel:".concat(phoneNo),
+    applicationMetaData:
+      { client: "WEBAPP",
+        device: "ANY",
+        os:"ANY",
+        appCode:"dd"
+  }
+}
+
+  // const data_json = JSON.stringify(data);
+
+  axios
+  .post('https://api.dialog.lk/subscription/otp/request', data)
+  .then(res => {
+    return res.status(200).json({
+      success: true,
+      data: res,
+    });
+  })
+  .catch(error => {
+    console.error(error);
+  })
+
+
+  // var secret = 1234;
+  //   const otp = speakeasy.totp({
+  //     secret: secret.base32,
+  //     encoding: 'base32',
+  //     digits:6,
+  //     step:60,
+  //     window:10
+  //   });
+  //   return res.status(200).json({
+  //     success: true,
+  //     data: otp,
+  //   });
+
+
+
+});
+
+// @desc    Varify otp
+// @route   Post /api/v1/dayDetails/verify
+// @access  Private
+
+exports.verifyOtp = asyncHandler(async (req, res, next) => {
+
+  const referenceNo = req.body.referenceNo;
+  const otp = req.body.otp;
+  const 
+  data = {
+    applicationId:"APP_059742",
+    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    referenceNo:referenceNo,
+    otp:otp
+}
+
+  // const data_json = JSON.stringify(data);
+
+  axios
+  .post('https://api.dialog.lk/subscription/otp/verify', data)
+  .then(res => {
+    return res.status(200).json({
+      success: true,
+      data: res,
+    });
+  })
+  .catch(error => {
+    console.error(error);
+  })
+
+
+//   var secret = 1234;
+//   const userOtp = req.body.otp;
+//       const expiry = speakeasy.totp.verify({
+//           secret: secret.base32,
+//           encoding: 'base32',
+//           token: userOtp,
+//           step:60,
+//           window:10
+// });
+//       return res.status(200).json({
+//         success: true,
+//         data: expiry,
+//       });
+  });
+
