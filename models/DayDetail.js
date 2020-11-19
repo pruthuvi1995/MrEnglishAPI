@@ -43,8 +43,8 @@ const DayDetailSchema = new mongoose.Schema({
     default: false,
   },
   isActive: {
-    type: Boolean,
-    default: false,
+    type: Date,
+    default: Date.now,   
   },
   day: {
     type: mongoose.Schema.ObjectId,

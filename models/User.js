@@ -27,6 +27,10 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add ur phone No'],
   },
+  isSubscribed: {
+    type: Boolean,
+    default: false,
+  },
   resetPasswordToken: String,
   resetPasswordExpire: Date,
   createdAt: {
