@@ -42,10 +42,6 @@ const DayDetailSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
   },
-  isActive: {
-    type: Boolean,
-    default: false, 
-  },
   activeDay: {
     type: String,
     default: '2020-01-01',   
