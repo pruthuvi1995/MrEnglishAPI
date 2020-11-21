@@ -26,6 +26,7 @@ const days = require('./routes/days');
 const lessons = require('./routes/lessons');
 const auth = require('./routes/auth');
 const dayDetails = require('./routes/dayDetails');
+const courses = require('./routes/courses');
 
 const app = express();
 
@@ -73,6 +74,8 @@ app.use('/api/v1/days', days);
 app.use('/api/v1/lessons', lessons);
 app.use('/api/v1/auth', auth);
 app.use('/api/v1/dayDetails', dayDetails);
+app.use('/api/v1/courses', courses);
+
 
 app.use(errorHandler);
 
