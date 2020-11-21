@@ -27,7 +27,11 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add ur phone No'],
   },
-  isSubscribed: {
+  isSubscribed01: {
+    type: Boolean,
+    default: false,
+  },
+  isSubscribed02: {
     type: Boolean,
     default: false,
   },
