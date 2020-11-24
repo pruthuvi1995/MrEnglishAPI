@@ -113,10 +113,16 @@ exports.updateDetails = asyncHandler(async (req, res, next) => {
     phoneNo: req.body.phoneNo,
   };
 
-  const user = await User.findByIdAndUpdate(req.user.id, fieldsToUpdate, {
+  const user = await User.findByIdAndUpdate(req.user.id, req.body, {
     new: true,
     runValidators: true,
   });
+  
+  if (!user) {
+    return next(
+      new ErrorResponse(`Resources not found with id of ${req.params.id}`)
+    );
+  }
 
   res.status(200).json({
     success: true,
