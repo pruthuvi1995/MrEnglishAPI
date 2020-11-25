@@ -27,6 +27,9 @@ const lessons = require('./routes/lessons');
 const auth = require('./routes/auth');
 const dayDetails = require('./routes/dayDetails');
 const courses = require('./routes/courses');
+const years = require('./routes/years');
+const papers = require('./routes/papers');
+const yearDetails = require('./routes/yearDetails');
 
 const app = express();
 
@@ -75,6 +78,9 @@ app.use('/api/v1/lessons', lessons);
 app.use('/api/v1/auth', auth);
 app.use('/api/v1/dayDetails', dayDetails);
 app.use('/api/v1/courses', courses);
+app.use('/api/v1/years', years);
+app.use('/api/v1/papers', papers);
+app.use('/api/v1/yearDetails', yearDetails);
 
 
 app.use(errorHandler);

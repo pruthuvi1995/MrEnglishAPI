@@ -1,20 +1,21 @@
 [
-  {
-    "title": "Article - part 01",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "isCompleted": true,
-    "isActivated": false
-  },
-  {
-    "title": "Article part02",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "isCompleted": false,
-    "isActivated": false
-  },
-  {
-    "title": "ArtizxZXcle - part 03",
-    "description": "afasv asdvvasfv sdvsv sdvvsdc sdcsdc sdc sdc sdcc sdc sdc sdc SDC sdcvsd ddc.",
-    "isCompleted": true,
-    "isActivated": false
-  }
-]
+    {
+      "title":"sdfsdfsdfsdf",
+      "noOfLessons": 2,
+      "dayNo": 1
+     
+    },
+    {
+      "title":"sdfsdfqqqqqqqqqsdfsdf",
+      "noOfLessons": 0,
+      "dayNo": 2
+     
+    },
+    {
+      "title":"sdfsddsdfvdsyyyyyyyfsdfsdf",
+      "noOfLessons": 0,
+      "dayNo": 3
+     
+    }
+  ]
+  
