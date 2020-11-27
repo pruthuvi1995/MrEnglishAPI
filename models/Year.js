@@ -15,6 +15,10 @@ const YearSchema = new mongoose.Schema(
       type: Date,
       default: Date.now,
     },
+    amount:{
+      type: String,
+      required: [true, 'Please add an amount'],
+    },
   },
   {
     toJSON: { virtuals: true },

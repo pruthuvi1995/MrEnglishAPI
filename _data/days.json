@@ -2,19 +2,22 @@
     {
       "title":"sdfsdfsdfsdf",
       "noOfLessons": 2,
-      "dayNo": 1
+      "dayNo": 1,
+      "amount":"10"
      
     },
     {
       "title":"sdfsdfqqqqqqqqqsdfsdf",
       "noOfLessons": 0,
-      "dayNo": 2
+      "dayNo": 2,
+      "amount":"10"
      
     },
     {
       "title":"sdfsddsdfvdsyyyyyyyfsdfsdf",
       "noOfLessons": 0,
-      "dayNo": 3
+      "dayNo": 3,
+      "amount":"10"
      
     }
   ]
