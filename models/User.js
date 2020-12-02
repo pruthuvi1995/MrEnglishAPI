@@ -27,6 +27,14 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add ur phone No'],
   },
+  mark: {
+    type: Number,
+    default: 0,
+  },
+  noOfFinishedLesson: {
+    type: Number,
+    default: 0,
+  },
   isSubscribed: {
     type: Boolean,
     default: false,
