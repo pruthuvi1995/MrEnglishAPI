@@ -31,7 +31,7 @@ const UserSchema = new mongoose.Schema({
     type: Number,
     default: 0,
   },
-  noOfFinishedLesson: {
+  noOfFinishedLessons: {
     type: Number,
     default: 0,
   },
