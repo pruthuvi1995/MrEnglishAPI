@@ -32,10 +32,10 @@ exports.getYearDetails = asyncHandler(async (req, res, next) => {
 
 exports.getSingleYearDetails = asyncHandler(async (req, res, next) => {
   const yearDetails = await YearDetail.find(
-    { user: req.params.userId } && { year: req.params.yearId }
+    {$and: [{user: req.params.userId}, {day: req.params.dayId }]}
   ).populate('user').populate('year');
 
-  if (!yearDetails) {
+  if (yearDetails.length == 0) {
     return next(
       new ErrorResponse(
         `No review found with the id of ${req.params.userId} and ${req.params.yearId}`,
@@ -55,16 +55,18 @@ exports.getSingleYearDetails = asyncHandler(async (req, res, next) => {
 // @access  Private
 
 exports.addYearDetails = asyncHandler(async (req, res, next) => {
-  req.body.user = req.user.userId;
+  req.body.user = req.params.userId;
   req.body.year = req.params.yearId;
 
-  const year = await Year.findById(req.params.yearId);
+  const year = await Year.find( {$and: [{user: req.body.user}, {day: req.body.day }]});
 
-  if (!year) {
-    return next(new ErrorResponse(`No year with the id`, 404));
-  }
+  if (dayDetails.length != 0) {
+    return res.status(200).json({
+      success: false,
+      data: yearDetails,
+    });}
 
-  const yearDetail = await YearDetail.create(req.body);
+  var yearDetail = await YearDetail.create(req.body);
 
   return res.status(201).json({
     success: true,

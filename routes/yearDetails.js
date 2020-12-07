@@ -26,9 +26,9 @@ router.route('/:userId/:yearId').get(
   //   select: 'title',
   // }),
   getSingleYearDetails
-);
+).post(protect, addYearDetails);
 
-router.route('/:yearId').post(protect, addYearDetails);
+
 
 router.route('/:id').put(protect, updateYearDetails);
 

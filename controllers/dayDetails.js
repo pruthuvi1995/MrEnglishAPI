@@ -32,10 +32,10 @@ exports.getDayDetails = asyncHandler(async (req, res, next) => {
 
 exports.getSingleDayDetails = asyncHandler(async (req, res, next) => {
   const dayDetails = await DayDetail.find(
-    { user: req.params.userId } && { day: req.params.dayId }
+    {$and: [{user: req.params.userId}, {day: req.params.dayId }]}
   ).populate('user').populate('day');
 
-  if (!dayDetails) {
+  if (dayDetails.length == 0) {
     return next(
       new ErrorResponse(
         `No review found with the id of ${req.params.userId} and ${req.params.dayId}`,
@@ -51,19 +51,19 @@ exports.getSingleDayDetails = asyncHandler(async (req, res, next) => {
 });
 
 // @desc    add day details
-// @route   POST /api/v1/dayDetails/:dayId
+// @route   POST /api/v1/dayDetails/:userId/:dayId
 // @access  Private
 
 exports.addDayDetails = asyncHandler(async (req, res, next) => {
-  req.body.user = req.user.userId;
+  req.body.user = req.params.userId;
   req.body.day = req.params.dayId;
 
   const dayDetails = await DayDetail.find(
-    { user: req.body.user } && { day: req.body.day }
+    {$and: [{user: req.body.user}, {day: req.body.day }]}
   )
 
-  if (dayDetails) {
-    return res.status(201).json({
+  if (dayDetails.length != 0) {
+    return res.status(200).json({
       success: false,
       data: dayDetails,
   });}

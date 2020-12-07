@@ -33,9 +33,8 @@ router.route('/:userId/:dayId').get(
   //   select: 'title',
   // }),
   getSingleDayDetails
-);
+).post(protect, addDayDetails);
 
-router.route('/:dayId').post(protect, addDayDetails);
 
 router.route('/:id').put(protect, updateDayDetails);
 
