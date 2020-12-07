@@ -58,13 +58,17 @@ exports.addDayDetails = asyncHandler(async (req, res, next) => {
   req.body.user = req.user.userId;
   req.body.day = req.params.dayId;
 
-  const day = await Day.findById(req.params.dayId);
+  const dayDetails = await DayDetail.find(
+    { user: req.body.user } && { day: req.body.day }
+  )
 
-  if (!day) {
-    return next(new ErrorResponse(`No day with the id`, 404));
-  }
+  if (dayDetails) {
+    return res.status(201).json({
+      success: false,
+      data: dayDetails,
+  });}
 
-  const dayDetail = await DayDetail.create(req.body);
+  var dayDetail = await DayDetail.create(req.body);
 
   return res.status(201).json({
     success: true,
