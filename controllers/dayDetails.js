@@ -150,7 +150,7 @@ exports.getOtp = asyncHandler(async (req, res, next) => {
   // req.end()
 
   axios
-  .post('https://api.dialog.lk/subscription/otp/request', data)
+  .post('https://api.dialog.lk/subscription/otp/request',data,{ headers: {         'Content-Type': 'application/json'     } } )
   .then(res => {
     return res.status(200).json({
       success: true,
