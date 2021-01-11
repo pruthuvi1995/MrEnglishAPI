@@ -108,58 +108,58 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 // @access  Private
 
 exports.getOtp = asyncHandler(async (req, res, next) => {
-  const phoneNo = req.body.phoneNo;
+  const phoneNo = req.body.phoneNo.toString;
   const data = {
-    applicationId:"APP_059742",
-    password: "8a6a6b5e4d4b95e97f285bd896819165",
-    subscriberId: "tel:".concat(phoneNo),
+    applicationId:'APP_059742',
+    password: '8a6a6b5e4d4b95e97f285bd896819165',
+    subscriberId: 'tel:'.concat(phoneNo),
     applicationMetaData:
-      { client: "WEBAPP",
-        device: "ANY",
-        os:"ANY",
-        appCode:"dd"
+      { client: 'WEBAPP',
+        device: 'ANY',
+        os:'ANY',
+        appCode:'dd'
   }
 }
 
-  const data_json = JSON.stringify(data);
+  // const data_json = JSON.stringify(data);
 
-  const options = {
-    hostname: 'https://api.dialog.lk',
-    port: 443,
-    path: '/subscription/otp/request',
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Content-Length': data_json.length
-    }
-  }
+  // const options = {
+  //   hostname: 'https://api.dialog.lk',
+  //   port: 443,
+  //   path: '/subscription/otp/request',
+  //   method: 'POST',
+  //   headers: {
+  //     'Content-Type': 'application/json',
+  //     'Content-Length': data_json.length
+  //   }
+  // }
 
-  const req = https.request(options, res => {
-    console.log(`statusCode: ${res.statusCode}`)
+  // const req = https.request(options, res => {
+  //   console.log(`statusCode: ${res.statusCode}`)
   
-    res.on('data', d => {
-      process.stdout.write(d)
-    })
-  })
-  
-  req.on('error', error => {
-    console.error(error)
-  })
-  
-  req.write(data_json)
-  req.end()
-
-  // axios
-  // .post('https://api.dialog.lk/subscription/otp/request', data)
-  // .then(res => {
-  //   return res.status(200).json({
-  //     success: true,
-  //     data: res,
-  //   });
+  //   res.on('data', d => {
+  //     process.stdout.write(d)
+  //   })
   // })
-  // .catch(error => {
-  //   console.error(error);
+  
+  // req.on('error', error => {
+  //   console.error(error)
   // })
+  
+  // req.write(data_json)
+  // req.end()
+
+  axios
+  .post('https://api.dialog.lk/subscription/otp/request', data)
+  .then(res => {
+    return res.status(200).json({
+      success: true,
+      data: res,
+    });
+  })
+  .catch(error => {
+    console.error(error);
+  })
 
 
 
