@@ -5,14 +5,14 @@ const ErrorResponse = require('../utils/errorResponse');
 
 // @desc    Get all papers
 // @route   GET /api/v1/papers
-// @route   GET /api/v1/days/:yearId/papers
+// @route   GET /api/v1/years/:yearId/papers
 // @access  Private
 
 exports.getPapers = asyncHandler(async (req, res, next) => {
   let query;
 
   if (req.params.yearId) {
-    query = Paper.find({ year: req.params.paperId });
+    query = Paper.find({ year: req.params.yearId });
   } else {
     query = Paper.find().populate('year');
   }

@@ -109,14 +109,14 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 exports.getOtp = asyncHandler(async (req, res, next) => {
   const phoneNo = req.body.phoneNo;
   const data = {
-    applicationId:"APP_059742",
-    password: "8a6a6b5e4d4b95e97f285bd896819165",
-    subscriberId: "tel:".concat(phoneNo),
-    applicationMetaData:
-      { client: "WEBAPP",
-        device: "ANY",
-        os:"ANY",
-        appCode:"dd"
+    "applicationId":"APP_059742",
+   " password": "8a6a6b5e4d4b95e97f285bd896819165",
+    "subscriberId": "tel:".concat(phoneNo),
+    "applicationMetaData":
+      { "client": "WEBAPP",
+        "device": "ANY",
+        "os":"ANY",
+        "appCode":"dd"
   }
 }
 
