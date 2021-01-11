@@ -4,8 +4,9 @@ const User = require('../models/User');
 const asyncHandler = require('../middleware/async');
 const ErrorResponse = require('../utils/errorResponse');
 const axios = require('axios');
-// const otplib = require("otplib");
-// var speakeasy = require("speakeasy");
+const https = require('https')
+
+
 
 
 // @desc    Get all day details
@@ -109,44 +110,58 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 exports.getOtp = asyncHandler(async (req, res, next) => {
   const phoneNo = req.body.phoneNo;
   const data = {
-    "applicationId":"APP_059742",
-   " password": "8a6a6b5e4d4b95e97f285bd896819165",
-    "subscriberId": "tel:".concat(phoneNo),
-    "applicationMetaData":
-      { "client": "WEBAPP",
-        "device": "ANY",
-        "os":"ANY",
-        "appCode":"dd"
+    applicationId:"APP_059742",
+    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    subscriberId: "tel:".concat(phoneNo),
+    applicationMetaData:
+      { client: "WEBAPP",
+        device: "ANY",
+        os:"ANY",
+        appCode:"dd"
   }
 }
 
-  // const data_json = JSON.stringify(data);
+  const data_json = JSON.stringify(data);
 
-  axios
-  .post('https://api.dialog.lk/subscription/otp/request', data)
-  .then(res => {
-    return res.status(200).json({
-      success: true,
-      data: res,
-    });
+  const options = {
+    hostname: 'https://api.dialog.lk',
+    port: 443,
+    path: '/subscription/otp/request',
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Content-Length': data_json.length
+    }
+  }
+
+  const req = https.request(options, res => {
+    console.log(`statusCode: ${res.statusCode}`)
+  
+    res.on('data', d => {
+      process.stdout.write(d)
+    })
   })
-  .catch(error => {
-    console.error(error);
+  
+  req.on('error', error => {
+    console.error(error)
   })
+  
+  req.write(data_json)
+  req.end()
 
-
-  // var secret = 1234;
-  //   const otp = speakeasy.totp({
-  //     secret: secret.base32,
-  //     encoding: 'base32',
-  //     digits:6,
-  //     step:60,
-  //     window:10
-  //   });
+  // axios
+  // .post('https://api.dialog.lk/subscription/otp/request', data)
+  // .then(res => {
   //   return res.status(200).json({
   //     success: true,
-  //     data: otp,
+  //     data: res,
   //   });
+  // })
+  // .catch(error => {
+  //   console.error(error);
+  // })
+
+
 
 
 
