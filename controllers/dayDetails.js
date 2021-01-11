@@ -151,7 +151,7 @@ let response;
   // req.end()
 
   axios
-  .post('https://api.dialog.lk/subscription/otp/request',data,{ headers: {         'Content-Type': 'application/json'     } } )
+  .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: {         'Content-Type': 'application/json'     } } )
   .then(res => {
     
       response=res;
