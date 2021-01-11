@@ -108,9 +108,9 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 // @access  Private
 
 exports.getOtp = asyncHandler(async (req, res, next) => {
-  var res1 = res;
+let response;
   const phoneNo = req.body.phoneNo.toString;
-  const data = {
+  const details = {
     applicationId:'APP_059742',
     password: '8a6a6b5e4d4b95e97f285bd896819165',
     subscriberId: 'tel:'.concat(phoneNo),
@@ -153,16 +153,18 @@ exports.getOtp = asyncHandler(async (req, res, next) => {
   axios
   .post('https://api.dialog.lk/subscription/otp/request',data,{ headers: {         'Content-Type': 'application/json'     } } )
   .then(res => {
-    return res1.status(200).json({
-      success: true,
-      data: res,
-    });
+    
+      response=res;
+   
   })
   .catch(error => {
     console.error(error);
   })
 
-
+  return res.status(200).json({
+    success: true,
+    data: response,
+  });
 
 
 
