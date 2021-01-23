@@ -135,7 +135,6 @@ let response;
 
   return res.status(200).json({
     success: true,
-    data: data,
   });
 
 
@@ -154,37 +153,24 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
   data = {
     applicationId:"APP_059742",
     password: "8a6a6b5e4d4b95e97f285bd896819165",
+   
+    otp:otp,
     referenceNo:referenceNo,
-    otp:otp
 }
 
-  // const data_json = JSON.stringify(data);
 
   axios
   .post('https://api.dialog.lk/subscription/otp/verify', data)
   .then(res => {
-    return res.status(200).json({
-      success: true,
-      data: res,
-    });
+    console.log(res);
+    response=res;
   })
   .catch(error => {
     console.error(error);
   })
+  return res.status(200).json({
+    success: true,
+  });
 
-
-//   var secret = 1234;
-//   const userOtp = req.body.otp;
-//       const expiry = speakeasy.totp.verify({
-//           secret: secret.base32,
-//           encoding: 'base32',
-//           token: userOtp,
-//           step:60,
-//           window:10
-// });
-//       return res.status(200).json({
-//         success: true,
-//         data: expiry,
-//       });
   });
 
