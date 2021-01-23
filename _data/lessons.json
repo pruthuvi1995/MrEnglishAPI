@@ -1,161 +1,442 @@
 [
   {
-    "title": "Prepositions-time",
-    "description": "කාලය සමඟ භාවිතා වන ප්‍රධාන prepositions කිහිපයක් මෙහිදී සාකච්ඡා'කෙරේ.",
-    "lesson":"කාලය සමඟ භාවිතා වන ප්‍රධාන prepositions කිහිපයක් මෙහිදී සාකච්ඡා'කෙරේ. මෙහිදී ඔබ විශේෂයෙන්ම අවබෝධ කරගත යුත්තේ එකම preposition එක place-preposition හා time-preposition ලෙස යෙදෙන අවස්ථා ඇත. එම නිසා යම්තාක් දුරට පැටලිලි සහගත විය හැකිය. මේ නිසා prepositions පිළිබඳව නිවැරිදි අදහසක් ඉංග්‍රීසි ඉගෙන ගන්නා අයෙකු ලෙස ඔබ තුළ තිබීම අත්‍යවශ්‍ය වේ. ඒ සඳහා මෙම පාඩම් මාලාව විශාල රුකුලක් වනු නොවනුමානය.",
-    "day": "5f8ec68c9128332074ca8a86",
-    "imageURL": "EFFASDDC  Sc sdc sdcsvvwv wew.",
+    "title": "Articles - Part 01",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන a හා an යන article 2 පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day01Part01",
+    "day": "5fbe669a6a8aeb05882966bd",
+    "imageURL": "",
     "mcqTrail":[
-      {"qText": "My birthday is ............ May",
-      "mark":0.2,
+      {"qText": "Nuwaraeliya has ............ ideal climate.",
+      "mark":0.1,
         "type": "mcq",
       "answers": [
-        "in",
-        "on",
-        "at"
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "in"
-    },{"qText": "My examination is .............. the 12th of November.",
-      "mark":0.2,
+      "correctAnswer": "an",
+      "review":"විවරණය:"
+    },{"qText": "I can't live on .......... Rs. 5000 a week.",
+      "mark":0.1,
       "type": "mcq",
       "answers": [
-        "in",
-        "at",
-        "on"
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "on"
-    },{"qText": "Suresh has been working in a bank ......... 2003.",
-      "mark":0.2,
+      "correctAnswer": "no article",
+      "review":"විවරණය:"
+    },{"qText": "Someone call ........... policeman.",
+      "mark":0.1,
       "type": "mcq",
       "answers": [
-        "in",
-        "since",
-        "on"
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "since"
+      "correctAnswer": "a",
+      "review":"විවරණය:"
     },
-    {"qText": "I don't like it when people phone ........... I'm having my lunch.",
-      "mark":0.2,
+    {"qText": "He is .......... Sri Lankan actor.",
+      "mark":0.1,
       "type": "mcq",
       "answers": [
-        "on",
-        "while",
-        "for"
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "while"
+      "correctAnswer": "a",
+      "review":"විවරණය:"
     },
-    {"qText": "He has't worked .......... he lost his job.",
-      "mark":0.2,
+    {"qText": "I want to be selected to ........... university.",
+      "mark":0.1,
       "type": "mcq",
       "answers": [
-        "since",
-        "for",
-        "by"
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "since"
+      "correctAnswer": "a",
+      "review":"විවරණය:"
+    },
+    {"qText": "Yesterday my sister bought .......... expensive phone.",
+      "mark":0.1,
+      "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "no article"
+      ],
+      "correctAnswer": "an",
+      "review":"විවරණය:"
+    },{"qText": "The only sport we enjoy is ......... rugby.",
+      "mark":0.1,
+      "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "no article"
+      ],
+      "correctAnswer": "no article",
+      "review":"විවරණය:"
+    },
+    {"qText": "He is ......... clever banker.",
+      "mark":0.1,
+      "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "no article"
+      ],
+      "correctAnswer": "a",
+      "review":"විවරණය:"
+    },
+    {"qText": "After 10 years she became ............ engineer.",
+      "mark":0.1,
+      "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "no article"
+      ],
+      "correctAnswer": "an",
+      "review":"විවරණය:"
+    },
+    {"qText": "We are having chicken for ........ dinner.",
+      "mark":0.1,
+      "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "no article"
+      ],
+      "correctAnswer": "no article",
+      "review":"විවරණය:"
     }
     ],
     "mcqLesson":[
-      {"qText": "Which sentence is not correct?",
-        "mark":0.05,
+      {"qText": "Have you bought .......... pencil?",
+        "mark":0.03,
         "type": "mcq",
       "answers": [
-        "We went to Turkey in June",
-        "Let's go to the cinema in the weekend.",
-        "I'll finish the work in the morining."
+        "a",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "Let's go to the cinema in the weekend."
-    },{"qText": "Which sentence is not correct?",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "I want to go on holiday at New year.",
-        "I have got a meeting at 10' o clock.",
-        "I'm having a party at my birthday."
-      ],
-      "correctAnswer": "I'm having a party at my birthday."
-    },{"qText": "Which sentence is not correct?",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "I saw Adikari yesterday.",
-        "I went to the university 1996.",
-        "Shall we go out tonight."
-      ],
-      "correctAnswer": "I went to the university 1996."
+      "correctAnswer": "a",
+      "review":"විවරණය:"
     },
-    {"qText": "Which sentence is correct?",
-      "mark":0.05,
+    {"qText": "She has got only ........ hour to complete the task.",
+      "mark":0.03,
       "type": "mcq",
-      "answers": [
-        "We are going to the theatre on tomorrow night.",
-        "Shehani was born on 5th October.",
-        "I have got to go to work in Monday."
-      ],
-      "correctAnswer": "Shehani was born on 5th October."
-    },
-    {"qText": "We will be going ......... a trip to Anuradhapura ........... wesak season.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "on, on",
-        "in, at)",
-        "on, at"
-      ],
-      "correctAnswer": "(on, at)"
-    }
-    ,{"qText": "Pawithra and Senuri have been in the same class .......... Five grade.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "for",
-        "on",
-        "since"
-      ],
-      "correctAnswer": "since"
-    },
-    {"qText": "Kevin has been studying music ........... Five years.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "on",
-        "since",
-        "for"
-      ],
-      "correctAnswer": "for"
-    },
-    {"qText": "Lunch is served ......... one o' clock.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "at",
-        "in",
-        "on"
-      ],
-      "correctAnswer": "at"
-    },
-    {"qText": "The train leaves .......... Five minutes.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "at",
-        "in",
-        "on"
-      ],
-      "correctAnswer": "in"
-    },
-    {"qText": "Don't waste your time. Come ........ the evening. Because he will be talking with him ........... 6 o'clock.",
-      "mark":0.05,
-      "type": "mcq",
-      "answers": [
-        "in, untill",
-        "on, at",
-        "in, on"
-      ],
-      "correctAnswer": "in, untill"
-    }
+    "answers": [
+      "a",
+      "an",
+      "no article"
     ],
-    "videoURL":"28oaxHHCaSU"
+    "correctAnswer": "an",
+    "review":"විවරණය:"
+  },
+  {"qText": "Let's play ........ carrom.",
+    "mark":0.03,
+    "type": "mcq",
+  "answers": [
+    "a",
+    "an",
+    "no article"
+  ],
+  "correctAnswer": "no article",
+  "review":"විවරණය:"
+},
+{"qText": "Upali needs to join .......... university soon.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "........... oranges are grown in Kotte.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "an",
+"review":"විවරණය:"
+},
+{"qText": "Martin Wickramasinghe was ........... famous sri Lankan writer.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "Is that ........ his new vehicle?",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "no article",
+"review":"විවරණය:"
+},
+{"qText": "I bought some buns, 5 oranges and ..... bottle of water.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "There is a saying \".......... apple a day keeps the doctor away\".",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "an",
+"review":"විවරණය:"
+},
+{"qText": "It is ........... beautiful hotel in the town.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "It was ........ excellent meal last night.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "an",
+"review":"විවරණය:"
+},
+{"qText": "Have you ever been to ..... Kandy?",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "no article",
+"review":"විවරණය:"
+},
+{"qText": "Chamara told us ..... interesting story.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "an",
+"review":"විවරණය:"
+},
+{"qText": "Did you ..... Ann today?",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "no article",
+"review":"විවරණය:"
+},
+{"qText": "My sister wanys to become ...... lowyer.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "He joined .......... union when he started work.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "She fell and was taken to .............. hospital.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "How much weight can ....... ant carry?",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "an",
+"review":"විවරණය:"
+},
+{"qText": "I think I should buy ........ new shirt for my father.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "Look! There is ......... rocket in the sky.",
+  "mark":0.03,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "no article"
+],
+"correctAnswer": "a",
+"review":"විවරණය:"
+},
+{"qText": "My English teacher is a Mr. Karunarathne.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "False",
+"review":"විවරණය:"
+},
+{"qText": "My mother is a cook at a famous restaurant.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "True",
+"review":"විවරණය:"
+},
+{"qText": "They wanted catch some fish, but they only cayght an octopus.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "True",
+"review":"විවරණය:"
+},
+{"qText": "Sport playes an valuable role in my life.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "False",
+"review":"විවරණය:"
+},
+{"qText": "Pineapples are mainly grown in Nawala. ",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "True",
+"review":"විවරණය:"
+},
+{"qText": "A coconut tree is generally very tall.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "True",
+"review":"විවරණය:"
+},
+{"qText": "There are a eleven players in a football team.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "false",
+"review":"විවරණය:"
+},
+{"qText": "A honest man is always respected.",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "False",
+"review":"විවරණය:"
+},
+{"qText": "Tomorrow morning T will gomto a Colombo",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "False",
+"review":"විවරණය:"
+},
+{"qText": "This is my friend, Kamal",
+  "mark":0.04,
+  "type": "TF",
+"answers": [
+  "False",
+  "True"
+],
+"correctAnswer": "True",
+"review":"විවරණය:"
+}
+    ],
+    "videoURL":"HiAWSsfVvwM"
 
   }
  

@@ -113,7 +113,9 @@ let response;
   const details = {
     applicationId:'APP_059742',
     password: '8a6a6b5e4d4b95e97f285bd896819165',
-    subscriberId: 'tel:'.concat(phoneNo),
+    subscriberId: 'tel:94766289869',
+    version: '1.0',
+    action: '1',
     applicationMetaData:
       { client: 'WEBAPP',
         device: 'ANY',
@@ -121,37 +123,8 @@ let response;
         appCode:'dd'
   }
 }
-
-  // const data_json = JSON.stringify(data);
-
-  // const options = {
-  //   hostname: 'https://api.dialog.lk',
-  //   port: 443,
-  //   path: '/subscription/otp/request',
-  //   method: 'POST',
-  //   headers: {
-  //     'Content-Type': 'application/json',
-  //     'Content-Length': data_json.length
-  //   }
-  // }
-
-  // const req = https.request(options, res => {
-  //   console.log(`statusCode: ${res.statusCode}`)
-  
-  //   res.on('data', d => {
-  //     process.stdout.write(d)
-  //   })
-  // })
-  
-  // req.on('error', error => {
-  //   console.error(error)
-  // })
-  
-  // req.write(data_json)
-  // req.end()
-
   axios
-  .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: {         'Content-Type': 'application/json'     } } )
+  .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: { 'Content-Type': 'application/json'} } )
   .then(res => {
     console.log(res);
       response=res;
