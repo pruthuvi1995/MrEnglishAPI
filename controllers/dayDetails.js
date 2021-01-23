@@ -113,7 +113,7 @@ let response;
   const details = {
     applicationId:'APP_059742',
     password: '8a6a6b5e4d4b95e97f285bd896819165',
-    subscriberId: 'tel:94766289869',
+    subscriberId: 'tel:94'.concat(phoneNo),
     version: '1.0',
     action: '1',
     applicationMetaData:
