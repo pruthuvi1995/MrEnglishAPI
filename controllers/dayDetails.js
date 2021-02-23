@@ -147,7 +147,7 @@ let response;
 // @access  Private
 
 exports.verifyOtp = asyncHandler(async (req, res, next) => {
-
+  let response;
   const referenceNo = req.body.referenceNo;
   const otp = req.body.otp;
   const 
