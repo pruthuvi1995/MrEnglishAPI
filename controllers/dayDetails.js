@@ -160,7 +160,7 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
 
 
   axios
-  .post('https://api.dialog.lk/subscription/otp/verify', data)
+  .post('https://api.dialog.lk/subscription/otp/verify', data, { headers: { 'Content-Type': 'application/json'} })
   .then(res => {
     console.log(res['data']);
     response=res['data'];
