@@ -135,7 +135,7 @@ let response;
 
   return res.status(200).json({
     success: true,
-    data: response,
+    data: response.data,
   });
 
 
