@@ -182,30 +182,30 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
 // @access  Public
 
 exports.getSubs = asyncHandler(async (req, res, next) => {
-
-  const referenceNo = req.body.referenceNo;
-  const otp = req.body.otp;
-  const 
-  data = {
+  let response;
+  const phoneNo = req.body.phoneNo;
+ 
+  const data = {
     applicationId:"APP_059742",
     password: "8a6a6b5e4d4b95e97f285bd896819165",
-    otp:otp,
-    referenceNo:referenceNo,
+    subscriberId: phoneNo,
 }
 
 
   axios
-  .post('https://api.dialog.lk/subscription/otp/verify', data)
+  .post('https://api.dialog.lk/subscription/getStatus', data)
   .then(res => {
-    console.log(res);
-    response=res;
+    console.log(res['data']);
+    response=res['data'];
   })
   .catch(error => {
     console.error(error);
   })
   return res.status(200).json({
     success: true,
+    data: response,
   });
+
 
   });
 
