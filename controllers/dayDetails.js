@@ -162,14 +162,15 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
   axios
   .post('https://api.dialog.lk/subscription/otp/verify', data)
   .then(res => {
-    console.log(res);
-    response=res;
+    console.log(res['data']);
+    response=res['data'];
   })
   .catch(error => {
     console.error(error);
   })
   return res.status(200).json({
     success: true,
+    data: response,
   });
 
   });
