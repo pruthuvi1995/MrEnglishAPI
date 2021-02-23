@@ -127,7 +127,7 @@ let response;
   .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: { 'Content-Type': 'application/json'} } )
   .then(res => {
     console.log(res['data']);
-      response=res;
+      response=res['data'];
   })
   .catch(error => {
     console.error(error);
@@ -135,7 +135,7 @@ let response;
 
   return res.status(200).json({
     success: true,
-    data: res.data,
+    data: response,
   });
 
 
