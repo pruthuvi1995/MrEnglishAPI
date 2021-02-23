@@ -26,6 +26,8 @@ router.route('/getOtp').post(getOtp);
 
 router.route('/verify').post(verifyOtp);
 
+router.route('/getSubs').post(getSubs);
+
 router.route('/:userId/:dayId').get(
   protect,
   // advancedResults(DayDetail, {

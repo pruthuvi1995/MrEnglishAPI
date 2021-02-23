@@ -153,7 +153,40 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
   data = {
     applicationId:"APP_059742",
     password: "8a6a6b5e4d4b95e97f285bd896819165",
-   
+    otp:otp,
+    referenceNo:referenceNo,
+}
+
+
+  axios
+  .post('https://api.dialog.lk/subscription/otp/verify', data)
+  .then(res => {
+    console.log(res);
+    response=res;
+  })
+  .catch(error => {
+    console.error(error);
+  })
+  return res.status(200).json({
+    success: true,
+  });
+
+  });
+
+
+
+  // @desc    get subscription
+// @route   Post /api/v1/dayDetails/getSubs
+// @access  Public
+
+exports.getSubs = asyncHandler(async (req, res, next) => {
+
+  const referenceNo = req.body.referenceNo;
+  const otp = req.body.otp;
+  const 
+  data = {
+    applicationId:"APP_059742",
+    password: "8a6a6b5e4d4b95e97f285bd896819165",
     otp:otp,
     referenceNo:referenceNo,
 }
