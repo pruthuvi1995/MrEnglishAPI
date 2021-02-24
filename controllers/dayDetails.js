@@ -160,7 +160,7 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
 }
 
 
-  axios
+ await axios
   .post('https://api.dialog.lk/subscription/otp/verify', data, { headers: { 'Content-Type': 'application/json'} })
   .then(res => {
     console.log(res['data']);
@@ -193,7 +193,7 @@ exports.getSubs = asyncHandler(async (req, res, next) => {
 }
 
 
-  axios
+  await axios
   .post('https://api.dialog.lk/subscription/getStatus', data, { headers: { 'Content-Type': 'application/json'} })
   .then(res => {
     console.log(res['data']);
