@@ -210,3 +210,38 @@ exports.getSubs = asyncHandler(async (req, res, next) => {
 
   });
 
+   // @desc    payMoney
+// @route   Post /api/v1/dayDetails/pay
+// @access  Public
+
+exports.pay = asyncHandler(async (req, res, next) => {
+  let response;
+  const phoneNo = req.body.phoneNo;
+  const amount = req.body.amount;
+ 
+  const data = {
+    applicationId:"APP_059742",
+    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    externalTrxId: "1234567",
+    subscriberId: phoneNo,
+    amount: amount,
+}
+
+
+  await axios
+  .post('https://api.dialog.lk/caas/direct/debit', data, { headers: { 'Content-Type': 'application/json'} })
+  .then(res => {
+    console.log(res['data']);
+    response=res['data'];
+  })
+  .catch(error => {
+    console.error(error);
+  })
+  return res.status(200).json({
+    success: true,
+    data: response,
+  });
+
+
+  });
+

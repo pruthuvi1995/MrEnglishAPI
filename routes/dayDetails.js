@@ -7,6 +7,7 @@ const {
   getOtp,
   verifyOtp,
   getSubs,
+  pay,
   // deleteSingleDayDetails,
 } = require('../controllers/dayDetails');
 
@@ -28,6 +29,8 @@ router.route('/getOtp').post(getOtp);
 router.route('/verify').post(verifyOtp);
 
 router.route('/getSubs').post(getSubs);
+
+router.route('/pay').post(pay);
 
 router.route('/:userId/:dayId').get(
   protect,
