@@ -194,7 +194,7 @@ exports.getSubs = asyncHandler(async (req, res, next) => {
 
 
   axios
-  .post('https://api.dialog.lk/subscription/getStatus', data)
+  .post('https://api.dialog.lk/subscription/getStatus', data, { headers: { 'Content-Type': 'application/json'} })
   .then(res => {
     console.log(res['data']);
     response=res['data'];
