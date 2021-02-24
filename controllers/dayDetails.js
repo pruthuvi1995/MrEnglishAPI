@@ -109,8 +109,7 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 
 exports.getOtp = asyncHandler(async (req, res, next) => {
 let response;
-  let phoneNo = req.body.phoneNo;
-  phoneNo = phoneNo.subString(1);
+  let phoneNo = req.body.phoneNo.substring(1);
 
   const details = {
     applicationId:'APP_059742',
