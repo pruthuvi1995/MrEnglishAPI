@@ -112,8 +112,8 @@ let response;
   let phoneNo = req.body.phoneNo.substring(1);
 
   const details = {
-    applicationId:'APP_059742',
-    password: '8a6a6b5e4d4b95e97f285bd896819165',
+    applicationId:'APP_060148',
+    password: 'efddbe453c0059fe2dcba2cbbe0478f0',
     subscriberId: 'tel:94'.concat(phoneNo),
     version: '1.0',
     action: '1',
@@ -153,8 +153,8 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
   const otp = req.body.otp;
   const 
   data = {
-    applicationId:"APP_059742",
-    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    applicationId:"APP_060148",
+    password: "efddbe453c0059fe2dcba2cbbe0478f0",
     otp:otp,
     referenceNo:referenceNo,
 }
@@ -187,8 +187,8 @@ exports.getSubs = asyncHandler(async (req, res, next) => {
   const phoneNo = req.body.phoneNo;
  
   const data = {
-    applicationId:"APP_059742",
-    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    applicationId:"APP_060148",
+    password: "efddbe453c0059fe2dcba2cbbe0478f0",
     subscriberId: phoneNo,
 }
 
@@ -220,8 +220,8 @@ exports.pay = asyncHandler(async (req, res, next) => {
   const amount = req.body.amount;
  
   const data = {
-    applicationId:"APP_059742",
-    password: "8a6a6b5e4d4b95e97f285bd896819165",
+    applicationId:"APP_060148",
+    password: "efddbe453c0059fe2dcba2cbbe0478f0",
     externalTrxId: "1234567",
     subscriberId: phoneNo,
     amount: amount,
