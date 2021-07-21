@@ -1,0 +1,280 @@
+[
+  {
+    "title": "The article ",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන The article පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ. පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day13Lesson01",
+    "day": "6065aa5ec75cd45a05afec1f",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "The only sport we enjoy is ................. rugby.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": "no article",
+      "review":""
+    },
+    {"qText": "I kept your phone at ............ office.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": "the",
+    "review":""
+  },
+  {"qText": "She is ............ nurse.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "a",
+    "an",
+    "the",
+    "no article"
+  ],
+  "correctAnswer": "a",
+  "review":""
+},
+{"qText": "My wife doesn't like ............... milk.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "the",
+  "no article"
+],
+"correctAnswer": "no article",
+"review":""
+},
+{"qText": "River Kelani is ............... widest river in Sri Lanka.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "a",
+  "an",
+  "the",
+  "no article"
+],
+"correctAnswer": "the",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "............ price of petrol keeps rising.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.06,
+        "type": "mcq",
+      "answers": [
+        "a",
+"an",
+"the",
+"no article" 
+      ],
+      "correctAnswer": "the",
+      "review":"පෙට්‍රල් මිල unique වේ."
+    },
+    {"qText": "He is ............... member of our club. ........... club is very famous in our country.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.06,
+      "type": "mcq",
+    "answers": [
+      "a, a",
+"an, the",
+"a, the",
+"a, no article" 
+    ],
+    "correctAnswer": "a, the",
+    "review":"දෙවන අවස්ථාවේ 'club' යන්න පළමු අවස්ථාවේ සඳහන් කල 'club ' යන්නම හඟවයි. එය විශේෂ වන බැවින් 'the' article යෙදේ."
+  },
+  {"qText": "You can do the work if you have .................. patience.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.06,
+    "type": "mcq",
+  "answers": [
+    "a",
+"an",
+"the",
+"no article"
+  ],
+  "correctAnswer": "no article",
+  "review":"patience (ඉවසීම) uncountable වේ. articles යෙදෙන්නේ නැත."
+},
+{"qText": ".......... old man returned with ............. dog. ............. dog was very big.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "a, a, the",
+"an, a, the",
+"the, a,  the",
+"an, no article, no article"
+],
+"correctAnswer": "an, a, the",
+"review":"මෙහි දෙවන අවස්ථාවේ 'බල්ලෝ' යන්නෙන් අපි කලින් කතා කල බල්ලා ආමන්ත්‍රණය කෙරේ. 'The' article යෙදේ."
+},
+{"qText": "Mount Everest is in ................ Himalayas.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"Himalayas මේ ලෝකයේ එකක් පමණක් ඇත. (unique)"
+},
+{"qText": "You can pay the bill at .................. bank.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"ඔබට බිල බැංකුවෙන් ගෙවිය හැකි බව පැවසේ. bank යන්නෙන් සමස්ත බැංකු සියල්ලම අදහස් කෙරේ."
+},
+{"qText": "It was ................ excellent meal last night.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "an",
+"review":"noun එක vowel sound වලින් ආරම්භ වේ නම් an article යෙදේ."
+},
+{"qText": "We usually have ....................... dinner at nine.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "no article",
+"review":"dinner, lunch, breakfast වැනි meals වලට ඉදිරියෙන් article නොයෙදේ."
+},
+{"qText": "Could you turn off ............... light when you leave the room.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"ඔබට බල්බ එක නිවිය හැකිද බව අසයි. මෙම බල්බය අපි දන්නා විශේෂ එකක් බැවින් 'the' article යෙදේ."
+},
+{"qText": "I go to ............ theater very often.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"theater යන්නෙන් සමස්ත සිනමා ශාලාම අදහස් කෙරේ."
+},
+{"qText": "Do you know how to use .................. computer?",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "a",
+"review":"පරිඝනකයක් යන්න අර්ථවත් කිරීමට 'a' article යෙදේ."
+},
+{"qText": "It is ............ largest producer of computer keyboards in the world.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"superlative adjectives වලට කලින් 'the' article යෙදේ."
+},
+{"qText": ".............. Andes are in South America.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"Andes කඳු ලොවටම එකක් ඇත. unique"
+},
+{"qText": "An appe a day keeps ........... doctor away.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"මෙහිදී apple ගෙඩියක් ආහාරයට ගැනීමෙන් අපි සෞඛ්‍ය සම්පන්න වන බවත් වෛද්‍යවරයා මුණ ගැසීමට අවශ්‍ය නැති බවත් පැවසේ. 'Doctor' සියලුම වෛද්‍යවරු හඳුන්වනු බැවින් 'the' article යෙදේ."
+},
+{"qText": "Could you close ............... door, please?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "a",
+"an",
+"the",
+"no article"
+],
+"correctAnswer": "the",
+"review":"මෙහිදී ඔබට දොර වහන්න බැරිද? අසයි. දොර යන්නෙන් අදහස් කරන්නේ අපි දන්නා විශේෂ දොරක් බැවින් 'the' article යෙදේ."
+}
+    ],
+    "videoURL":"7xiQLX-ZC4s"
+
+  }
+ 
+  
+]

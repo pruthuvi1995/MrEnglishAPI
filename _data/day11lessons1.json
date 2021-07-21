@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Past and future Perfect Tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන ඉංග්‍රීසි භාෂාවේ භාවිතා වන Past and future Perfect Tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ. පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day11Lesson01",
+    "day": "6065aa5ec75cd45a05afec1d",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "ඔහු මහනුවර ගිහිල්ලා තිබුණා යන්න නිවැරදිව ලියා ඇත්තේ,",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "He went to Kandy.",
+        "He has gone to Kandy.",
+        "He had gone to Kandy."
+      ],
+      "correctAnswer": "He had gone to Kandy.",
+      "review":""
+    },
+    {"qText": "සෑම විටම Past Perfect Tense එකකදී  had සමඟ යෙදෙන්නේ  verb (ක්‍රියාපදයේ)",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "Infinitive",
+      "Past",
+      "Past Participle"
+    ],
+    "correctAnswer": "Past Participle",
+    "review":""
+  },
+  {"qText": "Haroid had ............... about it for a while.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "know",
+    "knew",
+    "known"
+  ],
+  "correctAnswer": "known",
+  "review":""
+},
+{"qText": "I had ..........my dinner before I met him.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "has",
+  "have",
+  "had"
+],
+"correctAnswer": "had",
+"review":""
+},
+{"qText": "I washed the floor when the painter ................",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "went",
+  "had gone",
+  "has gone"
+],
+"correctAnswer": "had gone",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "Students ..................... their homes before their parents will call the principal.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "will reach",
+"have reached",
+"will have reached"
+      ],
+      "correctAnswer": "will have reached",
+      "review":"දෙමව්පියන්  විදුහල්පතිතුමාට කතා කරන්න කලින් ඔවුන් නිවෙස් කර ළඟා වී තිබෙනවා යන්න අර්ථවත් වේ.මේ අවස්ථා 2ම අනාගතයේදී සිදුවන අතර විදුහල්පතිතුමාට කතා කිරීම වන විට ඔවුන් අනාගතයේ ගෙදර ගිහිල්ල තියෙනවා සිදුවී ඇති බැවින්  future perfect tense වේ."
+    },
+    {"qText": "Before he will go to the university, Channa .............. a laptop.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "will buy",
+"have bought",
+"will have bought"
+    ],
+    "correctAnswer": "will have bought",
+    "review":"චන්න විශ්වවිද්‍යාලයට යාමට ප්‍රථමව  laptop එකක් මිලදී ගෙන තිබේවි යන්න අර්ථවත් වේ.මෙහිදී සිදුවීම් 2 කි.එනම් චන්න විශ්වවිද්‍යාලයට යාම හා laptop එකක් ගැනීමයි.අනාගතයේ ඔහු විශ්වවිද්‍යාලයට යන අවස්ථාව  වන විට චන්න  laptop එකක් මිලදී ගෙන තිබෙන බැවින් එය  future perfect tense ලෙස යෙදේ."
+  },
+  {"qText": "My father explained ....................... his job due to stress.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "why he quitted",
+"that he would quite",
+"that he had quit"
+  ],
+  "correctAnswer": "that he had quit",
+  "review":"මෙහිදී ඔබ තේරුම් ගත යුත්තේ බොහෝවිට අතීත කාලයේ එකිනෙකට සම්බන්ධ වාක්‍ය දෙකක් සැලකීමේදී ඈත අතීතයේ සිදු වූ දෙය past perfect වලින්ද ළඟ අතීතයේ සිදු වූ දෙය simple past වලින්ද යෙදිය යුතුය."
+},
+{"qText": "When I went there they .......................... finished eating dinner.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "have not",
+"did not",
+"had not"
+],
+"correctAnswer": "had not",
+"review":"මෙහි අර්ථය වන්නේ මම එහෙ යනකොට ඔවුන් රෑ කෑම අවසන් කරලා තිබුනේ නෑ යන්නයි. මුල් වාක්‍ය කොටස simple past  වන අතර අනෙක past perfect  ද විය යුතුය."
+},
+{"qText": "Why ...................... you gone there before I told you?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "did",
+"had",
+"have"
+],
+"correctAnswer": "had",
+"review":"ඇයි ඔබ එහි ගිහිල්ලා තිබුනේ මම ඔබට කියන්න කලින් යන්න අර්ථවත් වේ. beforeItoldyou යන්න simplepast වේ. එසේනම් එයට කලින් සිදු වී ඇති සිද්ධිය pastperfect විය යුතුය."
+},
+{"qText": "When you will get the permission I ........................ marrie",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "have got",
+"will have got",
+"will get"
+],
+"correctAnswer": "will have got",
+"review":"English language හි tenses ගැන සැලකීමේදී එක ක්‍රමයක් වන්නේ අනාගතයේ සිදුවන අකිනෙකට සම්බන්ධ සිද්ධි 2ක් සැලකීමේදී එකක් simple future  වන අතර අනෙක future perfect වේ."
+},
+{"qText": "I ........................... studied Italian before I ................ to Rome.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "had, moved",
+"had, had moved",
+"have, had moved"
+],
+"correctAnswer": "had, moved",
+"review":"මෙහි අර්ථය විය යුත්තේ මම රෝමයට යන්න කලින් ඉතාලි ඉගෙනගෙන තිබුනා යන්නයි. කලින්ම සිදු වී ඇත්තේ ඉතාලි ඒගෙන ගැනීම බැවින් එය pastperfect වේ."
+},
+{"qText": "By this time next year I will have ..................... from university.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "graduated",
+"graduation",
+"graduating"
+],
+"correctAnswer": "graduated",
+"review":"ඊලග අවුරුද්දේ මේ වනවිට මම university එකකින් උපාධිදාරියෙකු වී තිබෙනවා යන්න අර්ථවත් වේ. Futureperfect විය යුතුය."
+},
+{"qText": "She will have lived in Kurunegala ................... 5 years by next January.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "since",
+"for",
+"to"
+],
+"correctAnswer": "for",
+"review":"ලබන ජනවාරි සිට අවුරුදු 5ක් තිස්සේ ඇය කුරුණෑගල ජිවත් වෙලා තිබිල තියේවී යන්න අර්ථවත් වේ. Futureperfect විය යුතුය. අවුරුදු 5ක් තිස්සේ බැවින් for යෙදේ."
+}
+    ],
+    "videoURL":"YqHREc7nOlY"
+
+  }
+ 
+  
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Be verbs",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන be verbs පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day07Lesson01",
+    "day": "6065aa5ec75cd45a05afec19",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "You ............... very sad today.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correctAnswer": "are",
+      "review":""
+    },
+    {"qText": "This ............. my brother. He .............. a driver two years ago.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "is, is",
+      "is, was",
+      "were, was"
+    ],
+    "correctAnswer": "is, was",
+    "review":""
+  },
+  {"qText": "Now she is in the university. She ............. a teacher soon.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "",
+    "",
+    ""
+  ],
+  "correctAnswer": "",
+  "review":""
+},
+{"qText": "",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "",
+  "",
+  ""
+],
+"correctAnswer": "",
+"review":""
+},
+{"qText": "",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "",
+  "",
+  ""
+],
+"correctAnswer": "",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "",
+        "",
+        ""
+      ],
+      "correctAnswer": "",
+      "review":""
+    }
+    ],
+    "videoURL":"qUImLUbtzlc"
+
+  }
+ 
+  
+]

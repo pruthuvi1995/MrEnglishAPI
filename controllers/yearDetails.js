@@ -32,7 +32,7 @@ exports.getYearDetails = asyncHandler(async (req, res, next) => {
 
 exports.getSingleYearDetails = asyncHandler(async (req, res, next) => {
   const yearDetails = await YearDetail.find(
-    {$and: [{user: req.params.userId}, {day: req.params.dayId }]}
+    {$and: [{user: req.params.userId}, {year: req.params.yearId }]}
   ).populate('user').populate('year');
 
   if (yearDetails.length == 0) {

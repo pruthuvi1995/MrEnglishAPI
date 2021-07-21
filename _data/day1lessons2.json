@@ -1,0 +1,306 @@
+[
+  {
+    "title": "Nouns and verbs",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා nouns හා verbs පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day01Lesson02",
+    "day": "5fbe669a6a8aeb05882966bd",
+    "imageURL": "2",
+    "mcqTrail":[
+      {"qText": "noun එකක් මඟින්,",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "explain an action",
+        "name only people and animals",
+        "name people, animal, and things"
+      ],
+      "correctAnswer": "name people, animal, and things",
+      "review":""
+    },
+    {"qText": "uncountable nouns,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "can be countered",
+        "can not be countered",
+        "every time have plural (බහු වචන) form"
+      ],
+      "correctAnswer": "can not be countered",
+      "review":""
+    },
+    {"qText": "verbs මඟින්,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "explains an action",
+        "can't be divided into groups",
+        "doesn't play the main role of a sentence"
+      ],
+      "correctAnswer": "explains an action",
+      "review":""
+    },
+    {"qText": "verbs මඟින් sentence එකක්,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "වර්තමාන (present) ස්වරූපයෙන් පමණක් තබයි.",
+        "අතීත (past) ස්වරූපයෙන් පමණක් තබයි.",
+        "present, past ස්වරුප වලින් තබයි."
+      ],
+      "correctAnswer": "present, past ස්වරුප වලින් තබයි.",
+      "review":""
+    },
+    {"qText": "මෙයින් countable noun එකක් වන්නේ,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "fun",
+        "advice",
+        "leaf",
+        "dirt"
+      ],
+      "correctAnswer": "leaf",
+      "review":""
+    },
+    {"qText": "මෙයින් uncountable noun එකක් වන්නේ,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.15,
+        "type": "mcq",
+      "answers": [
+        "book",
+        "boy",
+        "work",
+        "tree"
+      ],
+      "correctAnswer": "work",
+      "review":""
+    },
+    {"qText": "මෙයින් නිවැරිදි sentence (වාක්‍ය) වන්නේ,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "This bread are delicious.",
+        "These bread are delicious.",
+        "This bread is delicious."
+      ],
+      "correctAnswer": "This bread is delicious.",
+      "review":""
+    }
+    ],
+    "mcqLesson":[
+      {"qText": "There is a tap inside the room.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        "mark":0.02,
+        "type": "වචනය uncountable nouns or countable nouns යන්න  තෝරන්න.",
+      "answers": [
+        "countable",
+        "uncountable"
+      ],
+      "correctAnswer": "countable",
+      "review":""
+    }, 
+    {"qText": "Countable nouns are always things that you can",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "touch",
+        "count",
+        "see"
+      ],
+      "correctAnswer": "count",
+      "review":"විවරණය: countable, uncountable ලෙස වෙන් කිරීමේ ප්‍රධානම නිර්ණායකය වන්නේ ගැනිය හැකි/නොහැකි බවයි."
+    },
+    {"qText": "The leaf, pen, and place are all,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "countable",
+        "uncountable",
+        "both"
+      ],
+      "correctAnswer": "countable",
+      "review":"විවරණය: මේවා ගැනිය හැකි නාම පද වේ."
+    },
+    {"qText": "Where are you most likely to notice the noun ''drink'' in its countable form?",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "in a restaurant",
+        "in a supermarket",
+        "in an article"
+      ],
+      "correctAnswer": "in a restaurant",
+      "review":"විවරණය: මෙහිදී ''drink'' යන්න නාමපදයක් ලෙස සැලකුවොත් එහි අර්ථය ''බීම'' යන්නයි. restaurant වලදී මට බීම 1ක් 2ක් ලෙස ප්‍රකාශ කළ හැකිය."
+    },
+    {"qText": "The receptionist at the desk gave me two .......................",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "informations",
+        "information",
+        "pieces of information"
+      ],
+      "correctAnswer": "pieces of information",
+      "review":"විවරණය: information (තොරතුර) uncountable noun වේ. ඒවා ගැනිය නොහැකිය. ඉහතින් දක්වා ඇති පරිදි ගැනිය හැකි ලෙස යෙදීමට piece, item ලෙස යෙදිය යුතුය."
+    },
+    {"qText": "My cousin is very beautiful. She has green eyes and .............",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "long hairs",
+        "long hair",
+        "a long hair"
+      ],
+      "correctAnswer": "a long hair",
+      "review":"විවරණය: මගේ  නෑදෑ වන සහෝදරයින්ට ලස්සන කොණ්ඩයක් ඇති බව මෙයින් කියවේ. hair, uncountable  බැවින් එහි plural(බහුවචන) ස්වරුපයක් නැත. කොණ්ඩයක් (1) ලෙස යෙදිය යුතු බැවින්  'a' article පැමිණිය යුතුය."
+    },
+    {"qText": "I go shopping today and I will buy ..................",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "two cloths",
+        "two cloth",
+        "two items of clothings"
+      ],
+      "correctAnswer": "two cloth",
+      "review":"විවරණය: cloth යන්න uncountable noun එකකි. Plural form තිබිය නොහැකිය. two items of clothings ලෙස තිබුනේ නම් එම පිළිතුරද නිවැරිදි වේ."
+    },
+    {"qText": "On friday, my friend Mahela went fishing and he caught .................",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "five of fish",
+        "five fishes",
+        "five fish"
+      ],
+      "correctAnswer": "five fish",
+      "review":"විවරණය: fish, uncountable වේ. plural form තිබිය නොහැකිය."
+    },
+    {"qText": "Your sister is a great pianist. She played ................. at the party.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "a lovely music",
+        "lovely music",
+        "some lovely musics"
+      ],
+      "correctAnswer": "a lovely music",
+      "review":"විවරණය: music යන්න uncountable වේ. මෙම sentence වල අර්ථය ඇය පාටියේදී රසවත් සංගීතයක් වාදනය කළ බවයි. සංගීතයක් යන්න තුළ එකක් යන්න පවතින නිසා 'a' article යෙදිය යුතුය. some lovely music ලෙස තිබුනේනම් 3 වන පිළිතුරද නිවැරිදි වේ."
+    },
+    {"qText": "Every morning before he comes to school, he spends one hour doing .................. That's how he stays so slim.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "some exercise",
+        "exercise",
+        "some piece of exercise"
+      ],
+      "correctAnswer": "exercise",
+      "review":"විවරණය: මෙහිදී ඔහු පැයක කාලයක් ව්‍යායාම කරන බව සඳහන් වේ. exercise යන්න countable, uncountable දෙයාකාරයෙන්ම යෙදේ.මෙහිදී some යන වචනය සමඟ plural form එනම් exercises ලෙස යෙදිය යුතුය."
+    },
+    {"qText": "I have two ............. and a .............. in my bag.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "keys/ wallets",
+        "key/ wallets",
+        "keys/ wallet"
+      ],
+      "correctAnswer": "keys/ wallet",
+      "review":"විවරණය: two වලට පසු plural form ද 'a' article වලට පසු singular form ද යෙදිය යුතුය."
+    },
+    {"qText": "Two .................. are swimming with some .................... in the see.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "person/ dolphins",
+        "people/ dolphins",
+        "person/ dolphin"
+      ],
+      "correctAnswer": "people/ dolphins",
+      "review":"විවරණය: person හි plural form එක people වේ."
+    },
+    {"qText": "We need ................. advice before we buid  .................. studio.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "an/ a",
+        "a/ some",
+        "-/ a"
+      ],
+      "correctAnswer": "-/ a",
+      "review":"විවරණය: මෙහිදී advice uncountable වේ.එය සැමවිටම singular form එකෙන් පවතී. 'a' article යොදන්නේ නැත. පහත ක්‍රමද නිවැරිදි වේ. a piece of advice, a bit of advice"
+    },
+    {"qText": "He refused to give me .................... about the new project.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "informations",
+        "some informations",
+        "any information"
+      ],
+      "correctAnswer": "any information",
+      "review":"විවරණය: information, uncountable noun එකකි.එයට plural form නොමැත."
+    },
+    {"qText": "Did you buy me ................ this morning? I'd like to read it now.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "a newspapers",
+        "a newspaper",
+        "newspapers"
+      ],
+      "correctAnswer": "a newspaper",
+      "review":"විවරණය: Newspaper, countable noun වේ. එහි plural form එක newspapers වේ. ඉහත වාක්‍යයේ it යන්න ඇති නිසා හිස්තැනට singular form යෙදිය යුතුය."
+    },
+    {"qText": "She had ......................... when she was young.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "long hairs",
+        "a long hair",
+        "a long hairs"
+      ],
+      "correctAnswer": "a long hair",
+      "review":"විවරණය: hair uncountable noun වේ. plural form නොමැත.ඉහත වාක්‍යයේ අරුත අනුව ඇයට තිබි ඇත්තේ දිගු කොන්ඩයකි.එකක් යන්න දැක්වීමට 'a' article යෙදිය යුතුය."
+    },
+    {"qText": "Father, I want  some ................... to buy ...................",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "money/ furnitures",
+        "moneys/ furniture",
+        "money/ furniture"
+      ],
+      "correctAnswer": "money/ furniture",
+      "review":"විවරණය: money හා furniture, uncountables nouns වේ. Plural form නැත."
+    }
+    ],
+    "videoURL":"f91pbWUNmf8"
+
+  }
+ 
+  
+]

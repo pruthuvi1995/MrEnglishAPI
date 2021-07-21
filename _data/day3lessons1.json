@@ -1,0 +1,264 @@
+[
+  {
+    "title": "This/ These/ That/ Those ",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන This / These / That / Those  පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day03Lesson01",
+    "day": "6065aaa3c75cd45a05afec22",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "මේක අම්මා මට දුන්නු තෑග්ගක්.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "These is a gift of my mother.",
+        "This is a gift of my mother.",
+        "That is a gift of my mother."
+      ],
+      "correctAnswer": "This is a gift of my mother.",
+      "review":""
+    },
+    {"qText": "බලන්න! අරවා ඖශධ පැළෑටි.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "Look! this is medicinal plants.",
+      "Look! these is medicinal plants.",
+      "Look! those is medicinal plants."
+    ],
+    "correctAnswer": "Look! those is medicinal plants.",
+    "review":""
+  },
+  {"qText": "පුතා! මේක තාත්තට දෙන්න.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "Son! give that to father.",
+    "Son! give those to father.",
+    "Son! give this to father."
+  ],
+  "correctAnswer": "Son! give this to father.",
+  "review":""
+},
+{"qText": "අරක ලස්සන ගෙයක්.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "This is a beautiful house.",
+  "That is a beautiful house.",
+  "These is a beautiful house"
+],
+"correctAnswer": "That is a beautiful house.",
+"review":""
+},
+{"qText": "ඒ සත්තු හරි භයානකයි.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "These animals are very dangerous.",
+  "This animals are very dangerous.",
+  "Those animals are very dangerous."
+],
+"correctAnswer": "Those animals are very dangerous.",
+"review":""
+}
+  
+    ],
+    "mcqLesson":[
+      {"qText": "I have all ................ drawings in my bag here. I will show them to my teacher.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.07,
+        "type": "mcq",
+      "answers": [
+        "these",
+        "those",
+        "this"
+      ],
+      "correctAnswer": "these",
+      "review":"Drawings (චිත්‍ර) plural වේ. එම නිසා that යෙදිය නොහැක.එය singular අර්ථය ගනී.පිළිතුර වන්නේ these drawings යන්නයි. එහි අර්ථය වන්නේ \"මේ චිත්‍ර\" යන්නයි."
+    },
+    {"qText": "................. are my father's files over there. Please don't touch them.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.07,
+      "type": "mcq",
+    "answers": [
+      "That",
+      "Those",
+      "These"
+    ],
+    "correctAnswer": "Those",
+    "review":"මෙහි over there යනු අර එහා පැත්තේ යන්නයි.මෙහිදී files ඇත්තේ යම් දුරක වේ. එමනිසා these (මේවා) යෙදිය නොහැක. පිළිතුර those (ඒවා) යන්නයි."
+  },
+  {"qText": ".............. apple on the tree is not ripe. Let's not pluck it.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.07,
+    "type": "mcq",
+  "answers": [
+    "This",
+    "That",
+    "Those"
+  ],
+  "correctAnswer": "That",
+  "review":"apple, singular වේ. එවිට this හෝ that යෙදිය හැකිය. නමුත් මෙහි කරන්නේ ගසක තිබෙන apple ගෙඩියක් ගැනය. එනම් දුරින් ඇති දෙයකි.එමනිසා that පිළිතුර වේ."
+},
+{"qText": "Please pass me ........................ blue shirt from the cupboard over there.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "that",
+  "this",
+  "those"
+],
+"correctAnswer": "that",
+"review":"මෙහිදී අදහස් කරන්නේ අර cupboard එකේ තියෙන එක මට එවන්න යන්නයි. එනම් shirt එක ඇත්තේ දුරක යන්නයි. දුරක යන්න over there යන්නෙන් හඳුනා ගත හැක. පිළිතුර this නොව that යන්නයි."
+},
+{"qText": ".............. are my books. I have to keep them on the self.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "Those",
+  "This",
+  "These"
+],
+"correctAnswer": "These",
+"review":"books, plural noun එකකි. these පිළිතුර වේ."
+},
+{"qText": ".............. my friend, Veronica. She is ................ artist.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "This is, __",
+  "This is, an",
+  "These are, an",
+  "These are, __"
+],
+"correctAnswer": "This is, an",
+"review":"my friend, singular වේ. පිළිතුර this is වේ.දෙවන අවස්ථාවේ ඇය artist කෙනෙක් යන්න අදහස් වේ. අපගේ article පාඩම් මාලාවට අනුව පිළිතුර  an ලෙස යෙදිය යුතුය."
+},
+{"qText": "They have ..................... car. Look! ........................ is in the garage.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "an, this",
+  "a, that",
+  "a, this",
+  "an, that"
+],
+"correctAnswer": "a, that",
+"review":"ඔවුන්ට car එකක් තියනවා යන්න අර්ථවත් වේ. car ආරම්භ වන්නේ වලින් vowel sound නොවන බැවින් a යෙදේ . Look! යෙදීමෙන් අර බලන්න යන්න අදහස් වේ. එනම් car එක දුර තිබිය යුතුය. පිළිතුර that වේ."
+},
+{"qText": "Saman: ..................... a new book? Kamal: Yes, ...................",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "are these, this is",
+  "are this, this is",
+  "is this, this is",
+"is this, these are"
+],
+"correctAnswer": "is this, this is",
+"review":"A book යන්න singular වේ. මෙහිදී මෙය පොතක්ද යන්න ප්‍රශ්න කිරීමේදී is this යෙදේ."
+},
+{"qText": "How much are ................. roses?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "this",
+  "these"
+],
+"correctAnswer": "these",
+"review":"roses, plural වේ. these යෙදිය යුතුය."
+},
+{"qText": ".................... is .................... expensive ring.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "That, a",
+  "This, a",
+  "Those, an",
+  "That, an"
+],
+"correctAnswer": "That, an",
+"review":"ring, singular වේ. පිළිතුර that වේ.article පාඩම් මාලාවට අනුව යෙදෙන බව ඔබ දනී."
+},
+{"qText": "Look at............... snakes up there in the tree.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "this",
+  "these",
+  "those"
+],
+"correctAnswer": "those",
+"review":""
+},
+{"qText": "Are ........ your pens over there on the table.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "thses",
+  "those",
+  "that"
+],
+"correctAnswer": "those",
+"review":""
+}
+,
+{"qText": ".......... is not my umbrella. My umbrella is right there.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "This",
+  "These",
+  "That"
+],
+"correctAnswer": "This",
+"review":""
+}
+,
+{"qText": "did you and your family stay at ................. hotel in Paris?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "that",
+  "this",
+  "these"
+],
+"correctAnswer": "that",
+"review":""
+},
+{"qText": "Can you see ........... fishing boats on the lake?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.06,
+  "type": "mcq",
+"answers": [
+  "that",
+  "these",
+  "those"
+],
+"correctAnswer": "those",
+"review":""
+}
+   
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

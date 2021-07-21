@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Prepositions about places ",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Prepositions about places පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day05Lesson01",
+    "day": "6065aa5ec75cd45a05afec17",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "My dog is .............. the bed.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "in",
+        "under",
+        "before"
+      ],
+      "correctAnswer": "under",
+      "review":""
+    },
+    {"qText": "He swam ................... the river. ",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "on",
+      "across",
+      "above"
+    ],
+    "correctAnswer": "across",
+    "review":""
+  },
+  {"qText": "Select one color ................. these twelve.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "between",
+    "among",
+    "beside"
+  ],
+  "correctAnswer": "among",
+  "review":""
+},
+{"qText": "Please, dance ............... table with the music.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "around",
+  "round",
+  "on"
+],
+"correctAnswer": "around",
+"review":""
+},
+{"qText": "She jumped ................... the fence.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "above",
+  "over",
+  "on"
+],
+"correctAnswer": "over",
+"review":""
+}
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "My cousin lives ................. Anuradhapura.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "from",
+        "in",
+        "on"
+      ],
+      "correctAnswer": "in",
+      "review":"මෙහි අරුත මගේ ඥාතියා අනුරාධපුර ජිවත් වන බවයි.එනම් අනුරාධපුර තුල බවයි."
+    },
+    {"qText": "They are walking .................... the bridge.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "under",
+      "in",
+      "over"
+    ],
+    "correctAnswer": "over",
+    "review":"පාලමක් මතින් ගමන් කිරීමේදී over යොදයි."
+  },
+  {"qText": "Put the books ............. the table. Please!",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "under",
+    "near",
+    "on"
+  ],
+  "correctAnswer": "on",
+  "review":"මෙහිදී අප සැලකිලිමත් විය යුත්තේ හිස්තෙනට වඩාත් සුදුසු තර්කානුකුල පිළිතුරයි. පොත් තබන්නේ මේසය මත බැවින් on යෙදේ."
+},
+{"qText": "There is a bridge ................ the river.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "on",
+  "behind",
+  "across"
+],
+"correctAnswer": "across",
+"review":"පාලම ඇත්තේ ගඟ හරහා වේ."
+},
+{"qText": "I saw Mr. Walipitiya ............. the bus.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "on",
+  "in",
+  "under"
+],
+"correctAnswer": "in",
+"review":"වැලිපිටිය මහතා බස්රථය තුළ දුටු බව අර්ථවත් වේ.තුල බැවින් in යෙදේ."
+},
+{"qText": "My son is sitting ...................... Pruthuvi's and your's.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "among",
+  "between",
+  "beside"
+],
+"correctAnswer": "between",
+"review":"මගේ පුතා පෘථිවිගේ හා ඔබේ පුතුන් මද සිටින බව කියවේ.දෙදෙනෙකු මද බැවින් among නොව between යෙදේ."
+},
+{"qText": "The cat is sitting .................. the wall.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "in front of",
+  "on",
+  "at"
+],
+"correctAnswer": "in front of",
+"review":"පුසා සිටගෙන සිටින්නේ බිත්තියට ඉදිරියෙන්ය."
+},
+{"qText": "Hei! look, your girl is sitting .................. the restaurant.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "in front of",
+  "under",
+  "on"
+],
+"correctAnswer": "in front of",
+"review":"මෙහිදී ඔබේ ගැහැණු ළමයා අවන්හල ඉදිරිපිට සිටගෙන සිටින බව අදහස් වේ. අවන්හල මත හෝ යට සිටගෙන සිටිය නොහැකිය."
+}
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

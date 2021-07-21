@@ -1,0 +1,183 @@
+[
+  {
+    "title": "Simple future tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන simple future tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day09Lesson01",
+    "day": "6065aa5ec75cd45a05afec1b",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "We .................  help you to do the project month.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "will",
+"will be",
+"are"
+      ],
+      "correctAnswer": "will",
+      "review":""
+    },
+    {"qText": "Let's go to the show. Tom ............... the violin there.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "will be play",
+"will play",
+"play"
+    ],
+    "correctAnswer": "will play",
+    "review":""
+  },
+  {"qText": "Ok! Don't worry, I ................ my best.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "does",
+    "will do",
+    "will done"
+  ],
+  "correctAnswer": "will do",
+  "review":""
+},
+{"qText": "Amaya ...................... rice for dinner.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "cook",
+"will be cook",
+"will cook"
+],
+"correctAnswer": "will cook",
+"review":""
+},
+{"qText": "They ............. to the cinema next week.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "will do",
+"do",
+"won't do"
+],
+"correctAnswer": "won't go",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "I .................... exercise tomorrow. Because my arm has dislocated.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "will do",
+"do",
+"won't do"
+      ],
+      "correctAnswer": "won't do",
+      "review":"tomorrow යන්නෙන් හෙට බව කියවේ.Future tense යෙදේ .ව්‍යායාම කරන්නෑ යන්න දක්වන බැවින් will not do (won't) යෙදේ ."
+    },
+    {"qText": "They ................ the noodles. Because Anjana's daughter like.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "will make",
+"will be making",
+"won't make",
+"won't makes"
+    ],
+    "correctAnswer": "will make",
+    "review":"අන්ජනාගේ දුව කැමති නිසා ඔවුන් නුඩ්ල්ස් සාදාවී යන්න අදහස් වේ. Simple future tense වලට අදාලය. will make යෙදේ."
+  },
+  {"qText": "It is my favourite movie. Let's go to the theatre today itself. Because It .................. show tomorrow.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "will",
+"is",
+"won't be",
+"won't"
+  ],
+  "correctAnswer": "won't",
+  "review":"චිත්‍රපටිය අදම බලන්න ඕනේ .මොකද හෙට එක පෙන්වන්නෑ  යන්න අර්ථවත් වේ.එම නිසා simple future negative යෙදිය යුතුය."
+},
+{"qText": "He ...................... the bicycle in the vacation. Because it has broken.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "will be riding",
+"won't ride",
+"will ride",
+"ride"
+],
+"correctAnswer": "won't ride",
+"review":"දෙවන වාක්‍යයෙන් බයිසිකලය කැඩී ඇති බව හැඟවේ.එමනිසා ඔහු එය පදවන්නේ නැති වේවි යන්න අර්ථවත් කළ යුතුය. Simple future negative වේ."
+},
+{"qText": "Don't worry sister, Sahan ................... the car safely.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "will drive",
+"won't drive",
+"will be drive",
+"won't be drive"
+],
+"correctAnswer": "will drive",
+"review":"දුක් වෙන්න එපා සහෝදරී .සහන ප්‍රවේශමෙන් කාර් එක පදවාවී යන්න අර්ථවත් වේ.Simple future වේ. will drive යෙදිය යුතුය."
+},
+{"qText": "It ..................... windy tomorrow. Don't sail.",
+  "imageUrl":"assets/images/h6.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "will",
+"won't",
+"will be",
+"won't be"
+],
+"correctAnswer": "will be",
+"review":"හෙට යාත්‍රා කරන්න එපා .හෙට ගොඩක් සුළං සහිත වෙවී යන්න අර්ථවත් වේ.මෙහිදී මදකට සිතන්න.අද වැස්ස සහිතයි යන්න Today is rainy ලෙස සඳහන් කළ යුතුය. මේ නිසා be verb යෙදේ.අනාගත කාලයට අදාල බැවින් will be යන be verb යෙදිය යුතුය. පිළිතුර වන්නේ It wiil be windy යන්නයි. It will windy ලෙස ලිවිම වැරදිය."
+},
+{"qText": "She..............come to the presentation on Monday. Because she has a wedding.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "will",
+  "won't",
+  "will be",
+  "shall be"
+],
+"correctAnswer": "won't",
+"review":"ඇයට මංගල්‍යයක් ඇති නිසා හෙට presentation  එකට නොයේවී යන්න අදහස් කෙරේ.Simple future negative යෙදේ."
+},
+{"qText": "She ............ in my birthday party.Because she is one of my best friends.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "will participate",
+  "will not participate",
+  "won't be participate",
+  "won't participate"
+],
+"correctAnswer": "will participate",
+"review":"ඇය මගේ හොඳම යහළුවන්ගෙන් කෙනෙකු නිසා මගේ උපන්දින සාදයට ඒවි යන්න අර්ථවත් වේ.Simple future යෙදේ."
+}
+    ],
+    "videoURL":"Jq9b1ZqaMF0"
+
+  }
+ 
+  
+]

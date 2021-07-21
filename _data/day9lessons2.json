@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Continuous tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Continuous tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day09Lesson02",
+    "day": "6065aa5ec75cd45a05afec1b",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "Present continuous tense is used to",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Explain an action happened last week.",
+        "Day today activities.",
+        "Explain an action happening now."
+      ],
+      "correctAnswer": "Explain an action happening now.",
+      "review":""
+    },
+    {"qText": "How to build up a continuous sentence.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "subject + verb + object",
+      "subject + have + verb past participle + object",
+      "subject + be verb + verb + ing + object"
+    ],
+    "correctAnswer": "subject + be verb + verb + ing + object",
+    "review":""
+  },
+  {"qText": "What determined the present,past,future of continuous tenses.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "verb",
+    "be verb",
+    "ing"
+  ],
+  "correctAnswer": "be verb",
+  "review":""
+},
+{"qText": "I ................ an interesting short story now.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "am reading",
+  "was reading",
+  "will be reading"
+],
+"correctAnswer": "am reading",
+"review":""
+},
+{"qText": "She ................ with my parents at that moment.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "is staying",
+  "was staying",
+  "will be staying"
+],
+"correctAnswer": "was staying",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "This time tomorrow we ......................... Prabath's birthday.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "are celebrating",
+        "were celebrating",
+        "will be celebrating"
+      ],
+      "correctAnswer": "will be celebrating",
+      "review":"හෙට මේ මොහොතේ උපන් දිනය සමරමින් ඉඳීවි යන්න අර්ථවත් වේ. future continuous tense වේ."
+    },
+    {"qText": "The boy................ for somebody in front of the gate yesterday at 10 a.m.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "is waiting",
+      "was waiting",
+      "will be waiting"
+    ],
+    "correctAnswer": "was waiting",
+    "review":"ඊයේ උදේ 10ට වූ සිදුවීමකි. past continuous tense වලින් යෙදේ."
+  },
+  {"qText": "I .....................ready when they came home.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "am getting",
+    "was getting",
+    "will be getting"
+  ],
+  "correctAnswer": "was getting",
+  "review":"ඔවුන් ගෙදරට එනවිට මම සූදානම් වෙමින් සිටි බව අර්ථවත් වේ. past continuous tense යෙදේ."
+},
+{"qText": "He ..................... the school premises tomorrow evening.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "is leaving",
+  "was leaving",
+  "will be leaving"
+],
+"correctAnswer": "will be leaving",
+"review":"හෙට හවස ඔහු පාසල් භූමියෙන් යන බව අර්ථවත් වේ. future continuous tense යෙදේ."
+},
+{"qText": "My father ............... to meet you.Because he hates you.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "is coming",
+  "isn't coming",
+  "was coming"
+],
+"correctAnswer": "isn't coming",
+"review":"ඔබට වෛර කරන නිසා මගේ පියා ඔබ මුණගැහෙන්නට නොපැමිණෙන බව අදහස් වේ. present continuous negative යෙදේ."
+},
+{"qText": "The girls ....................... in the park when it started raining. Because they were taken by Mr.Perera earlier. ",
+  "imageUrl":"assets/images/h6.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "aren't playing",
+  "were playing",
+  "weren't playing"
+],
+"correctAnswer": "weren't playing",
+"review":"මෙහි අරුත වන්නේ පෙරේරා මහතා දරුවන් ව කලින් රැගෙන ගිය නිසා වහින අවස්ථාවේ ඔවුන් park එකේ සෙල්ලම් කරමින් නොසිටි බවයි.past continuous tense විය යුතුය."
+},
+{"qText": "We ................... to Badulla next vacation.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "were going",
+  "are going",
+  "will be going"
+],
+"correctAnswer": "will be going",
+"review":"next vacation යනු ඊළඟ නිවාඩුව යන්නයි. future continuous විය යුතුය."
+},
+{"qText": "Please don't phone them now. They .....................dinner.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "were having",
+  "are having",
+  "will be having"
+],
+"correctAnswer": "are having",
+"review":"මේ මොහොතේ ඔවුන්ට කතා කරන්න එපා.ඔවුන් රෑ කෑම ගනිමින් ඉන්නවා යන්න අර්ථවත් වේ.present continuous tense විය යුතුය."
+}
+    ],
+    "videoURL":"RTun8s3m8Dc"
+
+  }
+ 
+  
+]

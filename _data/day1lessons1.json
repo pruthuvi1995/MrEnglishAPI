@@ -2,11 +2,12 @@
   {
     "title": "Articles - Part 01",
     "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන a හා an යන article 2 පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
-    "lesson":"day01Part01",
+    "lesson":"day01Lesson01",
     "day": "5fbe669a6a8aeb05882966bd",
-    "imageURL": "",
+    "imageURL": "1",
     "mcqTrail":[
       {"qText": "Nuwaraeliya has ............ ideal climate.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
       "mark":0.1,
         "type": "mcq",
       "answers": [
@@ -15,8 +16,9 @@
         "no article"
       ],
       "correctAnswer": "an",
-      "review":"විවරණය:"
+      "review":""
     },{"qText": "I can't live on .......... Rs. 5000 a week.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -25,8 +27,9 @@
         "no article"
       ],
       "correctAnswer": "no article",
-      "review":"විවරණය:"
+      "review":""
     },{"qText": "Someone call ........... policeman.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -35,9 +38,10 @@
         "no article"
       ],
       "correctAnswer": "a",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "He is .......... Sri Lankan actor.",
+      "imageUrl":"assets/images/paperDiscussionIcon.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -46,9 +50,10 @@
         "no article"
       ],
       "correctAnswer": "a",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "I want to be selected to ........... university.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -57,9 +62,10 @@
         "no article"
       ],
       "correctAnswer": "a",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "Yesterday my sister bought .......... expensive phone.",
+      "imageUrl":"assets/images/paperDiscussionIcon.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -68,8 +74,9 @@
         "no article"
       ],
       "correctAnswer": "an",
-      "review":"විවරණය:"
+      "review":""
     },{"qText": "The only sport we enjoy is ......... rugby.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -78,9 +85,10 @@
         "no article"
       ],
       "correctAnswer": "no article",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "He is ......... clever banker.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -89,9 +97,10 @@
         "no article"
       ],
       "correctAnswer": "a",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "After 10 years she became ............ engineer.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -100,9 +109,10 @@
         "no article"
       ],
       "correctAnswer": "an",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "We are having chicken for ........ dinner.",
+      "imageUrl":"assets/images/hasanjana.jpg",
       "mark":0.1,
       "type": "mcq",
       "answers": [
@@ -111,12 +121,13 @@
         "no article"
       ],
       "correctAnswer": "no article",
-      "review":"විවරණය:"
+      "review":""
     }
     ],
     "mcqLesson":[
       {"qText": "Have you bought .......... pencil?",
-        "mark":0.03,
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.015,
         "type": "mcq",
       "answers": [
         "a",
@@ -124,10 +135,11 @@
         "no article"
       ],
       "correctAnswer": "a",
-      "review":"විවරණය:"
+      "review":""
     },
     {"qText": "She has got only ........ hour to complete the task.",
-      "mark":0.03,
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.015,
       "type": "mcq",
     "answers": [
       "a",
@@ -135,10 +147,11 @@
       "no article"
     ],
     "correctAnswer": "an",
-    "review":"විවරණය:"
+    "review":""
   },
   {"qText": "Let's play ........ carrom.",
-    "mark":0.03,
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.015,
     "type": "mcq",
   "answers": [
     "a",
@@ -146,10 +159,11 @@
     "no article"
   ],
   "correctAnswer": "no article",
-  "review":"විවරණය:"
+  "review":""
 },
 {"qText": "Upali needs to join .......... university soon.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -157,10 +171,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "........... oranges are grown in Kotte.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -168,10 +183,11 @@
   "no article"
 ],
 "correctAnswer": "an",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Martin Wickramasinghe was ........... famous sri Lankan writer.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -179,10 +195,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Is that ........ his new vehicle?",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -190,10 +207,11 @@
   "no article"
 ],
 "correctAnswer": "no article",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "I bought some buns, 5 oranges and ..... bottle of water.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -201,10 +219,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "There is a saying \".......... apple a day keeps the doctor away\".",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -212,10 +231,11 @@
   "no article"
 ],
 "correctAnswer": "an",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "It is ........... beautiful hotel in the town.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -223,10 +243,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "It was ........ excellent meal last night.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -234,10 +255,11 @@
   "no article"
 ],
 "correctAnswer": "an",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Have you ever been to ..... Kandy?",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -245,10 +267,11 @@
   "no article"
 ],
 "correctAnswer": "no article",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Chamara told us ..... interesting story.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -256,10 +279,11 @@
   "no article"
 ],
 "correctAnswer": "an",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Did you ..... Ann today?",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -267,10 +291,11 @@
   "no article"
 ],
 "correctAnswer": "no article",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "My sister wanys to become ...... lowyer.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -278,10 +303,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "He joined .......... union when he started work.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -289,10 +315,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "She fell and was taken to .............. hospital.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -300,10 +327,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "How much weight can ....... ant carry?",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -311,10 +339,11 @@
   "no article"
 ],
 "correctAnswer": "an",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "I think I should buy ........ new shirt for my father.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -322,10 +351,11 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "Look! There is ......... rocket in the sky.",
-  "mark":0.03,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.015,
   "type": "mcq",
 "answers": [
   "a",
@@ -333,107 +363,117 @@
   "no article"
 ],
 "correctAnswer": "a",
-"review":"විවරණය:"
+"review":""
 },
 {"qText": "My English teacher is a Mr. Karunarathne.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "False",
-"review":"විවරණය:"
+"review":"විවරණය: නමකට ඉදිරියෙන්  ‘a’, ‘an’ article නොයෙදේ."
 },
 {"qText": "My mother is a cook at a famous restaurant.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "True",
-"review":"විවරණය:"
+"review":"විවරණය: Cook යනු කෝකියා යන්නයි. එය noun එකකි. Cook ආරම්භ වන්නේ vowel ශබ්දයකින් නොවන නිසා කෝකියෙක් යන්න දක්වීමට `an` නොව `a` යෙදිය යුතුයි."
 },
 {"qText": "They wanted catch some fish, but they only cayght an octopus.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "True",
-"review":"විවරණය:"
+"review":"විවරණය: Octopus යන්න singular form එකෙන් පවතින අතර එකෙක් ලෙස දැක්වීමට  'a' හෝ 'an' යෙදිය යුතුය. මෙහිදී noun එක ඇරබෙන්නේ vowel ශබ්දයකින් බවින් 'an' යෙද් ."
 },
 {"qText": "Sport playes an valuable role in my life.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "False",
-"review":"විවරණය:"
+"review":"විවරණය: මෙහි අර්ථය වන්නේ ක්රීඩාව මගේ ජීවිතයේ වැදගත් කොටසක් ඉදිරිපත් කරන බවයි.මෙහි valuable role යන්න noun එක වන අතර valuable ආරම්භ වන්නේ vowel නොවන ශබ්දයකින් බැවින් 'a' දේ."
 },
 {"qText": "Pineapples are mainly grown in Nawala. ",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "True",
-"review":"විවරණය:"
+"review":"විවරණය: මෙහිදී pineapples යන්න plural form එකෙන් පවතින නිසා 'a', 'an' articles noun එකට මුලින් යෙදෙන්නේ නැත."
 },
 {"qText": "A coconut tree is generally very tall.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "True",
-"review":"විවරණය:"
+"review":"විවරණය: මෙහිදී පොල් ගසක් සාමාන්යෙන් බොහෝ උසයි යන්න අදහස් කෙරේ. Coconut tree යන්න singular form එකෙන් පවතී. ගස් 1ක් යන්න පෙන්වීමට 'a' 'an'  යෙදිය යුතුය. Coconut යන වචනය ඇරබෙන්නේ vowel ශබ්දයකින් නොවන බැවින් 'a' article යෙදේ."
 },
 {"qText": "There are a eleven players in a football team.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "false",
-"review":"විවරණය:"
+"review":"විවරණය: මෙහිදී ක්රීඩකයෝ 11 දෙනෙක් පිලිබදව සදහන් වේ. plural form වලින් පවතී. a , an article නොයෙදේ."
 },
 {"qText": "A honest man is always respected.",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "False",
-"review":"විවරණය:"
+"review":"විවරණය: Honest යන්නෙන් අවංක යන්න අදහස් වේ. වාක්යයේ තේරුම වන්නේ අවංක මිනිසෙක් හැමවිටම ගෞරවයට ප්රාත්ර වන බවයි. honest man singular noun එකක් වේ. මෙහිදී honest වචනයේ 'h' silent වේ. එහි ශබ්දය vowel වන බැවින් 'an' article යෙදිය යුතුය."
 },
 {"qText": "Tomorrow morning T will gomto a Colombo",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "False",
-"review":"විවරණය:"
+"review":"විවරණය: නගරයක නමක්, රටක නමක් සදහන් කිරීමේදී a , an article නොයෙදේ."
 },
 {"qText": "This is my friend, Kamal",
-  "mark":0.04,
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.02,
   "type": "TF",
 "answers": [
   "False",
   "True"
 ],
 "correctAnswer": "True",
-"review":"විවරණය:"
+"review":"විවරණය: පුද්ගල නමක් භාවිතයේදී ඊට ප්රථමයෙන් a , an article  නොයෙදේ."
 }
     ],
     "videoURL":"HiAWSsfVvwM"

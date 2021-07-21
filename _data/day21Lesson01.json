@@ -1,0 +1,165 @@
+[
+    {
+      "title": "Because and So",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Because and So පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day21Lesson01",
+      "day": "6075da74c75cd45a05afec67",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "How to build a sentence using 'so'?",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "Result + so + Reason",
+          "Reason + so + Result"
+        ],
+        "correctAnswer": "",
+        "review":""
+      },
+      {"qText": "How to built a sentence using 'because'?",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Result + because + Reason",
+        "Reason + because + Result"
+      ],
+      "correctAnswer": "",
+      "review":""
+    },
+    {"qText": "Nishadi got presents ............... it was her birthday.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "so",
+      "because"
+    ],
+    "correctAnswer": "",
+    "review":""
+  },
+  {"qText": "I lost my car keys .................. I took a taxi.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "so",
+    "because"
+  ],
+  "correctAnswer": "",
+  "review":""
+},
+{"qText": "'ඊයේ නිවාඩු දවසක් නිසා පාසල වසා තිබුනා.' නිවැරිදි ලෙස ඉංග්‍රීසියෙන් ලියු විට ",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "Yesterday was a holiday, So the school was closed.",
+"The school was closed because yesterday was a holiday."
+],
+"correctAnswer": "",
+"review":""
+}
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "I didn't go to school ............ I didn't do my homework.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "so",
+"because"
+        ],
+        "correctAnswer": "because",
+        "review":"මම පාසලට ගියේ නෑ මක්නිසාද මම ගෙදර වැඩ කලේ නෑ. යන අර්ථය ලැබේ. ප්‍රතිපලය මුලින්ද හේතුව අවසානයටද දී ඇත."
+      },
+      {"qText": "I couldn't talk to him ........... he was busy.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "so",
+"because"
+      ],
+      "correctAnswer": "because",
+      "review":"මා ඔහුට කතා කලේ නෑ යන්න result වේ. ඔහු කාර්යබහුලයි යන්න reason වේ."
+    },
+    {"qText": "She is very lazy ................ she didn't study well.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "so",
+"because"
+    ],
+    "correctAnswer": "so",
+    "review":"ඇය මහන්සි වී වැඩ නොකිරීමට හේතුව මුලින් දී ඇත."
+  },
+  {"qText": "He was sick ........... they  took him to hospital.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "so",
+"because"
+  ],
+  "correctAnswer": "so",
+  "review":"ඔහු අසනීප වූ නිසා ඔවුන් ඔහුව රෝහලට ගෙනගියා යන්න අර්ථ දැක්වේ."
+},
+{"qText": "The teacher asked him to go out .............. he misbehaved in the class.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "so",
+"because"
+],
+"correctAnswer": "because",
+"review":"ගුරුතුමිය ඔහුට පන්තියෙන් එලියට යන්න කීව හේතුව අවසානයට දක්වා ඇත."
+},
+{"qText": "Select the best combination.* *We left the window open* *The room was warm.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "We left the window open because the room was warm.",
+"The room was warm. so we left the window open",
+"Both are correct"
+],
+"correctAnswer": "Both are correct",
+"review":"හේතුව හා ප්‍රතිපලය යන්න නිවැරිදි ගැලපුමට යොදා ඇත."
+},
+{"qText": "Select the best combination.* *We didn't go on picnic* *It was rainy",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "We didn't go on a picnic because it was rainy.",
+"We didn't go on a picnic so it was rainy."
+],
+"correctAnswer": "We didn't go on a picnic because it was rainy.",
+"review":"චාරිකාව නොයාමට හේතුව වැස්ස. යන්න අර්ථ දැක්වේ."
+},
+{"qText": "Select the correct sentence.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "Mr. Perera is a good teacher because his classes are always filled very quickly.",
+"His classes are always filled very quickly so Mr. Perera is a good teacher.",
+"Both are wrong."
+],
+"correctAnswer": "Both are wrong.",
+"review":"මෙහි අර්ථය විය යුත්තේ පෙරේරා හොඳ ගුරුවරයෙක් නිසා සෑම විටම ඉතා ඉක්මනින් ශිෂ්‍යන්ගෙන් පිරෙනවා යන්නයි."
+}
+      ],
+      "videoURL":"4uD2XF7eLXI"
+  
+    }
+   
+    
+  ]
+  

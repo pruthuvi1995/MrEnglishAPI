@@ -1,0 +1,183 @@
+[
+    {
+      "title": "Reflexive Pronouns",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Reflexive Pronouns පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day18Lesson02",
+      "day": "6075da74c75cd45a05afec64",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "She made ............. a cake.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "her",
+          "hers",
+          "herself"
+        ],
+        "correctAnswer": "herself",
+        "review":""
+      },
+      {"qText": "Please don't help me, I want to do it by ...................",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "me",
+        "mine",
+        "myself"
+      ],
+      "correctAnswer": "myself",
+      "review":""
+    },
+    {"qText": "We can make the table ................",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "ourselves",
+      "us",
+      "ourself"
+    ],
+    "correctAnswer": "ourselves",
+    "review":""
+  },
+  {"qText": "නිවැරිදි වාක්‍ය තෝරන්න.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "My brother decided himself to repair the car.",
+    "My brother decided to repair the car by himself.",
+    "My brother himselves decided to repair the car."
+  ],
+  "correctAnswer": "My brother decided to repair the car by himself.",
+  "review":""
+},
+{"qText": "නිවැරිදි වාක්‍ය තෝරන්න.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "Boys, we ourself have to do it.",
+  "Boys, we have to do it by ourself.",
+  "Boys, we have to do it by ourselves."
+],
+"correctAnswer": "Boys, we have to do it by ourselves.",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "Nimal saw ............. in the mirror.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "myself",
+          "yourself",
+          "herself"
+        ],
+        "correctAnswer": "herself",
+        "review":"නිමාලි තමාවම කන්නාඩියෙන් දැකගත්තා යන්න අර්ථවත් වේ."
+      },
+      {"qText": "Ranjith, did you bake the cake ....................",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "ourselves",
+        "yourself",
+        "yourselves"
+      ],
+      "correctAnswer": "yourself",
+      "review":"මෙහිදී රන්ජිත් ඔබ යන්න දැක්වීමේදී ඔබ එක් අයෙක් ලෙස සලකයි. yourself යෙදේ. ඔබලා ලෙස පැමිණියේ නම් yourseල්වේස් ලෙස යෙදිය යුතුය."
+    },
+    
+    {"qText": "I like to watch ............. in a video film.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "himself",
+      "my",
+      "myself"
+    ],
+    "correctAnswer": "myself",
+    "review":"මම අසයි මාවම film එකක දකින්න යන්න අර්ථවත් වේ."
+  },
+  
+  {"qText": "My dad built the tree house by .................",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "herself",
+    "himself",
+    "hisself"
+  ],
+  "correctAnswer": "himself",
+  "review":"පියා ඔහු විසින්ම එය සිදුකල බව අර්ථවත් වේ.He හි reflective pronoun වන්නේ himself."
+},
+
+{"qText": "Your face is dirty, look at .................. in the mirror",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "you",
+  "yourselves",
+  "yourself"
+],
+"correctAnswer": "yourself",
+"review":"ඔබේ මුහුණේ දුවිලි ඔබම බලාගන්න යන්න අර්ථවත් වේ."
+},
+
+{"qText": "I share ................. every morning before I go out.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "my",
+  "myselves",
+  "myself"
+],
+"correctAnswer": "myself",
+"review":"මා විසින්ම සිදු කරන බව අර්ථවත් වේ."
+},
+
+{"qText": "Tom usually cuts his hair ...............",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "by hisself",
+  "by himself",
+  "by he"
+],
+"correctAnswer": "by himself",
+"review":"ටොම් විසින්ම කොණ්ඩය කපන බව අර්ථවත් වේ."
+},
+
+{"qText": "I am not going to do it for them because they can do it by ......................",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "themself",
+  "themselves",
+  "them"
+],
+"correctAnswer": "themselves",
+"review":"they යන්න plural බැවින් themself නොව themselves යෙදිය යුතුය."
+}
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

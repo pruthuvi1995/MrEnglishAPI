@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Singular and plural",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන ඒක වචන හා බහු වචන නාම පද පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day02Lesson01",
+    "day": "5fbe669a6a8aeb05882966be",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "Plural form (බහු වචන) of 'book' is,",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "books",
+        "bookes",
+        "a books"
+      ],
+      "correctAnswer": "books",
+      "review":""
+    },
+    {"qText": "Plural form of 'a brush' is,",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "two brushs",
+      "three brushes",
+      "brushs"
+    ],
+    "correctAnswer": "three brushes",
+    "review":""
+  },
+  {"qText": "Plural form of 'radio' is,",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "radioes",
+    "radio",
+    "radios"
+  ],
+  "correctAnswer": "radios",
+  "review":""
+},
+{"qText": "Plural form of 'tomato' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "two tomatos",
+  "three tomato",
+  "tomatoes"
+],
+"correctAnswer": "tomatoes",
+"review":""
+},
+{"qText": "Singular form (ඒක වචන) of 'women' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "a women",
+  "one women",
+  "woman"
+],
+"correctAnswer": "woman",
+"review":""
+},
+{"qText": "Plural form of 'man' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "men",
+  "mens",
+  "mans"
+],
+"correctAnswer": "men",
+"review":""
+},
+{"qText": "Plural form of 'city' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "two citys",
+  "two city",
+  "two cities"
+],
+"correctAnswer": "two cities",
+"review":""
+},
+{"qText": "Plural form of 'fish' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "five fish",
+  "five fishs",
+  "five fishes"
+],
+"correctAnswer": "five fish",
+"review":""
+},
+{"qText": "Plural form of 'calf' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "calfs",
+  "calies",
+  "calves"
+],
+"correctAnswer": "calves",
+"review":""
+},
+{"qText": "Plural form of 'mouse' is,",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "mouses",
+  "mouies",
+  "mice"
+],
+"correctAnswer": "",
+"review":""
+}
+    ],
+    "mcqLesson":[
+      {"qText": "I saw a ..................... running by.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.025,
+        "type": "mcq",
+      "answers": [
+        "mouse",
+        "mice",
+        "mouses"
+      ],
+      "correctAnswer": "mouse",
+      "review":""
+    },
+    {"qText": "I have two ...................... to feed.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.025,
+      "type": "mcq",
+    "answers": [
+      "children",
+      "childs",
+      "child"
+    ],
+    "correctAnswer": "children",
+    "review":""
+  },
+  {"qText": ".................... play with bottles as toys.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.025,
+    "type": "mcq",
+  "answers": [
+    "Baby",
+    "Babys",
+    "Babies"
+  ],
+  "correctAnswer": "Babies",
+  "review":""
+},
+{"qText": "May I put three ..................... in the lunch box.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.025,
+  "type": "mcq",
+"answers": [
+  "potatos",
+  "potatoes",
+  "potatos"
+],
+"correctAnswer": "",
+"review":""
+},
+{"qText": "I put a .................. on the table.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.025,
+  "type": "mcq",
+"answers": [
+  "memo",
+  "memos",
+  "memoes"
+],
+"correctAnswer": "memo",
+"review":""
+},
+{"qText": "Some ................... were wearing .........................",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.025,
+  "type": "mcq",
+"answers": [
+  "woman/ watches",
+  "women/ watchs",
+  "women/ watches"
+],
+"correctAnswer": "women/ watches",
+"review":""
+},
+{"qText": "I bought three big ............ from the market.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.025,
+  "type": "mcq",
+"answers": [
+  "fishs",
+  "fish",
+  "fishes"
+],
+"correctAnswer": "fish",
+"review":""
+},
+{"qText": "Kurunegala and Anuradhapura are big ........................",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.025,
+  "type": "mcq",
+"answers": [
+  "citys",
+  "cities",
+  "city"
+],
+"correctAnswer": "cities",
+"review":""
+}
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

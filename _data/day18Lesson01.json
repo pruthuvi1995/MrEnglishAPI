@@ -1,0 +1,199 @@
+[
+    {
+      "title": "Possessive Adjectives",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Possessive Adjectives පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day18Lesson01",
+      "day": "6075da74c75cd45a05afec64",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "'I'  යන්නට සුදුසු possessive pronoun එක වන්නේ,",
+          "imageUrl":"assets/images/h5.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "my",          
+          "mine"
+        ],
+        "correctAnswer": "mine",
+        "review":""
+      },
+      {"qText": "'We' යන්නට සුදුසු possessive adjective එක වන්නේ,",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "us",
+        "our",
+        "ours"
+      ],
+      "correctAnswer": "our",
+      "review":""
+    },
+    {"qText": "The yellow papers are ...........",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "you",
+      "your",
+      "yours"
+    ],
+    "correctAnswer": "yours",
+    "review":""
+  },
+  {"qText": "They are ........... parents.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "we",
+    "our",
+    "ours"
+  ],
+  "correctAnswer": "our",
+  "review":""
+},
+{"qText": "We got our fruits what about ............?",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "you",
+  "our",
+  "yours"
+],
+"correctAnswer": "yours",
+"review":""
+}
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "I can't find my tie. can I take ................?",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "your",
+          "he ",
+          "his"
+        ],
+        "correctAnswer": "his",
+        "review":"මගේ ටයි පටිය සොයා ගන්න බෑ. ඔහුගේ එක ගන්නද යන්න අදහස් වේ. he යන්නෙහි possessive pronoun යෙදේ."
+      },
+      {"qText": "She likes ............. hat.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "correctAnswer": "your",
+      "review":"ඇය කැමතියි ඔබගේ තොප්පියට යන අර්ථය ලැබේ. possessive adjective යෙදේ."
+    },
+    {"qText": "These are my books where are .............? ",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "your",
+      "mine",
+      "yours"
+    ],
+    "correctAnswer": "yours",
+    "review":"මේවා මාගේ පොත්. ඔබගේ ඒවා කොහෙද යන අර්ථය ලැබේ. ඔබගේ ඒවා යන අදහස එන බැවින් you හි possessive pronoun යෙදිය යුතුය."
+  },
+  {"qText": "She thinks ........... dog has destroyed ......... vegetable plot.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "her/ their",
+    "hers/ their",
+    "her/ their"
+  ],
+  "correctAnswer": "her/ their",
+  "review":" ඇය සිතන්නේ ඇයගේ බලල ඔවුන්ගේ එළවළු පාත්තිය විනාශ කළ බවයි. මෙහිදී හිස්තැන් දෙකට she, they වලට අදාළ possessive adjectives යෙදේ."
+},
+{"qText": "............... What a rich guy he is?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "This is his biggest hotel.",
+"This hotel is his.",
+"Both are correct."
+],
+"correctAnswer": "Both are correct.",
+"review":"පිළිතුරු දෙකේම possessive pronoun, adjectives නිවැරිදිව දක්වා ඇත."
+},
+{"qText": "A: Is that King's hat?* *B: No, It's ................ crown.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "he",
+  "his",
+  "her"
+],
+"correctAnswer": "his",
+"review":"එක ඔහුගේ ඔටුන්න යන අර්ථය ලැබේ. possessive adjective හි යෙදේ."
+},
+{"qText": "I'll show you to your room ............... is next door.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "our",
+  "ours",
+  "we"
+],
+"correctAnswer": "ours",
+"review":"මම ඔබට ඔබගේ කාමරය පෙන්වන්නම්. අපේ එක ඊළඟට යන අර්ථය යෙදේ. possessive pronouns  යෙදිය යුතුය. next door is ours one ලෙසද යෙදිය හැකිය."
+},
+{"qText": "Forgive your enemies, but never forget ................ names.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "there",
+  "their",
+  "theirs"
+],
+"correctAnswer": "their",
+"review":"ඔවුන්ගේ නම් අමතක කරන්න එපා යන්න අර්ථවත් වේ. they හි possessive adjective පැමිණිය යුතුය."
+},
+{"qText": "A: Whose laptop is that?* *me: ...........................",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "It's mine laptop.",
+  "That laptop is mine.",
+  "That laptop is my."
+],
+"correctAnswer": "That laptop is mine.",
+"review":"අර කාගේ laptop එකද? යන ප්‍රශ්නයට ඒ ලැප්ටොප් එක මගේ යන පිළිතුර පැමිණිය යුතුය."
+},
+{"qText": "A: Why don't you take that phone?* *B: .................................",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "It's he phone. I don't like him.",
+  "It's theirs. They might not like it.",      
+  "It's he phone. It dosen't have credit."
+],
+"correctAnswer": "It's theirs. They might not like it.",
+"review":"එය  ඔවුන්ගේ. සමහරව්ට ඔවුන් එයට අකමැති වේවි යන අර්ථය නිවැරිදිව ඇත්තේ 2වන පිලිතුරේය."
+}
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

@@ -1,0 +1,326 @@
+[
+  {
+    "title": "Adjectives and adverbs",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන adjectives, adverbs පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day04Lesson01",
+    "day": "6065aa5ec75cd45a05afec16",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "An adjective describes a ........................",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "noun",
+        "verb",
+        "both"
+      ],
+      "correctAnswer": "noun",
+      "review":""
+    },
+    {"qText": "an adverb modifies a ....................",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "verb",
+      "adverb",
+      "adjective",
+      "all"
+    ],
+    "correctAnswer": "all",
+    "review":""
+  },
+  {"qText": "Telling the truth is .................... than being jailed.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "easyer",
+    "easiest",
+    "easier"
+  ],
+  "correctAnswer": "easier",
+  "review":""
+},
+{"qText": "He is the ................... novelist in sri Lanka.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "famous",
+  "most famous",
+  "famousest"
+],
+"correctAnswer": "famousest",
+"review":""
+},
+{"qText": "I passed the test .....................",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "hard (adverb)",
+  "hardly (adverb)",
+  "hard (adjective)",
+  "hardly (adjective)"
+],
+"correctAnswer": "Those animals are very dangerous.",
+"review":""
+}
+  
+    ],
+    "mcqLesson":[
+      {"qText": "\"Come here ..................\" our teacher said.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "quick (adverb)",
+        "quickly (adverb)",
+        "quick (adjective)",
+        "quickly (adjective)"
+      ],
+      "correctAnswer": "quickly (adverb)",
+      "review":""
+    },
+    {"qText": "The ................ bird gets the worm.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.05,
+      "type": "mcq",
+    "answers": [
+      "early(adverb)",
+      "early(adjective)"
+      
+    ],
+    "correctAnswer": "early(adjective)",
+    "review":""
+  },
+  {"qText": "She jumped up ............... and danced.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.05,
+    "type": "mcq",
+  "answers": [
+    "sudden(adjective)",
+    "suddenly(adverb)",
+    "sudden(adverb)",
+    "suddenly(adjective)"
+  ],
+  "correctAnswer": "suddenly(adverb)",
+  "review":""
+},
+{"qText": "Anusha is the ................ student in the class.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "small",
+  "smallest",
+  "smaller"
+],
+"correctAnswer": "smallest",
+"review":""
+},
+{"qText": "I like her. Because she is ............. than her sister.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "pretty",
+  "prettier",
+  "prettiest"
+],
+"correctAnswer": "prettier",
+"review":""
+},
+{"qText": "Wimal is ............ his brother.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "older",
+  "oldest",
+  "older than"
+],
+"correctAnswer": "older than",
+"review":""
+},
+{"qText": "My sister is .............. me.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "fat",
+  "the fattest",
+  "fatter than"
+],
+"correctAnswer": "fatter than",
+"review":""
+},
+{"qText": "My car is the .................... among these.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "expensivest",
+  "more expensive",
+  "most expensive"
+],
+"correctAnswer": "most expensive",
+"review":""
+},
+{"qText": "Look Jeewan! you should drive ................. since today.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "careful",
+  "carefully",
+  "more careful"
+],
+"correctAnswer": "carefully",
+"review":""
+},
+{"qText": "The new language school has a ................. exam pass rate than the other schools in the area.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "So high",
+  "highest",
+  "higher"
+],
+"correctAnswer": "higher",
+"review":""
+},
+{"qText": "I didn't want to wake up my wife, so I left the room ..................",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "quiet",
+  "quietly"
+],
+"correctAnswer": "quietly",
+"review":""
+},
+{"qText": "We had a ................ time in Hikkaduwa beach.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "greatly",
+
+  "great"
+],
+"correctAnswer": "great",
+"review":""
+},
+{"qText": "John arrived at the airport ................., and missed his flight.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "lately",
+
+  "late"
+],
+"correctAnswer": "lately",
+"review":""
+},
+{"qText": "She is a very kind and ............. person.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+
+  "gentle",
+  "gently"
+],
+"correctAnswer": "gentle",
+"review":""
+},
+{"qText": "She speaks very ...............",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+
+  "quick",
+  "quickly"
+],
+"correctAnswer": "quickly",
+"review":""
+},
+{"qText": "He should pass the test ....................",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "easily(adjective)",
+  "easy(adverb)",
+  "easily(adverb)",
+  "easy(adjective)"
+],
+"correctAnswer": "easily(adverb)",
+"review":""
+},
+{"qText": "I was .................... shocked.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "complete(adjective)",
+  "completely(adverb)",
+  "complete(adverb)",
+  "completely(adjective)"
+],
+"correctAnswer": "completely(adjective)",
+"review":""
+},
+{"qText": "It was a ...................... day for us all.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+
+  "sadly",
+  "sad"
+],
+"correctAnswer": "sadly",
+"review":""
+},
+{"qText": "He is the ....................... person in our village.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "enjoyable",
+  "more enjoyable",
+  "most enjoyable"
+],
+"correctAnswer": "most enjoyable",
+"review":""
+},
+{"qText": "Covid 19 is ................... tan SARCE.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "bad",
+  "worse",
+  "worst"
+],
+"correctAnswer": "worse",
+"review":""
+}
+
+   
+   
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

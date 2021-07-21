@@ -1,0 +1,184 @@
+[
+  {
+    "title": "පාඩම එකතු කර නැත.",
+    "description": "",
+    "lesson":"day15Lesson01",
+    "day": "6065aa5ec75cd45a05afec21",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "A: ................... did you go home yesterday night?* *B: By a taxi.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "Dialog",
+      "answers": [
+        "Where",
+        "Why",
+        "How"
+      ],
+      "correctAnswer": "How",
+      "review":""
+    },
+    {"qText": "Susil: Wije, ............. have you been working here?* *Wije: A.round two months.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "Dialog",
+    "answers": [
+      "how",
+      "How much",
+      "How long"
+    ],
+    "correctAnswer": "How long",
+    "review":""
+  },
+  {"qText": "Teacher: ............ is your best friend?* *Student: My best friend is Kaveesha.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "Dialog",
+  "answers": [
+    "Who",
+    "Why",
+    "Where"
+  ],
+  "correctAnswer": "Who",
+  "review":""
+},
+{"qText": "ඇයි ඔබ පන්සලට යන්නේ නැත්තේ? මෙය නිවැරිදිව ඉංග්‍රීසියෙන් සඳහන් කර ඇත්තේ,",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "How do you go to the temple?",
+  "Why do you go to the temple?",
+  "Why don't you go to the temple?"
+],
+"correctAnswer": "Why don't you go to the temple?",
+"review":""
+},
+{"qText": "ඔබට කාවද මුණ ගැසෙන්න ඕනා? මෙය නිවැරිදිව ඉංග්‍රීසියෙන් සඳහන් කර ඇත්තේ?",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "What do you want to meet?",
+  "Who do you want to meet?",
+  "How do you want to meet?"
+],
+"correctAnswer": "Who do you want to meet?",
+"review":""
+}
+
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "Select the WH question.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "Where have you been last few days?",
+"Will he be selected bu the interview?",
+"Did she sit for the examination?"
+      ],
+      "correctAnswer": "Where have you been last few days?",
+      "review":"WH questions ආරම්භ වන්නේ where, why, who, when, how, how much, how many ආදියෙනි."
+    },
+    {"qText": "Father: ............. was the play?* *Son: It was boring.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "who",
+"What",
+"How",
+"How much"
+    ],
+    "correctAnswer": "How",
+    "review":"ප්‍රශ්නයට පිළිතුර වන්නේ 'ඒක කම්මැලි; යන්නයි. එසේනම් ප්‍රශ්නය විය යුත්තේ 'නාට්‍ය කොහොමද?' යන්නයි. කොහොමද යන්න දැක්වීමට How යෙදේ."
+  },
+  {"qText": "Interviewer: ........... are the languages can you speak?* *Interviewee: I can speak English and French.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.125,
+    "type": "Dialog",
+  "answers": [
+    "How many",
+"Why",
+"How",
+"What"
+  ],
+  "correctAnswer": "What",
+  "review":"පිළිතුර වන්නේ ඔහුට කතා කළහැකි භාෂාවන්ය. එසේනම් ප්‍රශ්නය විය යුත්තේ ඔබට කතාකල හැකි භාෂාවන් මොනවද යන්නයි."
+},
+{"qText": "Select the most suitable question for the below answer.* *A: They go to the movies every Sunday.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "Why do they go every Sunday?",
+"Where do they go every Sunday?",
+"How do they go every Sunday?",
+"Why do they go every Sunday?"
+],
+"correctAnswer": "Where do they go every Sunday?",
+"review":"පිළිතුර වන්නේ ඔවුන් සෑම ඉරිදාම චිත්‍රපට බලන්න යනවා යන්නයි. ප්‍රශ්නය වන්නේ 'ඔවුන් හැම ඉරිදාම කොහෙද යන්නේ?' යන්නයි. Simple present questuion. "
+},
+{"qText": "Select the most suitable question for the below answer.* *A: They are leaving tonight.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "Why are they leaving?",
+"When are they leaving?",
+"How are they leaving?",
+"Where are they leaving?"
+],
+"correctAnswer": "When are they leaving?",
+"review":"පිළිතුර වන්නේ ඔවුන් අද රෑට පිටත් වෙනවා යන්නයි. ප්‍රශ්නය විය යුත්තේ ඔවුන් කීයටද පිටත් වෙන්නේ යන්නයි. When වලින් ආරම්භ වේ."
+},
+{"qText": "Q: Where .............. she ............ going?* *A: I think she will be going to Canada.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "does/ be",
+"is/ be",
+"will/ be",
+"will/ being"
+],
+"correctAnswer": "will/ be",
+"review":"පිළිතුර future continuous වලින් දී ඇත. ප්‍රශ්නයද future continuous වලින් ඇසිය යුතුය."
+},
+{"qText": "Select the suitable question about the word 'a novel'* *He is reading a novel.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "What does he read?",
+"What is he read?",
+"What is he reading?",
+"What does he reads?"
+],
+"correctAnswer": "What is he reading?",
+"review":"වාක්‍ය 'ඔහු නවකතාවක් කියවනවා' යන්නයි. එය present continuous වලින් ලබා දී ඇත. එසේනම් ප්‍රශ්නය විය යුත්තේ 'මොකද්ද ඔහු කියවමින් ඉන්නේ?' යන්නයි. "
+},
+{"qText": "Select the suitable question about the word 'tired'* *My brother did not eat it, because he was tired.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "Why doesn't he eat it?",
+"Why didn't he eat it?",
+"How didn't he eat it?",
+"Why did he eat it?"
+],
+"correctAnswer": "Why didn't he eat it?",
+"review":"පිළිතුර වන්නේ මහන්සිය නිසා සහෝදරයා එය නොකෑ බවයි. simple past tense වලට අදාලයි. ප්‍රශ්නය විය යුත්තේ 'ඇයි ඔහු කෑවේ නැත්තේ?' යන්නයි. එයද simple past tense වලින් තිබිය යුතුය."
+}
+
+    ],
+    "videoURL":"UX5EeuBn_lc"
+
+  }
+ 
+  
+]

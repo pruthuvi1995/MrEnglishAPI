@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Perfect Continuous Tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Perfect Continuous Tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ. පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day12Lesson01",
+    "day": "6065aa5ec75cd45a05afec1e",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "We use perfect continuous tense for,",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "explaining a future incident",
+"explaining a past incident",
+"explaining an incident which proceeds a period of time."
+      ],
+      "correctAnswer": "explaining an incident which proceeds a period of time.",
+      "review":""
+    },
+    {"qText": "What are the tense types contain in perfect continuous tense,",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "Perfect and continuous tenses",
+"Simple future and simple present tenses",
+"Perfect and past continuous tenses."
+    ],
+    "correctAnswer": "Perfect and continuous tenses",
+    "review":""
+  }
+  ,{"qText": "What is the suitable form of the verb in perfect continuous tense,",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "infinitive",
+"past participle",
+"verb + ing"
+  ],
+  "correctAnswer": "verb + ing",
+  "review":""
+},
+{"qText": "'මම අවුරුදු 2ක් තිස්සේ driving ඉගෙන ගන්නවා.' What is the most suitable English sentence,",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "I am studying driving for two years.",
+"I have been studied driving for two years.",
+"I have been studying driving for two years."
+],
+"correctAnswer": "I have been studying driving for two years.",
+"review":""
+},
+{"qText": "She had been ................. the speech for one hour.",
+  "imageUrl":"assets/images/h1.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "practised",
+"practise",
+"practicing" 
+],
+"correctAnswer": "practicing",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "Janaki ............... been studying hard this semester.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "is",
+        "have",
+        "has"
+      ],
+      "correctAnswer": "has",
+      "review":"ජානකි මේ semester එකේ මහන්සි වී ඉගෙන ගන්නවා යන්න අර්ථවත් වේ. Present perfect continuous ය. Janaki, singular noun බැවින් has been යෙදේ."
+    },
+    {"qText": "I was tired. Because I ................ been ............. out.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "have, worked",
+      "had, working",
+      "will have, working"
+    ],
+    "correctAnswer": "had, working",
+    "review":"මම ව්‍යායාම කරමින් සිටින නිසා ගොඩාක් වෙහෙසකාරී වූ බව අර්ථවත් වේ. past perfect continuous tense විය යුතුය."
+  },
+  {"qText": "We have been travelling .................... two months.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "since",
+    "for",
+    "by"
+  ],
+  "correctAnswer": "for",
+  "review":"අපි මාස දෙකක් තිස්සේ සංචාරය කරනවා යන්න අර්ථවත් වේ. 'තිස්සේ' යන්න දැක්වීමට අදාළ preposition වන්නේ for ය."
+},
+{"qText": "Don't worry! We ................ finding your money since tomorrow.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "have been",
+  "had been",
+  "will have been"
+],
+"correctAnswer": "will have been",
+"review":"අපි හෙට සිට යම් කාලයක් පුරාවට ඔබේ මුදල් සොයනවා යන්න අර්ථවත් වේ. future perfect continuous tense ය."
+},
+{"qText": "She ................ doing her homework until you came home.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "have been",
+  "had been",
+  "will have been"
+],
+"correctAnswer": "had been",
+"review":"ඔබ ගෙදර එනතුරු ඇය ගෙදර වැඩ කරමින් හිටියා යන්න අර්ථවත් වේ. past perfect continuous tense වේ."
+},
+{"qText": "පැය 4ක් තිස්සේ ඇය ඉංග්‍රීසි උගන්වමින් ඉන්නවා.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "She is been teaching English for 4 hours.",
+  "She has teaching English for 4 hours",
+  "She has been teaching English for 4 hours."
+],
+"correctAnswer": "She has been teaching English for 4 hours.",
+"review":"present perfect continuous tense වලට අනුව වාක්‍ය ගොඩනැගිය යුතුය."
+},
+{"qText": "ඔවුන් සතියක් තිස්සේ ගෙයක් හදමින්ද හිටියේ? ",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "Had they been building a house for a week?",
+  "Have they been building a house for a week?",
+  "Had they been build a house for a week?"
+],
+"correctAnswer": "Had they been building a house for a week?",
+"review":"මෙය past perfect continuous tenseවලට අදාළ question එක වේ. පළමුව අපි සාමාන්‍ය වාක්‍ය සලකමු. They had been building a house for a week. ප්‍රශ්නය සැදීමේදී 'had ' මුලට යෙදේ."
+},
+{"qText": "Principle ................... been .................... some students since today morning.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "had / punish",
+  "has / punished",
+  "has / punishing"
+],
+"correctAnswer": "has / punishing",
+"review":"present perfect continuous tense වේ."
+},
+{"qText": "Teachers had been marking papers ................. the vacation.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "in",
+  "during",
+  "after"
+],
+"correctAnswer": "",
+"review":"perfect continuous tense බැවින් කාල වකවානුවක් සඳහන් විය යුතුය. 'නිවාඩු කාලය තුළදී' යන්න දැක්වීමට during යෙදේ."
+},
+{"qText": "........................ has been .................... money to buy a car.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "He, collected",
+  "They, collecting",
+  "She, collecting"
+],
+"correctAnswer": "She, collecting",
+"review":"has been ඇති නිසා present perfect continuous tense යෙදිය යුතු අතර කතෘ singular noun විය යුතුය."
+}
+    ],
+    "videoURL":"TBhuBNfW0Ro"
+
+  }
+ 
+  
+]

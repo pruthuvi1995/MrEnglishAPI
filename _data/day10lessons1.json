@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Present Perfect Tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන ඉංග්‍රීසි භාෂාවේ භාවිතා වන Continuous tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ. පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day10Lesson01",
+    "day": "6065aa5ec75cd45a05afec1c",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "When we build up a sentence using present perfect tense, the verb should be in",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "infinitive form",
+        "future form",
+        "past form",
+        "past participle form"
+      ],
+      "correctAnswer": "past participle form",
+      "review":""
+    },
+    {"qText": "They have ................. a new house.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "build",
+      "built",
+      "building"
+    ],
+    "correctAnswer": "build",
+    "review":""
+  },
+  {"qText": "I ............ French.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "haven't learnt",
+    "hasn't learn",
+    "haven't learn"
+  ],
+  "correctAnswer": "haven't learnt",
+  "review":""
+},
+{"qText": "She ............... gone home.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  "have",
+  
+  "has"
+],
+"correctAnswer": "has",
+"review":""
+},
+{"qText": "My brother and I .............. paddy.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "have cultivated",
+  "has cultivated"
+],
+"correctAnswer": "have cultivated",
+"review":""
+},
+{"qText": "The government........................ to help the poor.",
+  "imageUrl":"assets/images/h1.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "decide",
+  "have decided",
+  "has decided"
+],
+"correctAnswer": "has decided",
+"review":""
+},
+{"qText": "The engineers have......................the building in the open area.",
+  "imageUrl":"assets/images/h2.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "build",
+  "built",
+  "building"
+],
+"correctAnswer": "build",
+"review":""
+},
+{"qText": "When we went there to meet him, he................the houses.",
+  "imageUrl":"assets/images/h3.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "left",
+  "have left",
+  "had left"
+],
+"correctAnswer": "had left",
+"review":""
+},
+{"qText": "When you will return to Sri Lanka,they ......................... their past memories.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "forget",
+  "forgot",
+  "will have forgotten"
+],
+"correctAnswer": "will have forgotten",
+"review":""
+},
+{"qText": "The manager ............. before you entered the office.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+  "type": "mcq",
+"answers": [
+  
+  "have checked",
+  "had checked",
+  "checked"
+],
+"correctAnswer": "had checked",
+"review":""
+}
+
+
+
+
+
+
+
+
+
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "Why don't you get dinner with us? we...............everything.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "has arranged",
+        "have arranged",
+        "will have arranged"
+      ],
+      "correctAnswer": "have arranged",
+      "review":"ඇයි ඔබ අපිත් සමඟ රාත්‍රී ආහාරය නොගන්නේ ?අපි සියලු දේ පිළියෙළ කර ඇති බව අර්ථවත් වේ."
+    },
+    {"qText": "My grand mother has ............... sil on poya day.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "observe",
+      "observes",
+      "observed"
+    ],
+    "correctAnswer": "observed",
+    "review":"මෙහි අරුත මගේ ආච්චි සිල් සමාදන් වෙලා තිබෙනවා යන්නයි.එහිදී  has වලට පසුව  verb හි  past participal යෙදේ ."
+  },
+  {"qText": "We have already.................... English homework.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "finish",
+    "finishing",
+    "finished"
+  ],
+  "correctAnswer": "finished",
+  "review":"already යනු දැනටමත් යන්නයි.අපි දැනටමත් ඉංග්‍රීසි ගෙදර වැඩ කරලා අවසන් වෙලා තියෙනවා යන්න අර්ථවත් වේ. finish හි past participal finished ලෙස නිවැරදි පිළිතුර ලැබේ."
+},
+{"qText": "I have never .................to Nuwara Eliya.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "gone",
+  "been",
+  "went"
+],
+"correctAnswer": "been",
+"review":"have never යනු කවදාවත් කරලා නෑ යන්නයි.එවිට  verb හි  past participal යොදයි.  gone හෝ  been යොදයි.නමුත් මෙහි දී පවසන්නේ මම කවදාවත්නු වරඑලියට ගිහින් නෑ යන්නයි.එනම් දැන් මම ඉන්නේ නුවරඑළියේ නොව වෙනත් ප්‍රදේශයකයි. එමනිසා පිළිතුර been යෙදිය යුතුය"
+},
+{"qText": "The girls .............. Tennis at the club since 2005.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "has played",
+  "playing",
+  "have played"
+],
+"correctAnswer": "have played",
+"review":"2005  සිට ගෑනු ලමයි ටෙනිස් ක්‍රීඩා කරනවා යන්න අර්ථවත් වේ.girls plural වන බැවින් have played යෙදේ."
+},
+{"qText": "I.........  at that restaurant in a long time.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "hasn't eaten",
+  "haven't eat",
+  "haven't eaten"
+],
+"correctAnswer": "haven't eaten",
+"review":"මම කාලෙකින් අර අපනශාලාවෙන් කාලා නෑ යන්න අර්ථවත් වේ.  present perfect negative වේ."
+},
+{"qText": ".............. Jane .............. her ideas to the CEO, before he left the country.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "have, presented",
+  "have, present",
+  "had, presented"
+],
+"correctAnswer": "had, presented",
+"review":"මෙහිදී CEO රටින් යන්න කලින්  Jane ඇයගේ අදහස ඔහුට පැවසුවේද යන්න අර්ථවත් වේ."
+},
+{"qText": "She .......................... in the funeral ten years ago.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "have participated",
+  "had participated",
+  "will participated"
+],
+"correctAnswer": "had participated",
+"review":"අවුරුදු 10 ට කලින් ඇය අවමන්ගල්‍යට සහභාගී වී තිබුණා යන්න අර්ථවත් වේ. past perfect tense පිළිතුර ලෙස ලැබේ."
+}
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

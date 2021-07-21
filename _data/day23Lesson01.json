@@ -1,0 +1,45 @@
+[
+    {
+      "title": "පාඩම එකතු කර නැත.",
+      "description": "",
+      "lesson":"day23Lesson01",
+      "day": "6075da74c75cd45a05afec69",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "",
+          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "",
+          "",
+          ""
+        ],
+        "correctAnswer": "",
+        "review":""
+      }
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "",
+          "imageUrl":"assets/images/hasanjana.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "",
+          "",
+          ""
+        ],
+        "correctAnswer": "",
+        "review":""
+      }
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

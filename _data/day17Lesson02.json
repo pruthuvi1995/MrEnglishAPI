@@ -1,0 +1,163 @@
+[
+    {
+      "title": "May. Might and Ought to",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන may, might and ought to පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day17Lesson02",
+      "day": "6075da74c75cd45a05afec63",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "සමහරවිට ඔවුන් අද ගෙදර ඇති. මෙයට ගැලපෙන ඉංග්‍රීසි වාක්‍ය කුමක්ද?",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.25,
+          "type": "mcq",
+        "answers": [
+          "They ought to be at home today.",
+          "They must be at home today.",
+          "They have to at home today."
+        ],
+        "correctAnswer": "They ought to be at home today.",
+        "review":""
+      },
+      {"qText": "'මම ඔහුට කතා කරන්නද?' නිවැරිදි ඉංග්‍රීසි වාක්‍ය කුමක්ද? ",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "Should I talk to him?",
+        "May I talk to him?",
+        "Might I talk to him?"
+      ],
+      "correctAnswer": "May I talk to him?",
+      "review":""
+    },
+    {"qText": "සමහරවිට ඔහු ඔබට උදව් කරාවි.නිවැරිදි ඉංග්‍රීසි වාක්‍ය කුමක්ද?",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.25,
+      "type": "mcq",
+    "answers": [
+      "He might help you.",
+      "He must help you.",
+      "He will help you."
+    ],
+    "correctAnswer": "He might help you.",
+    "review":""
+  },
+  {"qText": "සමහරවිට ඔවුන් එය පිළි නොගනීවි.නිවැරිදි ඉංග්‍රීසි වාක්‍ය කුමක්ද? ",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.25,
+    "type": "mcq",
+  "answers": [
+    "They don't may agree with it",
+    "They may don't agree with it",
+    "They may not agree with it"
+  ],
+  "correctAnswer": "They may not agree with it",
+  "review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": ".......... god have mercy on your soal.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "may",
+          "might",
+          "ought to"
+        ],
+        "correctAnswer": "may",
+        "review":"ප්‍රාර්ථනාවක් සඳහන් කිරීමේදී may යෙදේ."
+      },
+      {"qText": "It ........... be very expensive, but it is much better than the others.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "may",
+        "might not"
+      ],
+      "correctAnswer": "may",
+      "review":"'එය මිල විය හැකිය. අනෙක් ඒවාට වඩා එක ගොඩක් හොදයි.' යන අර්ථය ලැබේ. negative අර්ථයක් ලැබිය නොහැකිය."
+    },
+    {"qText": "Ruwan might be busy tomorrow night. What is the meaning of this sentence?",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "He'll surely be busy",
+      "He'll probably be busy",
+      "Most of the time he won't be busy."
+    ],
+    "correctAnswer": "Most of the time he won't be busy.",
+    "review":"might යෙදු විට යමක් සිදුවීමේ ප්‍රවනතාවය අඩුය."
+  },
+  {"qText": "Sandali night come to the party. What is the meaning of this sentence?",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "She is not allowed to come",
+    "She shouldn't come",
+    "Most of the time she won't come"
+  ],
+  "correctAnswer": "Most of the time she won't come",
+  "review":"might come කියුවිට එය සිදුවීමේ ප්‍රවනතාවය අඩුය."
+},
+{"qText": "Look! It is lightning and thundering. Take your umbrella as it ......... today.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "may rain",
+  "might rain"
+],
+"correctAnswer": "may rain",
+"review":"විදුලි කොටන අකුණු ගහන බැවින් බොහෝවිට වර්ෂාව ඇතිවිය හැකිය. may rain යෙදේ."
+},
+{"qText": "Father, my friends are having a party tonight. ............... please?",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "May I go",
+  "May I gone",
+  "May they go"
+],
+"correctAnswer": "May I go",
+"review":"යාලුවන්ගේ පාටියට යාමට පියාගෙන් අවසර ඉල්ලීමට සිදු වේ. අවසරයක් ගැනීමේදී may යෙදේ. ඉන්පසු යොදන්නේ verb හි basic form වේ."
+},
+{"qText": "My brother can't repair his camera. He ............ buy a new one. Because his passion is photography.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "might not",
+  "may",
+  "may not"
+],
+"correctAnswer": "may",
+"review":"ඡයාරූප ගැනීමට සහෝදරයා කැමතිය. ඔහුගේ කැමරාව අලුත්වැඩියා කල නොහැකි නිසා බොහෝවිට අලුතෙන් එකක් ගනී යන අරුත ලැබේ."
+},
+{"qText": "............ I borrow your car, please. Because my one won't start. I want to take my daughter to the class.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "may",
+  "might",
+  "ought to"
+],
+"correctAnswer": "may",
+"review":"ඉල්ලීමක්දී may යෙදීම බහුලව සිදුවේ."
+}
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

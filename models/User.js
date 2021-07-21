@@ -27,6 +27,10 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please add ur phone No'],
   },
+  serviceProvider: {
+    type: String,
+    default: " ",
+  },
   mark: {
     type: Number,
     default: 0,

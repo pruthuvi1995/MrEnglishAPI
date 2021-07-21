@@ -1,0 +1,320 @@
+[
+  {
+    "title": "Prepositions about time",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Prepositions about time පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day06Lesson01",
+    "day": "6065aa5ec75cd45a05afec18",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "My brother is ........ May.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "in",
+        "on",
+        "at"
+      ],
+      "correctAnswer": "in",
+      "review":""
+    },
+    {"qText": "my examination is ............... the 12th of November.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "in",
+      "at",
+      "on"
+    ],
+    "correctAnswer": "on",
+    "review":""
+  },
+  {"qText": "Suresh has been working on a bank ............ 2003.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "in",
+    "since",
+    "on"
+  ],
+  "correctAnswer": "since",
+  "review":""
+},
+{"qText": "I don't like it when people phone ................... I'm having my lunch.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "on",
+  "while",
+  "for"
+],
+"correctAnswer": "while",
+"review":""
+},
+{"qText": "He hasn't worked ................. he lost his job.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "since",
+  "for",
+  "by"
+],
+"correctAnswer": "since",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "Which sentence is not correct",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "We went to Turkey in June.",
+        "Let's go to the cinema in the weekend.",
+        "I'll finish the work in the morning."
+      ],
+      "correctAnswer": "Let's go to the cinema in the weekend.",
+      "review":"මෙම පාඩම් මාලාවේදී පැහැදිලි කල පරිදි weekend කියුවිට British English වලදී at weekend ලෙසද American english වලදී on weekend ලෙසද යෙදේ."
+    },
+    {"qText": "Which sentence is not correct",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.05,
+      "type": "mcq",
+    "answers": [
+      "I want to go on holiday at New Year",
+      "I have got a meeting at 10 o'clock.",
+      "I'm having a party at my birthday."
+    ],
+    "correctAnswer": "I'm having a party at my birthday.",
+    "review":"birthday යනු විශේෂිත දිනයකි. දිනයක් ගැන සඳහන් කිරීමේදී on preposition යෙදිය යුතුය."
+  },
+  {"qText": "Which sentence is correct.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.05,
+    "type": "mcq",
+  "answers": [
+    "We're going to the theatre on tomorrow night",
+    "Sehani was born on 5th October.",
+    "I have got to go to work in Monday."
+  ],
+  "correctAnswer": "Sehani was born on 5th October.",
+  "review":"Yesturday, today, tomorrow, last, next ලෙස යෙදුනු විට ඊට කලින් preposition නොයෙදේ. සාමාන්‍ය සතියේ දිනයකට කලින් on preposition යෙදිය යුතුය."
+},
+{"qText": "Which sentence is not correct",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "I saw Adhikari yesturday.",
+  "I went to the university 1996.",
+  "Shall we go out tonight."
+],
+"correctAnswer": "I went to the university 1996.",
+"review":"I went to the university 1996."
+},
+{"qText": "We will be going .................. a trip to Anuradhapura .................. wesak season.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "on, on",
+  "in, at",
+  "on, at"
+],
+"correctAnswer": "on, at",
+"review":"trip, vuyage, pilgrimage, field visit, visit ලෙස යෙදීමේදී on preposition යෙදිය යුතුය. Wesak poya day ලෙස තිබුනේ නම් දිනයක් බැවින් on preposition  තිබිය යුතුය. නමුත් මෙහි wesak season ලෙස තිබේ. එහි අරුත වෙසක් කාලය යන්නයි. යම් time duration එකක් ගැන සැලකීමේදී at preposition යෙදේ. "
+},
+{"qText": "Pawithra and Senuri have been in the same class ............. five grade.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "for",
+  "on",
+  "since"
+],
+"correctAnswer": "since",
+"review":"පවිත්‍රා හා සෙනුරි පහ ශ්‍රේණියේ සිට එකම පන්තියේ සිටින බව අර්ථවත් කෙරේ. since preposition යෙදේ."
+},
+{"qText": "Kevin has been studying music ............ five years.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "on",
+  "since",
+  "for"
+],
+"correctAnswer": "for",
+"review":"කෙවින් අවුරුදු පහක් තිස්සේ සංගීතය ඉගෙන ගන්නා බව අදහස් කෙරේ. for preposition යෙදේ. for හි අර්ථ දෙකකි. සඳහා, තිස්සේ "
+},
+{"qText": "Lunch is served ................. one o'clock.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in",
+  "at",
+  "on"
+],
+"correctAnswer": "at",
+"review":"කාලයක් ගැන කතා කිරීමේදී at preposition යෙදේ."
+},
+{"qText": "The train leaves ................... five minutes.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in",
+  "at",
+  "on"
+],
+"correctAnswer": "in",
+"review":"ඉහත වාක්‍ය ගැන හොදින් තේරුම් ගන්න. සමහරවිට ඔබat preposition නිවැරිදි පිළිතුර ලෙස තෝරන්න ඇත. නමුත් එය වැරදිය.මේ වාක්‍යයේ අර්ථය වන්නේ දුම්රිය විනාඩි 5කින් ගමන් ආරම්භ කරන බවයි. විනාඩි 5කින් යන්න අර්ථවත් කිරීමට in preposition යෙදේ."
+},
+{"qText": "Don't waste your time. Come .............. the evening. Because he will be talking with him ................... 6 o' clock.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in, until",
+  "on, at",
+  "in, on"
+],
+"correctAnswer": "in, until",
+"review":"morning, afternoon, evening සමඟ in preposition ද night, dawn(පාන්දර) සමඟ at preposition ද යෙදේ."
+},
+{"qText": ".................... New year season he will be ............ leave and come home.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "during, on",
+  "on, in",
+  "at, in"
+],
+"correctAnswer": "during, on",
+"review":"අවුරුදු කාලය තුලදී යන්න දැක්වීමට during preposition යෙදේ. නිවාඩු පිට ඉන්නවා ලෙස අර්ථවත් කිරීමට on preposition යෙදේ."
+},
+{"qText": "I always have a cup of coffee ............... the morning.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "on",
+  "in",
+  "at"
+],
+"correctAnswer": "in",
+"review":""
+},
+{"qText": "I saw Derek ................... Friday afternoon.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in the",
+  "in",
+  "on"
+],
+"correctAnswer": "on",
+"review":"මෙයද ගැටළු සහගත අවස්තාවකි. සමහරවිට ඔබ in preposition තෝරන්නට ඇත. නමුත් මෙහි අදහස් කරන්නේ සිකුරාදා සන්ධ්‍යාව යන්නයි. වැදගත් වන්නේ සන්ධ්‍යාව නොව සිකුරාදා යන දිනයයි. on preposition යෙදේ."
+},
+{"qText": "We are going shopping .................. tonight.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "at",
+  "on",
+  "no preposition"
+],
+"correctAnswer": "no preposition",
+"review":"today, tomorrow, yesterday, tonight, next, last, previous සමඟ preposition යොදන්නේ නැත."
+},
+{"qText": "Which sentence is not correct",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "We always visit our friends at New year's eve",
+  "Can we visit you on Sunday",
+  "He worked there from 2001 to 2010."
+],
+"correctAnswer": "We always visit our friends at New year's eve",
+"review":"New year's eve යනු අලුත් අවුරුද්දට සම්බන්ධව විශේෂිත දිනයකි. අවුරුද්දේ අවසන් දවස(December 31) on preposition යෙදිය යුතුය."
+},
+{"qText": "You have to leave your shoes ...............the door when you enter the house.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in",
+  "over",
+  "outside"
+],
+"correctAnswer": "outside",
+"review":""
+},
+{"qText": "When is his birthday? It's .................... January 20th.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in",
+  "on",
+  "at"
+],
+"correctAnswer": "on",
+"review":""
+},
+{"qText": "Kamalsiri visited his aunt at the hospital ................. the morning and called one of his neighbors.................... noon.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in, at",
+  "on, in",
+  "on, in"
+],
+"correctAnswer": "in, at",
+"review":"morning, afternoon, evening -> in preposition              night, dawn, present, noon(සන්ධ්‍යාව) -> at preposition "
+},
+{"qText": "His grandfather wrote a book ................... indigenous medicine in Sri Lanka. You can find it in some libraries ................... present.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "on, at",
+  "in, at",
+  "in, in"
+],
+"correctAnswer": "on, at",
+"review":"ඉහත පාඩමකදී සාකච්චා කල පරිදි on preposition වලින් සම්බන්ධව යන්න අර්තවත් වේ. example : This book is on music. or This book is about music. (මේ පොත සංගීතය ගැනයි.)"
+},
+{"qText": "When did your cousins visit you? .............. Christmas day ............. down.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "in, on",
+  "on, at",
+  "on, at"
+],
+"correctAnswer": "",
+"review":""
+}
+    ],
+    "videoURL":"GwoPBf0Yhyc"
+
+  }
+ 
+  
+]

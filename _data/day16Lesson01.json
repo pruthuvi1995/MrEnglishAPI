@@ -1,0 +1,179 @@
+[
+    {
+      "title": "Let's and Shall",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Let's and shall පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day16Lesson01",
+      "day": "6075da74c75cd45a05afec62",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "What is the meaning of Let's?",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "Let is",
+"Let was",
+"Let us"
+        ],
+        "correctAnswer": "Let us",
+        "review":""
+      },
+      {"qText": "Select the correct sentence.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Let's us go to the canteen.",
+"Shall we went to the canteen.",
+"Let's go to the canteen."
+      ],
+      "correctAnswer": "Let's go to the canteen.",
+      "review":""
+    },
+    {"qText": "What is the most suitable verb form to use with 'Let's'?",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "past",
+"past participle",
+"infinitive"
+    ],
+    "correctAnswer": "infinitive",
+    "review":""
+  },
+  {"qText": "What is the suitable form of the verb to use with 'shall we'?",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "future",
+    "infinitive",
+    "past participle"
+  ],
+  "correctAnswer": "infinitive",
+  "review":""
+},
+{"qText": "Why do we use 'Let's' in a sentence?",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "To ask a question",
+"To suggest something",
+"To deliver an advice"
+],
+"correctAnswer": "To suggest something",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "අපි කැරම් සෙල්ලම් කරමුද? යන්න ඉංග්‍රීසියෙන් ලියු විට",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "Let's us play carrom?",
+"Let's play carrom?",
+"Shall us play carrom?"
+        ],
+        "correctAnswer": "Let's play carrom?",
+        "review":"Let's සමඟ Let's + verb + ......... යන සුත්‍රය අනුගමනය කළ යුතුය."
+      },
+      {"qText": "අපි අද හවස මුණ ගැසේමුද? යන්න ඉංග්‍රීසියෙන් ලියු විට",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "Shall meet in the evening?",
+"Shall us meet in the evening?",
+"Shall we meet in the evening?"
+      ],
+      "correctAnswer": "Shall we meet in the evening?",
+      "review":"Shall we යොදනවිට යෝජනාවක් අර්ථවත්වන බැවින් shall + subject + verb + ....... අනුගමනය කල යුතුය."
+    },
+    {"qText": "හිස්තැනට ගැළපෙන නිවැරිදි වචන අනුපිළිවෙල වන්නේ,* *...........  ................  ........... to a Chinese .............?",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "shall, we, restaurant, go",
+"we, shall, go, restaurant",
+"shall, we, go, restaurant"
+    ],
+    "correctAnswer": "shall, we, go, restaurant",
+    "review":"shall + subject + verb + ....... අනුගමනය කළ යුතුය."
+  },
+  {"qText": "හිස්තැනට ගැළපෙන නිවැරිදි වචන අනුපිළිවෙල වන්නේ,* *........... ............. with him ........... the ..............",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "Let's, discuss, before, function",
+"Let's, discuss, function, before",
+"Shall we, function, discuss, before"
+  ],
+  "correctAnswer": "Let's, discuss, before, function",
+  "review":"Let's + verb + ......... අනුගමනය කළ යුතුය."
+},
+{"qText": "We can't use shall to ask for instruction.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "TF",
+"answers": [
+  "true",
+"false"
+],
+"correctAnswer": "false",
+"review":"යෝජනාවකදී, උපදේශයක් බලාපොරොත්තු වීමේදී, සේවාවක් සපයන විට යන අවස්ථා සියල්ලටම shall යෙදේ. Shall we buy it?, what shall we do now?, Shall we do it for you?"
+},
+{"qText": "My friends are vegetarians, what .......... I cook?",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "Let's",
+"Shall"
+],
+"correctAnswer": "Shall",
+"review":"මෙහිදී උපදේශයක් බලාපොරොත්තු වේ. shall යෙදේ."
+},
+
+{"qText": "............. I bring you a cup of water.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "Let's",
+  "shall"
+],
+"correctAnswer": "Shall",
+"review":"යම් සේවාවක් පිරිනැමීම ගැන කතා කරයි. shall යෙදේ."
+},
+
+{"qText": "Which type of sentences uses Shall?",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "To ask for instructions",
+"To make suggestions",
+"To offer services",
+"above all"
+],
+"correctAnswer": "above all",
+"review":"shall භාවිතයෙන් උපදේශයක් ලබා ගැනීම, යෝජනාවක් කිරීම, සේවාවක් සැපයීම යන සියල්ල පිළිබඳව යෙදිය හැකිය."
+}
+
+
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

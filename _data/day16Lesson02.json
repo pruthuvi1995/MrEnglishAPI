@@ -1,0 +1,172 @@
+[
+    {
+      "title": "Can and Could",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Can and Could පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day16Lesson02",
+      "day": "6075da74c75cd45a05afec62",
+      "imageURL": "1",
+      "mcqTrail":[
+       
+      {"qText": "මට ඉක්මනට උයන්න පුළුවන්. මෙයට අදාළ නිවැරිදි ඉංග්‍රීසි වාක්‍යය තෝරන්න.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "I could cook fast.",
+"I can cook fast.",
+"I can cooking fast."
+      ],
+      "correctAnswer": "I can cook fast.",
+      "review":""
+    },
+    {"qText": "ඔහුට සින්දු කියන්න පුලුවන් වුනා. මෙයට අදාළ නිවැරිදි ඉංග්‍රීසි වාක්‍යය තෝරන්න.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.25,
+      "type": "mcq",
+    "answers": [
+      "He can sing.",
+"He could singing.",
+"He could sing."
+    ],
+    "correctAnswer": "He could sing.",
+    "review":""
+  },
+  {"qText": "මහත්මයා, මට ඔබගේ දුරකථන අංකය දෙනවා ද? මෙයට අදාළ නිවැරිදි ඉංග්‍රීසි වාක්‍යය තෝරන්න.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.25,
+    "type": "mcq",
+  "answers": [
+    "Mister, can you please give me your phone number?",
+"Mister, could you please give me your phone number?",
+"Mister, could you please gave me your phone number?"
+  ],
+  "correctAnswer": "Mister, could you please give me your phone number?",
+  "review":""
+},
+{"qText": "සමන්ත, ඔයාට බැරි වුනාද ඔහුව මුණ ගැහෙන්න? මෙයට අදාළ නිවැරිදි ඉංග්‍රීසි වාක්‍යය තෝරන්න.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "Samantha, couldn't you meet him?",
+"Samantha, can't you meet him?",
+"Samantha, couldn't you met him?"
+],
+"correctAnswer": "Samantha, couldn't you meet him?",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "'Can' is used to,",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "to express ability",
+          "to get permission",
+          "to offer to do something",
+          "above all"
+        ],
+        "correctAnswer": "above all",
+        "review":"හැකියාවක් ගැන පැවසීමට, අවසරයක් ලබා ගැනීමට, යම් ක්‍රියාවක් පිරිනැමීමට can යෙදේ."
+      },
+      {"qText": "මට ඔහුව මුණ ගැහෙන්න පුළුවන්. මෙයට අදාළ නිවැරිදි ඉංග්‍රීසි වාක්‍යය තෝරන්න.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "I could meet him.",
+        "I meet can him.",
+        "I can meet him."
+      ],
+      "correctAnswer": "I can meet him.",
+      "review":"මෙය present tense වන බැවින් can යෙදේ."
+    },
+    {"qText": "In my first lesson as a teacher, I lost my self-confidence because I .............. teach anything. ",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "can",
+      "could",
+      "couldn't",
+      "can't"
+    ],
+    "correctAnswer": "couldn't",
+    "review":"මෙය අතීත වාක්‍යයකි. ගුරුවරයෙකු ලෙස කල පළමු පාඩම කරගත නොහැකි වූ බවක් අදහස් වේ. couldn't යෙදේ."
+  },
+  {"qText": "Maheshi and her mother ............. open the door because it is locked.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "can",
+    "could",
+    "couldn't",
+    "can't"
+  ],
+  "correctAnswer": "can't",
+  "review":"දොර ලොක් වී ඇති බැවින් එය විවෘත කරගත නොහැකි බව අදහස් වේ. present tense බැවින් can't යෙදේ."
+},
+{"qText": "Sir, ............ you please tell me where is the interview room?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "can",
+  "could",
+  "couldn't",
+  "can't"
+],
+"correctAnswer": "could",
+"review":"මෙහිදී interview ඇති ස්ථානය බොහෝ ගෞරවාන්විතව අසයි. ගෞරවයෙන් යමක් ඇසීමේදී could යෙදේ."
+},
+{"qText": "Before some decades in Sri Lanka people ........... manage their healthy life well.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "can",
+  "could",
+  "couldn't",
+  "can't"
+],
+"correctAnswer": "could",
+"review":"දශක කීපයකට කලින් ලාංකිකයන්ට සෞඛ්‍යමත් ජීවිතයක් කළමනාකරණය කරගත හැකි වූ බව පැවසේ. past tense වන බැවින් could යෙදේ."
+},
+{"qText": "Niroshan was the only one who ............. understand me, but now he ........... either.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "can/ can't",
+  "could/ can",
+  "could/ can't"
+],
+"correctAnswer": "could/ can't",
+"review":"නිරෝෂන් තමයි මාව තේරුම් ගත හැකි වූවූ එකම කෙනා බවත් දැන් ඔහුටත් එය බැරි බවත් අදහස් වේ. Past හා present යෙදුම් දෙකම ඇත."
+},
+{"qText": "I ............ finally talk to the doctor tried to reach him on the phone for hours.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "can",
+  "could",
+  "couldn't",
+  "can't"
+],
+"correctAnswer": "could",
+"review":"පැය ගානක් උත්සහ කිරීමෙන් පසු වෛද්‍යවරයාට කතාකල බව අර්ථවත් වේ. Past tense බැවින් could යෙදේ."
+}
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

@@ -1,0 +1,176 @@
+
+
+  [
+    {
+      "title": "Conjunctions - Part 02",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Conjunctions පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day20Lesson02",
+      "day": "6075da74c75cd45a05afec66",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "His favourite sports are vollyball ............... tennis.",
+          "imageUrl":"assets/images/h2.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "and",
+          "or",
+          "for"
+        ],
+        "correctAnswer": "and",
+        "review":""
+      },
+      {"qText": "Thomas will be late to work, ............. he has a dental appoinment.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "and",
+        "because",
+        "when"
+      ],
+      "correctAnswer": "because",
+      "review":""
+    },
+    {"qText": "............. Nishantha was being hit his friend called 119",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "because",
+      "if",
+      "while"
+    ],
+    "correctAnswer": "while",
+    "review":""
+  },
+  {"qText": "We are happy ............... we will receive the first price.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "because",
+    "if",
+    "before"
+  ],
+  "correctAnswer": "if",
+  "review":""
+},
+{"qText": "The supportive people were listening eagerly ............... the leader was speaking.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "after",
+  "since",
+  "while"
+],
+"correctAnswer": "while",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "................ Shalini worked hard, she failed the examination.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "Although",
+          "Because", 
+          "Since"
+        ],
+        "correctAnswer": "Although",
+        "review":"ශලිනි මහන්සි වී වැඩ කරා වුවත් ඇය විභාගය අසමත් වුනා. මෙහිදී වුවත් යන්න although ලෙස දැක්විය හැකිය."
+      },
+      {"qText": "There was a silence ............... the chief guest had gone.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "after",
+        "until",
+        "since"
+      ],
+      "correctAnswer": "until",
+      "review":"ප්‍රධාන ආරාධිත අමුත්තා යන තුරු  යන්න අර්ථවත් වේ."
+    },
+    {"qText": "My youngest sister started to cry ................ she had lost her golden watch.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "whether",
+      "if",
+      "because"
+    ],
+    "correctAnswer": "because",
+    "review":"මෙහිදී පළමුව result ද දෙවනුව reason ද පෙන්වා දී ඇත."
+  },
+  {"qText": "I can't come with you ............ you don't have a proper job said the girl.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "though",
+    "since",
+    "until"
+  ],
+  "correctAnswer": "since",
+  "review":"ඔබට රැකියාවක් නොමැති නිසා මට ඔබ සමඟ ආ නොහැකි බව අර්ථවත් වේ. මෙහිදී reason හා result පිළිබඳව පැහැදිලි වේ. because, as, since යෙදිය හැකිය."
+},
+{"qText": "They had reached the place ................ he gave them.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "when",
+  "though",
+  "while"
+],
+"correctAnswer": "when",
+"review":"මෙම sentences, past perfect හා simple past වේ. සිදුවීම් දෙක සම්බන්ධ වන්නේ 'විට' - when යෙදීමෙනි."
+},
+{"qText": "Anuradha got the job .................. she had no experience.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "even though",
+  "as"
+],
+"correctAnswer": "even though",
+"review":"ඇයට අත්දැකීම් නැති වුවත් රැකියාව ලැබුනා යන්න අර්ථවත් වේ. although, though, even though යෙදිය හැකිය."
+},
+{"qText": "Lakshitha passed the exam first time ............ I had to retake it three times.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "as",
+  "while"
+],
+"correctAnswer": "while",
+"review":"මම තුන්පාරක් විභාගය ගන්න අතරතුර ඔහු පලවෙනි පාරම විභාගය සමත් වූ බව පැවසේ."
+},
+{"qText": "............... my wife likes to travel, I prefer to stay at home for my vacation.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "whereas",
+  "since"
+],
+"correctAnswer": "whereas",
+"review":"මගේ බිරිඳ සංචාරය කිරීමට කැමති වුවද මම වඩා කැමති නිවාඩුව ගෙදර ගත කරන්න බව අර්ථවත් වේ. although, though, even though වුවද යෙදිය හැකිය."
+}
+      ],
+      "videoURL":"tj_4qKcOTgs"
+  
+    }
+   
+    
+  ]
+  

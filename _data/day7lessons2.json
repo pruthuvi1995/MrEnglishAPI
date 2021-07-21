@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Simple present tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන simple present tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day07Lesson02",
+    "day": "6065aa5ec75cd45a05afec19",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "Anne .................. to the disco.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "go",
+        "goes",
+        "gos"
+      ],
+      "correctAnswer": "goes",
+      "review":""
+    },
+    {"qText": "It always ..................... on Saturdays.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "happens",
+      "happen",
+      "happenes"
+    ],
+    "correctAnswer": "happens",
+    "review":""
+  },
+  {"qText": "Susil and his wife ...................... the family.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "help",
+    "helps",
+    "helpies"
+  ],
+  "correctAnswer": "help",
+  "review":""
+},
+{"qText": "My baby ....................... when she can't see me.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "cry",
+  "crys",
+  "cries"
+],
+"correctAnswer": "cries",
+"review":""
+},
+{"qText": "We sometimes ................... books.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "read",
+  "reads",
+  "reading"
+],
+"correctAnswer": "read",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "They ................. a nice house.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "have",
+        "has",
+        "haves"
+      ],
+      "correctAnswer": "have",
+      "review":"have හෝ has යනු වර්තමාන කාලයෙන් තියෙනවා හෝ ඉන්නවා යන්නයි .They බහුවචන වන බැවින් have යෙදිය යුතුය."
+    },
+    {"qText": "My mother .................... cakes.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "makes",
+      "make",
+      "making"
+    ],
+    "correctAnswer": "makes",
+    "review":"my mother ඒකවචන කතෘ කෙනෙක් වන බැවින් simple present tense වලදී ක්‍රියාවේ අගට s ශබ්දයක් යෙදේ."
+  },
+  {"qText": "I ..................... Italian.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "speak",
+    "speaks",
+    "speakes"
+  ],
+  "correctAnswer": "speak",
+  "review":"Simple present tense වලදී I බහුවචන සේ සැලකේ. "
+},
+{"qText": "My brother and sister .................... carrom.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "play",
+  "plays",
+  "plaies"
+],
+"correctAnswer": "play",
+"review":"My brother and sister බහුවචන වේ. ක්‍රියාවේ සාමාන්‍ය ස්වරූපය යෙදේ."
+},
+{"qText": "Lions ....................... in Africa.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "live",
+  "lives",
+  "living"
+],
+"correctAnswer": "live",
+"review":"Lions plural වේ."
+},
+{"qText": "Sampath ......................... his homework at night.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "don't do",
+  "doesn't do",
+  "didn't did"
+],
+"correctAnswer": "doesn't do",
+"review":"Sampath singular subject එකකි.නැත අර්ථය ලිවීමේදී doesn't යෙදිය යුතු අතර does කියූ විට s ශබ්දය කියවෙන බැවින් ක්‍රියාපදයට s ශබ්දය නොයෙදේ."
+},
+{"qText": "Our team is in Madrid this week. They ............... part in a contest.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "takes",
+  "take",
+  "took"
+],
+"correctAnswer": "take",
+"review":"they plural subject එකක් වේ.ක්‍රියාපදයේ අගට s ශබ්දයක් යෙදෙන්නේ නැත."
+},
+{"qText": "Sarath is so lazy. He never .................. to help his mother.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "trys",
+  "tries",
+  "tries"
+],
+"correctAnswer": "tries",
+"review":"Sarath singular subject එකකි.එමනිසා ක්‍රියාවේ අගට s ශබ්දයක් යෙදිය යුතුය.අවසන් වන්නේ y වලින් නම් එයට කලින් vowel අකුර නොවන නිසා y ඉවත් කර ies එකතු කල යුතුය ."
+},
+{"qText": "We ..................... our parents regularly.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "don't visit",
+  "doesn't visit",
+  "doesn't visits"
+],
+"correctAnswer": "don't visit",
+"review":"මෙය නැත අර්ථය සහිතය. Simple present tense වලදී නැත අර්ථය යෙදීමට don't හෝ doesn't යොදයි. We plural වන බැවින් don't යෙදිය යුතුය."
+},
+{"qText": "She ...................... to pass the O/L examination.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "don't want",
+  "doesn't wants",
+  "doesn't want"
+],
+"correctAnswer": "doesn't want",
+"review":"She singular වන බැවින් doesn't යෙදිය යුතුය. doesn't යෙදු විට s ශබ්දය කියවෙන බැවින් verb හි අගට s ශබ්දය යොදන්නේ නැත."
+}
+    ],
+    "videoURL":"qUImLUbtzlc"
+
+  }
+ 
+  
+]

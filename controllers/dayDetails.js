@@ -109,30 +109,57 @@ exports.updateDayDetails = asyncHandler(async (req, res, next) => {
 
 exports.getOtp = asyncHandler(async (req, res, next) => {
 let response;
-  let phoneNo = req.body.phoneNo.substring(1);
+  let phoneNo = req.body.phoneNo.substring(1)
+  let serviceProvider = req.body.serviceProvider;
 
-  const details = {
-    applicationId:'APP_060148',
-    password: 'efddbe453c0059fe2dcba2cbbe0478f0',
-    subscriberId: 'tel:94'.concat(phoneNo),
-    version: '1.0',
-    action: '1',
-    applicationMetaData:
-      { client: 'WEBAPP',
-        device: 'ANY',
-        os:'ANY',
-        appCode:'dd'
+  if(serviceProvider == 'Dialog'){
+    const details = {
+      applicationId:'APP_060148',
+      password: 'efddbe453c0059fe2dcba2cbbe0478f0',
+      subscriberId: 'tel:94'.concat(phoneNo),
+      version: '1.0',
+      action: '1',
+      applicationMetaData:
+        { client: 'WEBAPP',
+          device: 'ANY',
+          os:'ANY',
+          appCode:'dd'
+    }
   }
-}
-  await axios
-  .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: { 'Content-Type': 'application/json'} } )
-  .then(res => {
-    console.log(res['data']);
-      response=res['data'];
-  })
-  .catch(error => {
-    console.error(error);
-  })
+    await axios
+    .post('https://api.dialog.lk/subscription/otp/request',details,{ headers: { 'Content-Type': 'application/json'} } )
+    .then(res => {
+      console.log(res['data']);
+        response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+  }
+
+  if(serviceProvider == 'Dialog'){
+    const details = {
+      applicationId:'APP_060148',
+      password: 'efddbe453c0059fe2dcba2cbbe0478f0',
+      subscriberId: 'tel:94'.concat(phoneNo),
+      applicationMetaData:
+        { client: 'WEBAPP',
+          device: 'ANY',
+          os:'ANY',
+          appCode:'dd'
+    }
+  }
+    await axios
+    .post('https://api.mspace.lk/otp/request',details,{ headers: { 'Content-Type': 'application/json'} } )
+    .then(res => {
+      console.log(res['data']);
+        response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+  }
+ 
 
   return res.status(200).json({
     success: true,
@@ -151,29 +178,62 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
   let response;
   const referenceNo = req.body.referenceNo;
   const otp = req.body.otp;
-  const 
-  data = {
-    applicationId:"APP_060148",
-    password: "efddbe453c0059fe2dcba2cbbe0478f0",
-    otp:otp,
-    referenceNo:referenceNo,
-}
+  const serviceProvider = req.body.serviceProvider;
 
+  if(serviceProvider == 'Dialog')
+  {
+    const 
+    data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      otp:otp,
+      referenceNo:referenceNo,
+  }
+  
+  
+   await axios
+    .post('https://api.dialog.lk/subscription/otp/verify', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
+  
 
- await axios
-  .post('https://api.dialog.lk/subscription/otp/verify', data, { headers: { 'Content-Type': 'application/json'} })
-  .then(res => {
-    console.log(res['data']);
-    response=res['data'];
-  })
-  .catch(error => {
-    console.error(error);
-  })
-  return res.status(200).json({
-    success: true,
-    data: response,
-  });
+  }
+  if(serviceProvider == 'Mobitel')
+  {
+    const 
+    data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      otp:otp,
+      referenceNo:referenceNo,
+  }
+  
+  
+   await axios
+    .post('https://api.mspace.lk/otp/verify', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
 
+  }
+ 
   });
 
 
@@ -185,27 +245,55 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
 exports.getSubs = asyncHandler(async (req, res, next) => {
   let response;
   const phoneNo = req.body.phoneNo;
+  const serviceProvider = req.body.serviceProvider;
+
+  if(serviceProvider == 'Dialog'){
+
+    const data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      subscriberId: phoneNo,
+  }
+  
+  
+    await axios
+    .post('https://api.dialog.lk/subscription/getStatus', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
+  }
+
+  if(serviceProvider == 'Mobitel'){
+    const data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      subscriberId: phoneNo,
+  }
+  
+  
+    await axios
+    .post('https://api.mspace.lk/subscription/getStatus', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
+  }
  
-  const data = {
-    applicationId:"APP_060148",
-    password: "efddbe453c0059fe2dcba2cbbe0478f0",
-    subscriberId: phoneNo,
-}
-
-
-  await axios
-  .post('https://api.dialog.lk/subscription/getStatus', data, { headers: { 'Content-Type': 'application/json'} })
-  .then(res => {
-    console.log(res['data']);
-    response=res['data'];
-  })
-  .catch(error => {
-    console.error(error);
-  })
-  return res.status(200).json({
-    success: true,
-    data: response,
-  });
 
 
   });
@@ -218,30 +306,59 @@ exports.pay = asyncHandler(async (req, res, next) => {
   let response;
   const phoneNo = req.body.phoneNo;
   const amount = req.body.amount;
+  const serviceProvider = req.body.serviceProvider;
+
+  if(serviceProvider == 'Dialog'){
+    const data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      externalTrxId: "1234567",
+      subscriberId: phoneNo,
+      amount: amount,
+  }
+  
+  
+    await axios
+    .post('https://api.dialog.lk/caas/direct/debit', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
+  
+  }
+  if(serviceProvider == 'Mobitel'){
+    const data = {
+      applicationId:"APP_060148",
+      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      externalTrxId: "1234567",
+      subscriberId: phoneNo,
+      amount: amount,
+  }
+  
+  
+    await axios
+    .post('https://api.mspace.lk/caas/direct/debit', data, { headers: { 'Content-Type': 'application/json'} })
+    .then(res => {
+      console.log(res['data']);
+      response=res['data'];
+    })
+    .catch(error => {
+      console.error(error);
+    })
+    return res.status(200).json({
+      success: true,
+      data: response,
+    });
+  }
  
-  const data = {
-    applicationId:"APP_060148",
-    password: "efddbe453c0059fe2dcba2cbbe0478f0",
-    externalTrxId: "1234567",
-    subscriberId: phoneNo,
-    amount: amount,
-}
-
-
-  await axios
-  .post('https://api.dialog.lk/caas/direct/debit', data, { headers: { 'Content-Type': 'application/json'} })
-  .then(res => {
-    console.log(res['data']);
-    response=res['data'];
-  })
-  .catch(error => {
-    console.error(error);
-  })
-  return res.status(200).json({
-    success: true,
-    data: response,
-  });
-
+  
 
   });
 

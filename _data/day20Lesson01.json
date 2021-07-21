@@ -1,0 +1,200 @@
+[
+    {
+      "title": "Conjunctions - Part 01",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Conjunctions පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day20Lesson01",
+      "day": "6075da74c75cd45a05afec66",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "They are poor, .............. often suffer great hardship.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "and",
+          "but"
+        ],
+        "correctAnswer": "and",
+        "review":""
+      },
+      {"qText": "I got up late, ............. caught the train.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "and",
+        "but"
+      ],
+      "correctAnswer": "but",
+      "review":""
+    },
+    {"qText": "This shouldn't happen again, ............ they will be dismissed.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "so",
+      "or",
+      "but"
+    ],
+    "correctAnswer": "or",
+    "review":""
+  },
+  {"qText": "He is not rich, .............he is happy.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "and",
+    "therefore",
+    "but"
+  ],
+  "correctAnswer": "but",
+  "review":""
+},
+{"qText": "Hurry up man, ............ you will be late.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "or",
+  "and",
+  "so"
+],
+"correctAnswer": "or",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "I am Sinhala ................ my mother is Tamil.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "but",
+          "nor",
+          "for"
+        ],
+        "correctAnswer": "but",
+        "review":"මම සිංහල වන නමුත් අම්මා  අර්ථවත් වේ."
+      },
+      {"qText": "She is good at English, ............... her favourite subject is it.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "but",
+        "so",
+        "nor"
+      ],
+      "correctAnswer": "so",
+      "review":"ඇය ඉංග්‍රීසි වලට දක්ෂයි. එමනිසා ඇයගේ ප්‍රියතම විෂය එය වේ යන්න අර්ථවත් වේ."
+    },
+    {"qText": "Last night Iwas very tired, ............. I went to bed early.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "therefore",
+      "but",
+      "or"
+    ],
+    "correctAnswer": "therefore",
+    "review":"ඊයේ රෑ මට ගොඩක් මහන්සියි. ඒ නිසා මම කලින් නින්දට ගියා යන්න අර්ථවත් වේ."
+  },
+  {"qText": "You can have your cake with a fork ................ spoon.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "or",
+    "nor",
+    "for"
+  ],
+  "correctAnswer": "or",
+  "review":"ඔබට කේක් කන්න පුළුවන් ගෑරුප්පුව හෝ හැන්ද භාවිතයෙන්."
+},
+{"qText": "I wanted to go to the beach, ................ Menaka refused.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "so",
+  "therefore",
+  "but"
+],
+"correctAnswer": "but",
+"review":"මම වෙරළට යන්නට උවමනා වුනු නමුත් මේනක එය ප්‍රතික්ෂේප කළා යන්න අර්ථවත් වේ."
+},
+{"qText": "I am vegetarian, ............. I don't eat any meat.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "but",
+  "and",
+  "so"
+],
+"correctAnswer": "so",
+"review":"මම නිර්මාංශික නිසා මස් කන් නෑ යන්න අර්ථවත් වේ."
+},
+{"qText": "Thilina wanted to eat another piece of vake ............ cheese.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "so",
+  "and",
+  "therefore"
+],
+"correctAnswer": "and",
+"review":"තිලිණට අවශ්‍ය වුනා කේක් සහ චීස් වල තව කෑල්ලක් කන්න."
+},
+{"qText": "Select the correct sentence with conjunction and comma.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "He tried hard but he didn't succeed.",
+  "He tried hard, but he didn't succeed.",
+  "He tried hard, so he didn't succeed."
+],
+"correctAnswer":"He tried hard, but he didn't succeed.",
+"review":"ඔහු මහන්සි වී උත්සහා කළා නමුත් සාර්ථක වෙන්න බැරි වුනා යන්න අර්ථවත් වේ. මෙහිදී conjunction ලෙස but යෙදිය යුතු අතර මේවා independent clauses වන බැවින් comma යෙදිය යුතුය."
+},
+{"qText": "Select the correct sentence with conjunction and comma.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "She likes to dance, and sing songs.",
+  "She likes to dance and sing a song.",
+  "She likes to dance, so sing songs."
+],
+"correctAnswer": "She likes to dance and sing a song.",
+"review":"ඇය නැටීමට සහා ගීත ගැයීමට ආශා කරන බව අදහස් වේ. යෙදෙන්නේ එක ක්‍රියා පදයකි. (likes) මෙහිදී  comma යෙදෙන්නේ නැත."
+},
+{"qText": "Select the correct sentence with conjunction and comma.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "She tried to learn Japanese, but it was too difficult.",
+  "She tried to learn Japanese, therefore it was too difficult.",
+  "She tried to learn Japanese but it was too difficult."
+],
+"correctAnswer": "She tried to learn Japanese, but it was too difficult.",
+"review":"ඇය ජපන්  ඉගෙනීමට උත්සහ කලද එය ඉතාමත් අපහසු බව කියවේ. independent clauses දෙකක් යෙදෙන බැවින් comma යෙදිය යුතුය."
+}
+
+      ],
+      "videoURL":"yDIMgMVjrBc"
+  
+    }
+   
+    
+  ]
+  

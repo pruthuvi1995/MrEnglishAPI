@@ -10,7 +10,7 @@
   "author": "Pruthuvi",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "cookie-parser": "^1.4.5",
@@ -23,7 +23,7 @@
     "helmet": "^3.23.1",
     "hpp": "^0.2.3",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.16",
+    "mongoose": "^5.13.3",
     "morgan": "^1.10.0",
     "otplib": "^12.0.1",
     "slugify": "^1.4.0",

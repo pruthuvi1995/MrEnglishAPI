@@ -1,0 +1,183 @@
+[
+  {
+    "title": "Question Tags",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Question Tags පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day19Lesson01",
+    "day": "6075da74c75cd45a05afec66",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "She studies Spanish, ...............?",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "does she",
+        "do she",
+        "doesn't she"
+      ],
+      "correctAnswer": "doesn't she",
+      "review":""
+    },
+    {"qText": "It isn't raining, ..................?",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "isn't it",
+      "doesn't it",
+      "is it"
+    ],
+    "correctAnswer": "is it",
+    "review":""
+  },
+{"qText": "They haven't reached the hotel, .................?",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "haven't they",
+  "have they",
+  "hadn't they"
+],
+"correctAnswer": "have they",
+"review":""
+},
+{"qText": "He is cutting the tree, ...............?",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+"type": "mcq",
+"answers": [
+"doesn't he",
+"isn't he",
+"is he"
+],
+"correctAnswer": "isn't he",
+"review":""
+},
+{"qText": "You are Bill, ................?",
+"imageUrl":"assets/images/h3.jpg",
+"mark":0.2,
+"type": "mcq",
+"answers": [
+"don't you",
+"are you",
+"aren't you"
+
+],
+"correctAnswer": "aren't you",
+"review":""
+}
+
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "නිවැරිදි question tags සහිත පිළිතුර තෝරන්න.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "Mihiranga can't play the guitor, can't he?",
+"Mihiranga doesn't play the guitor, does he?",
+"Mihiranga is playing the guitor, is he?"
+      ],
+      "correctAnswer": "Mihiranga doesn't play the guitor, does he?",
+      "review":"Question tags සැලකීමේදී වාක්‍ය රටාවට අදාළ negative යෙදිය යුතුය. ඒ අනුව doesn't යන්නට negative පිළිතුර does වේ."
+    },
+    {"qText": "නිවැරිදි question tags සහිත පිළිතුර තෝරන්න.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "They bought a car, don't they?",
+"They bought a car, did they?",
+"They bought a car, didn't they?"
+    ],
+    "correctAnswer": "They bought a car, didn't they?",
+    "review":"මෙය simple past tense වේ. එවිට question tags යෙදිය යුත්තේ past negative ලෙසය."
+  },
+  {"qText": "නිවැරිදි question tags සහිත පිළිතුර තෝරන්න.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "It rained yesterday, didn't it?",
+"It rains today, does it?",
+"It will rain tomorrow, will it?"
+  ],
+  "correctAnswer": "It rained yesterday, didn't it?",
+  "review":"වාක්‍ය simple past tense වේ. Question tags past simple negative ලෙස තැබිය යුතුය."
+},
+{"qText": "නිවැරිදි question tags සහිත පිළිතුර තෝරන්න.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "Your sister is a teacher, isn't he?",
+"Your sister is a teacher, isn't she?",
+"Your sister is a teacher, doesn't he?"
+],
+"correctAnswer": "Your sister is a teacher, isn't she?",
+"review":"මෙම වාක්‍යයේ අරුත ඔබේ සහෝදරිය ගුරුවරියක් යන්නයි. Be verb ඇති නිසා එහි negative යෙදිය යුතුය. Sister 'she' වේ."
+},
+{"qText": "Elephants live in Europe, ...............?",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.125,
+"type": "mcq",
+"answers": [
+"doesn't they",
+"don't they"
+],
+"correctAnswer": "don't they",
+"review":"Simple present වාක්‍යකි. එයට අදාළ negative සැලකිය යුතුය. Elephants plural බැවින් don't යෙදේ."
+},
+{"qText": "The English alphabet doesn't have 40 letters, .............?",
+"imageUrl":"assets/images/h1.jpg",
+"mark":0.125,
+"type": "mcq",
+"answers": [
+"does it",
+"doesn't it"
+],
+"correctAnswer": "does it",
+"review":"වාක්‍ය simple present tense ය. එහි negative යෙදේ. The English alphabet singular නිසා does යෙදේ."
+},
+{"qText": "Nothing will happen, .............?",
+"imageUrl":"assets/images/h2.jpg",
+"mark":0.125,
+"type": "mcq",
+"answers": [
+"won't",
+"will it",
+"won't be it"
+],
+"correctAnswer": "won't",
+"review":"Simple future sentense එකකි. එහි negative විය යුත්තේ will not (won't)යන්නයි."
+},
+{"qText": "You think you are clever, ....................?",
+"imageUrl":"assets/images/h3.jpg",
+"mark":0.125,
+"type": "mcq",
+"answers": [
+"aren't",
+"are you",
+"do you",
+"don't you"
+],
+"correctAnswer": "don't you",
+"review":"ඔබ සිතන්නේ ඔබ දක්ෂයි කියලා යන්න අර්ථවත් වේ. වාක්‍ය simple present tense වේ. එහි negative යෙදිය යුතුය."
+}
+
+    ],
+    "videoURL":"8Q1-EAKtWaU"
+
+  }
+ 
+  
+]
+
+
+
+
+     

@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Yes / No Questions",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Yes / No Questions පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day14Lesson01",
+    "day": "6065aa5ec75cd45a05afec20",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "She plays piano well. මෙම වාක්‍යය ප්‍රශ්නයකට හරවන්න.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Is she play the piano well?",
+"Do she play thr piano well?",
+"Does she play the piano well?",
+"Does she plays the piano well?"
+
+      ],
+      "correctAnswer": "Does she play the piano well?",
+      "review":""
+    }, 
+    {"qText": "They are American. මෙම වාක්‍යය ප්‍රශ්නයකට හරවන්න.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "Are they American?",
+"Do they American?",
+"Aren't they American?",
+"Is they American?"
+
+
+    ],
+    "correctAnswer": "Are they American?",
+    "review":""
+  },
+  {"qText": "They will be reading the book. මෙම වාක්‍යය ප්‍රශ්නයකට හරවන්න.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "Be they will reading the book?",
+"Will be they reading the book?",
+"Do they will be reading the book?",
+"Will they be reading the book?"
+
+  ],
+  "correctAnswer": "Will they be reading the book?",
+  "review":""
+},
+{"qText": "Nansi has been working all night long. මෙම වාක්‍යය ප්‍රශ්නයකට හරවන්න.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "Has Nansi been working all night long?",
+"Been Nansi has working all night long?",
+"Has been Nansi working all night long?",
+"Does Nansi working all night long?"
+
+],
+"correctAnswer": "Has Nansi been working all night long?",
+"review":""
+},
+{"qText": "He discovered the truth. මෙම වාක්‍යය ප්‍රශ්නයකට හරවන්න.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "Does he discovered the truth?",
+"Did he discovered the truth?",
+"Is he discovered the truth?",
+"Did he discover the truth?"
+
+],
+"correctAnswer": "Did he discover the truth?",
+"review":""
+}
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "A: ............ you going home along?*B: No, my father is coming with me.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "is",
+"are",
+"will"
+      ],
+      "correctAnswer": "are",
+      "review":"මෙහිදී ප්‍රශ්නය අසන්නේ 'ඔබ තනිවමද ගෙදර යන්නේ යන්නයි. ලෙස ප්‍රශ්නය බවට පත් වේ. මෙවැනි ප්‍රශ්න සැදීමේදී ගැන සැලකිලිමත් වීම ඉතා වැදගත් ය."
+    },
+    {"qText": "Saman: I am starving. Let's go to the cafeteria.*Nishan: .............. you like to have burgers.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "do",
+"would",
+"will"
+    ],
+    "correctAnswer": "would",
+    "review":"මොවුන් අවන්හලට යාමට තීරණය කරන්නේ ආහාර ගැනීමටය. එහිද එක අයෙක් ප්‍රශ්නය අසන්නේ ඔබ මේ මොහොතේ බර්ගර් කන්න කැමතිද යන්නයි. මේ මොහොතේ බැවින් do, will නොව would යෙදේ."
+  }
+  ,
+    {"qText": "A: .......... you have been to Sigiriya?*B: No, I have been.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "have",
+"haven't",
+"will"
+    ],
+    "correctAnswer": "haven't",
+    "review":"මෙහිදී අසන ප්‍රශ්නයට පිළිතුර ලැබෙන්නේ 'නෑ. මම ගිහිල්ලා තියනවා.' ලෙසය. මේ නිසා ප්‍රශ්නය ඇසිය යුත්තේ ඔබ සීගිරියට ගිහිල්ල නැති ද යන්නයි. present perfect negative වේ."
+  }
+  ,
+    {"qText": "A: ............ he ............... working on the project?*B: Yes, for 3 weeks.",
+      "imageUrl":"assets/images/h4.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "have/ being",
+"has/ being",
+"has/ been"
+    ],
+    "correctAnswer": "has/ been",
+    "review":"මෙහිදී ප්‍රශ්නය අසන්නේ අදාළ ව්‍යාපෘතිය කරනවාද යන්නයි. පිළිතුර ලැබෙන්නේ සති 3ක් තිස්සේ කරනවා යන්නයි. එනම් ප්‍රශ්නය ඇසිය යුත්තේ perfect continuous වලිනි."
+  }
+  ,
+    {"qText": "A: ................. you celebrate your festivals?*B: No, my father-in-law was in the hospital.",
+      "imageUrl":"assets/images/h5.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "did",
+"doesn't",
+"don't"
+    ],
+    "correctAnswer": "don't",
+    "review":"ප්‍රශ්නය අසන්නේ ඔබ උත්සවය සැමරුවාද යන්නයි. past tense වල question එකක් වේ."
+  }
+  ,
+    {"qText": "Son: Mother, ........... I borrow some money, because I couldn't go to an ATM.*Mother: What! ........... you go to the town yesterday?",
+      "imageUrl":"assets/images/h1.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "can't/ didn't",
+"can/ didn't",
+"will/ did",
+"can/ did"
+    ],
+    "correctAnswer": "can/ didn't",
+    "review":"පළමු ප්‍රශ්නයෙන් අසන්නේ මට මුදල් ට්කක් ණයට ගන්න පුළුවන්ද යන්නයි. දෙවන ප්‍රශ්නයෙන් අසන්නේ ඔබ ඊයේ නගරයට ගියේ නැතිද යන්නයි."
+  }
+  ,
+    {"qText": "Lawyer: ............. you attend the court tomorrow or get fined?",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "will",
+"do",
+"does"
+    ],
+    "correctAnswer": "will",
+    "review":"ඔබ උසාවියට පැමිණේවිද යන්න ප්‍රශ්න කෙරේ. Simple future tense වලට අදාලව ප්‍රශ්නය ගොඩනැගේ."
+  }
+  ,
+    {"qText": "Salesman: ............ you think you may have a better price in another shop?*Customer: Why not. Your price is too much.",
+      "imageUrl":"assets/images/h.jpg",
+      "mark":0.125,
+      "type": "Dialog",
+    "answers": [
+      "do",
+"don't",
+"will"
+    ],
+    "correctAnswer": "do",
+    "review":"මෙහි ප්‍රශ්නය වන්නේ වෙනත් කඩයකින් ඔබට මීට වඩා හොද මිලක් ලැබේද යන්නයි. simple present tense වලට අදාල ප්‍රශ්නයකි."
+  }
+    ],
+    "videoURL":"qmFtf7WBel0"
+
+  }
+ 
+  
+]

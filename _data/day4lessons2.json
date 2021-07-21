@@ -1,0 +1,267 @@
+[
+  {
+    "title": "There is/ There are ",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන There is/ There are පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day04Lesson02",
+    "day": "6065aa5ec75cd45a05afec16",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "..................... a post office nearby?",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "is there",
+        "are there"
+      ],
+      "correctAnswer": "is there",
+      "review":""
+    },
+    {"qText": "There ................. many options to solve this problem.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "is",
+      
+      "are"
+    ],
+    "correctAnswer": "are",
+    "review":""
+  },
+  {"qText": "There .............. five members in her family.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "is",
+    "are"
+  ],
+  "correctAnswer": "are",
+  "review":""
+},
+{"qText": ".................. four pens in my box.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "There is",
+
+  "There are"
+],
+"correctAnswer": "There are",
+"review":""
+},
+{"qText": "................ many people standing outside the movie theater.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "There is",
+  "There are"
+],
+"correctAnswer": "There are",
+"review":""
+}
+  
+    ],
+    "mcqLesson":[
+      {"qText": "......................... students in this classroom.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.05,
+        "type": "mcq",
+      "answers": [
+        "There is",
+        "There are"
+      ],
+      "correctAnswer": "There are",
+      "review":""
+    },
+    {"qText": "..................a teacher in this classroom.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.05,
+      "type": "mcq",
+    "answers": [
+      "There is",
+      "There are"
+    ],
+    "correctAnswer": "There is",
+    "review":""
+  },
+  {"qText": "There ................. desks and chairs in the classroom.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.05,
+    "type": "mcq",
+  "answers": [
+    "is",
+    "are"
+  ],
+  "correctAnswer": "are",
+  "review":""
+},
+{"qText": "...................... three children in this photo.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "There is",
+  "There are"
+],
+"correctAnswer": "There are",
+"review":""
+},
+{"qText": "........................ small girl in this photo.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "There is a",
+  "There are an",
+  "There is an",
+  "There are a"
+],
+"correctAnswer": "There is a",
+"review":""
+},
+{"qText": "......................... beautiful ..................... in this photo.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "There is , flowers",
+  "There are , flowers",
+  "There are , flower"
+],
+"correctAnswer": "There are , flowers",
+"review":""
+},
+{"qText": "There .................. a red car parked in our driveway",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "is",
+
+  "are"
+],
+"correctAnswer": "is",
+"review":"red car singular වේ."
+},
+{"qText": "There ................... six eggs in the fridge,",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "is",
+  
+  "are"
+],
+"correctAnswer": "are",
+"review":"six eggs plural වේ."
+},
+{"qText": "I am hungry. ........... there any apples in your backpack?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  
+  "is",
+  "are"
+],
+"correctAnswer": "are",
+"review":"මෙහිදී අසන්නේ ප්‍රශ්නයකි. apples plural වේ. පිළිතුර are there යන්නයි."
+},
+{"qText": "Help yourself. ................ coffee, tea, and juice to drink.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  
+  "There is",
+  "There are"
+],
+"correctAnswer": "There are",
+"review":"මෙහිදී coffee, tea. juice යන්න plural වේ."
+},
+{"qText": "All the students went home. .................. students in the classroom.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  
+  "There isn't any",
+  "There aren't any"
+],
+"correctAnswer": "There aren't any",
+"review":"සියලු ළමයින් ගෙවල්වලට ගොස් ඇත. කිසිම දරුවෙකු පන්තියේ නැත යන්න අර්ථවත් වේ. students plural බැවින් there aren't any පිළිතුර ලෙස ගත යුතුය."
+},
+{"qText": "No, ............ any polar bears at the south pole.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "there isn't",
+  
+  "there aren't"
+],
+"correctAnswer": "there aren't",
+"review":"Polar bear plural වේ. මෙහි අදහස දක්ෂිණ ධ්‍රැවයේ [olar bears නොමැති බවයි."
+},
+{"qText": "Why? ....................... so many cars in the parking lot?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "are there",
+  "is there"
+],
+"correctAnswer": "are there",
+"review":"cars plural වේ."
+},
+{"qText": "................... a woman in the photo. She is laughing.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  "There is",
+ 
+  "Tere are"
+],
+"correctAnswer": "There is",
+"review":"මෙහි පින්තුරයේ කාන්තාවක් ඇති බව පැවසේ. a woman singular වේ."
+},
+{"qText": "................... only three more days before the exam. But I couldn't work.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+
+  "There were",
+  "There are"
+],
+"correctAnswer": "There were",
+"review":"මෙය past tense වේ. three more days යන්න plural වේ."
+},
+{"qText": "........................... something I can help you with?",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.07,
+  "type": "mcq",
+"answers": [
+  
+  "is there",
+  "are there"
+],
+"correctAnswer": "is there ",
+"review":"something යන්න singular වේ."
+}
+
+
+   
+   
+    ],
+    "videoURL":"HiAWSsfVvwM"
+
+  }
+ 
+  
+]

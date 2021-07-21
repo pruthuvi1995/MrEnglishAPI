@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Simple past tense",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Simple past tense පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day08Lesson01",
+    "day": "6065aa5ec75cd45a05afec1a",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "They  ................ in front of the Police station yesterday.",
+        "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "meet",
+        "met",
+        "will meet"
+      ],
+      "correctAnswer": "met",
+      "review":""
+    },
+    {"qText": "My little brother ........... under the table.",
+      "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "hid",
+      "hide",
+      "hidden"
+    ],
+    "correctAnswer": "hide",
+    "review":""
+  },
+  {"qText": "I ...........your brother yesterday.He ......... going to a cafe.",
+    "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "see/ was",
+    "saw/ were",
+    "saw/ was"
+  ],
+  "correctAnswer": "saw/ was",
+  "review":""
+},
+
+{"qText": "Our best player ............ join the club.Because he had injured his knee.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "don't",
+  "doesn't",
+  "didn't"
+],
+"correctAnswer": "didn't",
+"review":""
+},
+
+{"qText": "My cat ....................any mice last week.",
+  "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "didn't catch",
+  "didn't caught",
+  "don't catch"
+],
+"correctAnswer": "didn't catch",
+"review":""
+}
+
+
+   
+    
+  
+    ],
+    "mcqLesson":[
+      {"qText": "The film wasn't very good. I ............. it very much.",
+        "imageUrl":"assets/images/hasanjana.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "enjoy",
+        "enjoyed",
+        "didn't enjoy"
+      ],
+      "correctAnswer": "didn't enjoy",
+      "review":"මෙහි අර්ථය 'චිත්‍රපටිය එච්චර හොඳ වුනේ නෑ.ඒ නිසා මම ඒකෙන් විනෝද වුනේ නෑ.'  විනෝද වුනේ නෑ යන්න simple past negative  ලෙස දැක්විය යුතුය."
+    },
+    {"qText": "The window was opened and a bird ..............into the room.",
+      "imageUrl":"assets/images/hasanjana.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "fly",
+      "didn't fly",
+      "flew"
+    ],
+    "correctAnswer": "flew",
+    "review":"ජනේලය ඇරලා තිබුණා. කුරුල්ලෙක් කාමරය තුලට පියෑඹුවා යන්න අදහස් වේ."
+  },
+  {"qText": "Paul and I played tennis yesterday.He's much better than me,so he ........................  well.",
+    "imageUrl":"assets/images/hasanjana.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "play",
+    "didn't play",
+    "played"
+  ],
+  "correctAnswer": "played",
+  "review":"පෝල් සහ මම ඊයේ ටෙනිස් ක්‍රීඩා කළා.ඔහු මට වඩා ගොඩක් හොඳයි.එමනිසා ඔහු හොඳින් ක්‍රීඩා කරා යන්න අර්ථවත් වේ. simple past tense විය යුතුය."
+},
+{"qText": "We went to Kate's house , but she .......................at home.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "was",
+  "will be",
+  "wasn't"
+],
+"correctAnswer": "wasn't",
+"review":"අපි කේට්ගේ ගෙදර ගියා.නමුත් ඇය ගෙදර සිටියේ නෑ යන්න අර්ථවත් වේ. past tense negative  වලට අදාළ be  verb යෙදිය යුතුය."
+},
+{"qText": "The hotel wasn't very expensive.It .........................  very much.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "costed",
+  "didn't costed",
+  "didn't cost"
+],
+"correctAnswer": "didn't cost",
+"review":"හෝටලේ ගොඩක් මිල අධික වුනේ නෑ.ගොඩක් වියදම් වුනේ නෑ යන්න අර්ථවත් වේ. simple past negative යෙදිය යුතුය."
+},
+{"qText": "I was very tired, so I ............................ to bed early.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "go",
+  "didn't go",
+  "went"
+],
+"correctAnswer": "went",
+"review":"මට ගොඩක් වෙහෙස බව දැනුනා.එමනිසා මම කලින් නින්දට ගියා යන්න අර්ථවත් කෙරේ. simple past verb යෙදිය යුතුය."
+},
+{"qText": "I was in a hurry, so I ..........................  time to phone you.",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "had",
+  "didn't had",
+  "didn't have"
+],
+"correctAnswer": "didn't have",
+"review":"මට ගොඩක් හදිස්සි වුණා.ඒ නිසා ඔබට ඇමතුමක් දෙන්නට වෙලාවක් තිබුනේ නෑ යන්න අර්ථවත් වේ. simple past negative verb යෙදිය යුතුය."
+},
+{"qText": "My father ........................... on last week",
+  "imageUrl":"assets/images/hasanjana.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "teach",
+  "didn't taught",
+  "taught"
+],
+"correctAnswer": "taught",
+"review":"මගේ පියා ඉගැන්නුවා යන්න අර්ථවත් වේ.teach හි  past verb taught පිළිතුර විය යුතුය."
+}
+    ],
+    "videoURL":"RAbFbUI73hk"
+
+  }
+ 
+  
+]

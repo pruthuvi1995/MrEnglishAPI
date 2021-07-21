@@ -1,0 +1,229 @@
+[
+    {
+      "title": "Should and Must",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Should and Must පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day17Lesson01",
+      "day": "6075da74c75cd45a05afec63",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "'Should' is used to",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "Describe an order",
+"Describe an advice",
+"Describe a prediction"
+        ],
+        "correctAnswer": "",
+        "review":""
+      },
+      {"qText": "'must' is used to",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Describe an advice",
+"Describe an order",
+"Describe a past event"
+      ],
+      "correctAnswer": "",
+      "review":""
+    },
+    {"qText": "If you want to be a writer you ................ start reading every day.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "must",
+"should",
+"shouldn't"
+    ],
+    "correctAnswer": "",
+    "review":""
+  },
+  {"qText": "You have already got cancer. You ........... stop smoking.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "must",
+"should",
+"shouldn't"
+  ],
+  "correctAnswer": "",
+  "review":""
+},
+{"qText": "When you use a vehicle you ........... drive it on your left.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "must",
+"should",
+"shouldn't" 
+],
+"correctAnswer": "",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "They ............. reduce the price of bread. It's so expensive.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "must",
+"should",
+"shouldn't"
+        ],
+        "correctAnswer": "",
+        "review":"මෙහිදී පවසන්නේ පාන් මිල අඩුකළ යුතු බවයි. එය අවවාදයකි. should යෙදේ."
+      },
+      {"qText": "'Nalaka, you ............ come with your parents' ordered the principal.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "must",
+"should",
+"shouldn't"
+      ],
+      "correctAnswer": "",
+      "review":"විධානයක් බැවින් must යෙදිය යුතුය."
+    },
+    {"qText": "'Everybody ................ stay at home to controll the Covid-19 pandemic.' said police spokeperson.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "must",
+"should",
+"shouldn't"
+    ],
+    "correctAnswer": "",
+    "review":"කොවිඩ් හේතුවෙන් සියලුදෙනා නිවෙස්වල සිටිය යුතු බව පැවසේ. මෙය අවවාදයක් බැවින් should යෙදේ."
+  },
+  {"qText": "She is my daughter, ............... I advice her?",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "must",
+"would",
+"shouldn't"
+  ],
+  "correctAnswer": "",
+  "review":"ඇය මගේ දියණියයි. මම ඇයට අවවාද කල යුතුයි යන්න අර්ථවත් වේ. අවවාදයක් බැවින් shouldn't යෙදේ."
+},
+{"qText": "Nadee: ........... we tell her the truth?* *Sepali: No, No, don't tell her anything.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "must",
+"should",
+"mustn't"
+],
+"correctAnswer": "",
+"review":"ප්‍රශ්නයක් අසන්නේ අපි ඇයට ඇත්ත ප්‍රකාශ කල යුතුද යන්නයි."
+},
+
+{"qText": "Son, father is coming now. You wander with your friends now. It annoys him.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "must",
+"mustn't",
+"should",
+"shouldn't"
+],
+"correctAnswer": "",
+"review":"තාත්තා දැන් ගෙදර එන නිසා ඔයා රස්තියාදුවේ නොයා යුතුයි යන්න අර්ථවත් වේ. මෙය උපදේශයක් බැවින් shouldn't යෙදිය යුතුය."
+},
+{"qText": "You are the head. Lional, you .............. chair the meeting.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "must",
+"mustn't",
+"should",
+"shouldn't"
+],
+"correctAnswer": "",
+"review":"ඔබ ප්‍රධානියා වන බැවින් රැස්වීමේ ප්‍රධානත්වය ගත යුතුමයි යන්න අර්ථවත් වේ. අණ කිරීමකි."
+},
+{"qText": "You .............. leave any rubbish on the road.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "must",
+"mustn't",
+"should",
+"shouldn't"
+],
+"correctAnswer": "",
+"review":"ඔබ කුණු පාරේ නොදැමිය යුතුය යන අර්ථය ලැබේ. උපදේශයක් වන බැවින් shouldn't යෙදේ."
+},
+{"qText": "'ඇය ගෙදර යන්න කලින් මේ ව්‍යාපෘතිය අවසන් කල යුතුමයි.' මෙයට ගැලපෙන ඉංග්‍රීසි වාක්‍ය කුමක්ද?",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "She have to complete this project before goes home.",
+"She has to complete this project before goes home.",
+"She has completed this project before goes home."
+],
+"correctAnswer": "She has to complete this project before goes home.",
+"review":"මෙය අනිවාර්යෙන් කල යුතු අණ කිරීමකි. have to හෝ has to යෙදිය යුතුය. she, singular වන බැවින් has to යෙදිය යුතුය."
+},
+{"qText": "ඔබ මේ යෝජනාවට එකඟ විය යුතුමයි.මෙයට ගැලපෙන ඉංග්‍රීසි වාක්‍ය කුමක්ද?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "You has to agree with this proposal.",
+"You had to agree with this proposal.",
+"You have to agree with this proposal."
+],
+"correctAnswer": "You have to agree with this proposal.",
+"review":"අනිවාර්යෙන්ම කල යුතු දෙයක් නිසා have to හෝ has to යෙදේ. you, plural වන බැවින් පිළිතුර have to විය යුතුය. have to/ has to/ must හි අතීතය had to වේ."
+},
+{"qText": "You .................... to tell me the truth. Otherwise, I will go to the Police station.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "have",
+"has",
+"ought"
+],
+"correctAnswer": "have",
+"review":"'ඔබ මට ඇත්ත කිව යුතුමයි නැතහොත් මම පොලිසියට යනවා.' යන්න අර්ථවත් වේ. අනිවාර්ය ක්‍රියාවන්ය. you, plural බැවින් have to යෙදිය යුතුය."
+},
+{"qText": "Nishadi ..................... to apply for the job, because it is her last opinion.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.05,
+  "type": "mcq",
+"answers": [
+  "have",
+"has",
+"may"
+],
+"correctAnswer": "has",
+"review":"නිශාදි මේ රැකියාවට apply කල යුතුමයි. මොකද මෙය ඇයගේ අවසාන විකල්පයයි යන්න අර්ථවත් වේ. she, singular වන බැවින් has to යෙදිය යුතුය."
+}
+      ],
+      "videoURL":"PYwT3D3LmR8"
+  
+    }
+   
+    
+  ]
+  
