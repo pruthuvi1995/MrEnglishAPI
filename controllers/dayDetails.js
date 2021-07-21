@@ -135,12 +135,10 @@ let response;
     .catch(error => {
       console.error(error);
     })
-  }
-
-  if(serviceProvider == 'Dialog'){
+  }else if(serviceProvider == 'Mobitel'){
     const details = {
-      applicationId:'APP_060148',
-      password: 'efddbe453c0059fe2dcba2cbbe0478f0',
+      applicationId:"APP_007109",
+      password: "f4b08896d8855f6523d7f95e534fffca",
       subscriberId: 'tel:94'.concat(phoneNo),
       applicationMetaData:
         { client: 'WEBAPP',
@@ -206,13 +204,12 @@ exports.verifyOtp = asyncHandler(async (req, res, next) => {
     });
   
 
-  }
-  if(serviceProvider == 'Mobitel')
+  }else if(serviceProvider == 'Mobitel')
   {
     const 
     data = {
-      applicationId:"APP_060148",
-      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      applicationId:"APP_007109",
+      password: "f4b08896d8855f6523d7f95e534fffca",
       otp:otp,
       referenceNo:referenceNo,
   }
@@ -269,12 +266,10 @@ exports.getSubs = asyncHandler(async (req, res, next) => {
       success: true,
       data: response,
     });
-  }
-
-  if(serviceProvider == 'Mobitel'){
+  }else if(serviceProvider == 'Mobitel'){
     const data = {
-      applicationId:"APP_060148",
-      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      applicationId:"APP_007109",
+      password: "f4b08896d8855f6523d7f95e534fffca",
       subscriberId: phoneNo,
   }
   
@@ -332,11 +327,10 @@ exports.pay = asyncHandler(async (req, res, next) => {
       data: response,
     });
   
-  }
-  if(serviceProvider == 'Mobitel'){
+  }else if(serviceProvider == 'Mobitel'){
     const data = {
-      applicationId:"APP_060148",
-      password: "efddbe453c0059fe2dcba2cbbe0478f0",
+      applicationId:"APP_007109",
+      password: "f4b08896d8855f6523d7f95e534fffca",
       externalTrxId: "1234567",
       subscriberId: phoneNo,
       amount: amount,
