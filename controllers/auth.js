@@ -136,7 +136,7 @@ exports.updateDetails = asyncHandler(async (req, res, next) => {
 // @route   PUT /api/v1/auth/updatepassword
 // @access  Private
 exports.updatePassword = asyncHandler(async (req, res, next) => {
-  const user = await User.findById(req.user.id).select('+password');
+  const user = await User.findById(req.user.id).select('password');
 
   //Check current password
   if (!(await user.matchPassword(req.body.currentPassword))) {
@@ -170,6 +170,31 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
     success: true,
     data: user,
   });
+});
+
+// @desc    chargingNotificationUrl
+// @route   POST /api/v1/auth/chargingNotificationUrl
+// @access  private
+exports.chargingNotificationUrl = asyncHandler(async (req, res, next) => {
+
+  print(req.body);
+  // const user = await User.findOne({
+  //   NICNo: req.body.NICNo,
+  // });
+
+  // if (!user) {
+  //   return next(new ErrorResponse('There is no user with tha phone no', 404));
+  // }
+
+  // // Generate reset token
+  // const resetToken = user.getResetPasswordToken();
+
+  // await user.save({ validateBeforeSave: false });
+
+  // res.status(200).json({
+  //   success: true,
+  //   data: user,
+  // });
 });
 
 
