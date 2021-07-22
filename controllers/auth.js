@@ -177,7 +177,6 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
 // @access  private
 exports.chargingNotificationUrl = asyncHandler(async (req, res, next) => {
 
-  print(req.body);
   // const user = await User.findOne({
   //   NICNo: req.body.NICNo,
   // });
@@ -191,10 +190,10 @@ exports.chargingNotificationUrl = asyncHandler(async (req, res, next) => {
 
   // await user.save({ validateBeforeSave: false });
 
-  // res.status(200).json({
-  //   success: true,
-  //   data: user,
-  // });
+  res.status(200).json({
+    success: true,
+    data: res.body,
+  });
 });
 
 
