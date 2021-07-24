@@ -17,7 +17,7 @@ exports.getClassStudents = asyncHandler(async (req, res, next) => {
 // @route   GET /api/v1/classStudents/:id
 // @access  Private
 exports.getClassStudent = asyncHandler(async (req, res, next) => {
-  const classStudent = await ClassStudent.find({ NICNo: req.params.userId })
+  const classStudent = await ClassStudent.find({ NICNo: req.params.userId });
 
   if (!classStudent) {
     return next(
@@ -25,7 +25,7 @@ exports.getClassStudent = asyncHandler(async (req, res, next) => {
     );
   }
 
-  res.status(200).json({ success: true, data: classStudent });
+  res.status(200).json({ success: true, data: classStudent, });
 });
 
 // @desc    Create single class Student
