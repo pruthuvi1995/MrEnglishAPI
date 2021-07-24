@@ -17,7 +17,7 @@ exports.getClassStudents = asyncHandler(async (req, res, next) => {
 // @route   GET /api/v1/classStudents/:id
 // @access  Private
 exports.getClassStudent = asyncHandler(async (req, res, next) => {
-  const classStudent = await ClassStudent.findById(req.params.id);
+  const classStudent = await ClassStudent.find({ NICNo: req.params.userId })
 
   if (!classStudent) {
     return next(
@@ -33,7 +33,7 @@ exports.getClassStudent = asyncHandler(async (req, res, next) => {
 // @access  Private
 exports.createClassStudent = asyncHandler(async (req, res, next) => {
   const classStudent = await ClassStudent.create(req.body);
-  res.status(201).json({ success: true, msg:classStudent });
+  res.status(201).json({ success: true, data:classStudent });
 });
 
 // @desc    Update class Student
