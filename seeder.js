@@ -17,6 +17,9 @@ const YearDetail = require('./models/YearDetail');
 const Paper = require('./models/Paper');
 const Seminar = require('./models/Seminar');
 const SeminarDetail = require('./models/SeminarDetail');
+const Class = require('./models/Class');
+const ClassDetail = require('./models/ClassDetail');
+const ClassStudent = require('./models/ClassStudent');
 
 // Connect to DB
 mongoose.connect(process.env.MONGO_URI, {
@@ -67,6 +70,19 @@ const seminarDetails = JSON.parse(
   fs.readFileSync(`${__dirname}/_data/seminarDetails.json`, 'utf-8')
 );
 
+
+const classes = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/classes.json`, 'utf-8')
+);
+
+const classDetails = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/classDetails.json`, 'utf-8')
+);
+
+const classStudents = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/classStudents.json`, 'utf-8')
+);
+
 // Import into DB
 const importData = async () => {
   try {
@@ -80,6 +96,9 @@ const importData = async () => {
     await Paper.create(papers);
     await Seminar.create(seminars);
     await SeminarDetail.create(seminarDetails);
+    await ClassStudent.create(classStudents);
+    await Class.create(classes);
+    await ClassDetail.create(classDetails);
     console.log('Data imported.....'.green.inverse);
     process.exit;
   } catch (err) {
@@ -100,6 +119,9 @@ const deleteData = async () => {
     await Paper.deleteMany();
     await Seminar.deleteMany();
     await SeminarDetail.deleteMany();
+    await ClassStudent.deleteMany();
+    await Class.deleteMany();
+    await ClassDetail.deleteMany();
     console.log('Data destroyed.....'.red.inverse);
     process.exit;
   } catch (err) {

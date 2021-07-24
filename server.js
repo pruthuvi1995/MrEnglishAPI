@@ -28,10 +28,13 @@ const auth = require('./routes/auth');
 const dayDetails = require('./routes/dayDetails');
 const courses = require('./routes/courses');
 const years = require('./routes/years');
+const classStudents = require('./routes/classStudents');
 const papers = require('./routes/papers');
 const yearDetails = require('./routes/yearDetails');
 const seminars = require('./routes/seminars');
 const seminarDetails = require('./routes/seminarDetails');
+const classes = require('./routes/classes');
+const classDetails = require('./routes/classDetails');
 
 const app = express();
 
@@ -85,6 +88,9 @@ app.use('/api/v1/papers', papers);
 app.use('/api/v1/yearDetails', yearDetails);
 app.use('/api/v1/seminars', seminars);
 app.use('/api/v1/seminarDetails', seminarDetails);
+app.use('/api/v1/classStudents', classStudents);
+app.use('/api/v1/classes', classes);
+app.use('/api/v1/classDetails', classDetails);
 
 
 app.use(errorHandler);

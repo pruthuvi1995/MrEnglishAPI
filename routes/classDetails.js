@@ -1,12 +1,12 @@
 const express = require('express');
 const {
-  getSeminarDetails,
-  getSingleSeminarDetails,
-  addSeminarDetails,
-  updateSeminarDetails,
-} = require('../controllers/seminarDetails');
+  getClassDetails,
+  getSingleClassDetails,
+  addClassDetails,
+  updateClassDetails,
+} = require('../controllers/classDetails');
 
-const ClassDetail = require('../models/SeminarDetail');
+const ClassDetail = require('../models/ClassDetail');
 
 // Include other resourses routers
 // const lessonRouter = require('./days');
@@ -17,19 +17,19 @@ const router = express.Router({ mergeParams: true });
 // const advancedResults = require('../middleware/advancedResults');
 const { protect } = require('../middleware/auth');
 
-router.route('/:userId').get(protect, getSeminarDetails);
+router.route('/:userId').get(protect, getClassDetails);
 
-router.route('/:userId/:seminarId').get(
+router.route('/:userId/:classId').get(
   protect,
   // advancedResults(DayDetail, {
   //   path: 'day',
   //   select: 'title',
   // }),
-  getSingleSeminarDetails
-).post(protect, addSeminarDetails);
+  getSingleClassDetails
+).post(protect, addClassDetails);
 
 
 
-router.route('/:id').put(protect, updateSeminarDetails);
+router.route('/:id').put(protect, updateClassDetails);
 
 module.exports = router;

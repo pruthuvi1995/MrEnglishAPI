@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const slugify = require('slugify');
 
-const SeminarSchema = new mongoose.Schema(
+const ClassSchema = new mongoose.Schema(
   {
     title: {
       type: String,
@@ -10,11 +10,6 @@ const SeminarSchema = new mongoose.Schema(
       trim: true,
       maxlength: [100, 'title can not be more than 100 charactors'],
     },
-    slug: String,
-    description: {
-        type: String,
-        required: [true, 'Please add a description'],
-      },
     videoList:{
         type: [],
         required: [true, 'Please add video list'],
@@ -31,10 +26,10 @@ const SeminarSchema = new mongoose.Schema(
 );
 
 // Create bootcamp slug from the name
-SeminarSchema.pre('save', function (next) {
+ClassSchema.pre('save', function (next) {
   this.slug = slugify(this.title, { lower: true });
   next();
 });
 
 
-module.exports = mongoose.model('Seminar', SeminarSchema);
+module.exports = mongoose.model('Class', ClassSchema);
