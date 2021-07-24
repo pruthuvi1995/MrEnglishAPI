@@ -17,8 +17,8 @@ exports.getClassStudents = asyncHandler(async (req, res, next) => {
 // @route   GET /api/v1/classStudents/:id
 // @access  Private
 exports.getClassStudent = asyncHandler(async (req, res, next) => {
-  const classStudent = await ClassStudent.find({ NICNo: req.params.userId });
-
+  const classStudent = await ClassStudent.find({ nICNo: req.params.id });
+  console.log(classStudent);
   if (!classStudent) {
     return next(
       new ErrorResponse(`Resources not found with id of ${req.params.id}`)

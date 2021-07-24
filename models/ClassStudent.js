@@ -4,16 +4,20 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 const ClassStudentSchema = new mongoose.Schema({
-    NICNo: {
-        type: String,
-        required: [true, 'Please add an NICNo'],
-    
-    },
-    className: {
-        type: String,
-        required: [true, 'Please add class name'],
-    },
-    activeClassStudent: {
+  classStudentName: {
+    type: String,
+    required: [true, 'Please add class student name'],
+    unique:true,
+  },
+  nICNo:{
+    type: String,
+    required: [true, 'Please add NIC name'],
+  },
+  className: {
+    type: String,
+    required: [true, 'Please add class name'],
+  },
+  activeClassStudent: {
     type: String,
     default: '2020-01-01',   
   },
