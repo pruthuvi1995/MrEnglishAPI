@@ -7,9 +7,10 @@ const ClassStudentSchema = new mongoose.Schema({
     NICNo: {
         type: String,
         required: [true, 'Please add an NICNo'],
+    
     },
     className: {
-        type: [],
+        type: String,
         required: [true, 'Please add class name'],
     },
     activeClassStudent: {
