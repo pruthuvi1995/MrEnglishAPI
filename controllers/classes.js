@@ -33,7 +33,7 @@ exports.getClass = asyncHandler(async (req, res, next) => {
 // @access  Private
 exports.createClass = asyncHandler(async (req, res, next) => {
   const oneClass = await Class.create(req.body);
-  res.status(201).json({ success: true, msg:oneClass });
+  res.status(201).json({ success: true, data:oneClass });
 });
 
 // @desc    Update class

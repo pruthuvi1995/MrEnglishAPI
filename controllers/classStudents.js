@@ -1,4 +1,4 @@
-const path = require('path');
+// const path = require('path');
 // const Day = require('../models/ClassStudent');
 const asyncHandler = require('../middleware/async');
 const ErrorResponse = require('../utils/errorResponse');
@@ -8,7 +8,7 @@ const ClassStudent = require('../models/ClassStudent');
 // @route   GET /api/v1/classStudents
 // @access  Private
 exports.getClassStudents = asyncHandler(async (req, res, next) => {
-  const classStudents = await ClassStudent.find();
+  const classStudents = await ClassStudent.find().populate('course');
 
   res.status(200).json({ success: true, count: classStudents.length, data: classStudents });
 });
@@ -17,7 +17,7 @@ exports.getClassStudents = asyncHandler(async (req, res, next) => {
 // @route   GET /api/v1/classStudents/:id
 // @access  Private
 exports.getClassStudent = asyncHandler(async (req, res, next) => {
-  const classStudent = await ClassStudent.find({ nICNo: req.params.id });
+  const classStudent = await ClassStudent.find({ nICNo: req.params.id }).populate('course');
   console.log(classStudent);
   if (!classStudent) {
     return next(

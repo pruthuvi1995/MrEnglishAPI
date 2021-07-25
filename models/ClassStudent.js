@@ -1,21 +1,19 @@
-const crypto = require('crypto');
+
 const mongoose = require('mongoose');
-const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
 
 const ClassStudentSchema = new mongoose.Schema({
-  classStudentName: {
-    type: String,
-    required: [true, 'Please add class student name'],
-    unique:true,
-  },
   nICNo:{
     type: String,
-    required: [true, 'Please add NIC name'],
+    required: [true, 'Please add NIC no'],
   },
   className: {
     type: String,
     required: [true, 'Please add class name'],
+  },
+  course: {
+    type: mongoose.Schema.ObjectId,
+    ref: 'Course',
+    required: true,
   },
   activeClassStudent: {
     type: String,

@@ -3,15 +3,17 @@ const slugify = require('slugify');
 
 const ClassSchema = new mongoose.Schema(
   {
-    title: {
+    className: {
       type: String,
       required: [true, 'Please add a title'],
-      unique: true,
-      trim: true,
+    },
+    title:{
+      type: String,
+      required: [true, 'Please add a title'],
       maxlength: [100, 'title can not be more than 100 charactors'],
     },
-    videoList:{
-        type: [],
+    videoURL:{
+        type: String,
         required: [true, 'Please add video list'],
       },
     createdAt: {
