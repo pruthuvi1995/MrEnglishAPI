@@ -172,6 +172,27 @@ exports.forgotPassword = asyncHandler(async (req, res, next) => {
   });
 });
 
+// @desc    nIC No validation
+// @route   POST /api/v1/auth/nICNoValidation
+// @access  Public
+
+exports.nICNoValidation = asyncHandler(async (req, res, next) => {
+  const user = await User.findOne({
+    NICNo: req.body.nICNo,
+  });
+
+  if (!user) {
+    return next(new ErrorResponse('There is no user with tha phone no', 404));
+  }
+
+  res.status(200).json({
+    success: true,
+    data: user,
+  });
+
+
+});
+
 // @desc    chargingNotificationUrl
 // @route   POST /api/v1/auth/chargingNotificationUrl
 // @access  private

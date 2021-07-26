@@ -7,6 +7,7 @@ const {
   forgotPassword,
   updateDetails,
   updatePassword,
+  nICNoValidation,
   chargingNotificationUrl,
 } = require('../controllers/auth');
 
@@ -21,6 +22,7 @@ router.get('/me', protect, getMe);
 router.put('/updatedetails', protect, updateDetails);
 router.put('/updatepassword', protect, updatePassword);
 router.post('/forgotPassword', forgotPassword);
-router.post('/chargingNotificationUrl', protect, chargingNotificationUrl);
+router.post('/nICNoValidation', nICNoValidation);
+router.post('/chargingNotificationUrl',chargingNotificationUrl);
 
 module.exports = router;

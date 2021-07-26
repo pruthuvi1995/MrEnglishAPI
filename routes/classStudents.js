@@ -26,14 +26,19 @@ const { protect } = require('../middleware/auth');
 router
   .route('/')
   // .get(advancedResults(Day, 'courses'), getDays)
-  .get(protect, getClassStudents)
-  .post(protect, createClassStudent);
+  .post( createClassStudent);
 
 router
+  .route('/:nICNo')
+  .get( getClassStudent)
+  .post(getClassStudents)
+router
   .route('/:id')
-  .get(protect, getClassStudent)
-  .put(protect, updateClassStudent)
-  .delete(protect, deleteClassStudent);
+  .put( updateClassStudent)
+  .delete( deleteClassStudent);
+
+ 
+;
 
 // router.route('/:id/photo').put(protect, dayPhotoUpload);
 

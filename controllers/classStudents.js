@@ -5,23 +5,36 @@ const ErrorResponse = require('../utils/errorResponse');
 const ClassStudent = require('../models/ClassStudent');
 
 // @desc    Get all class students
-// @route   GET /api/v1/classStudents
+// @route   POST /api/v1/classStudents
 // @access  Private
 exports.getClassStudents = asyncHandler(async (req, res, next) => {
-  const classStudents = await ClassStudent.find().populate('course');
 
-  res.status(200).json({ success: true, count: classStudents.length, data: classStudents });
+  const classStudent = await ClassStudent.find(
+    {$and: [{nICNo: req.body.nICNo}, {className: req.body.className }]}
+  );
+
+  if (classStudent.length == 0) {
+    return next(
+      new ErrorResponse(
+        `No review found with the id of ${req.body.nICNo} and ${req.body.className}`,
+        404
+      )
+    );
+    }
+  
+
+ res.status(200).json({ success: true, data: classStudent });
 });
 
 // @desc    Get single class student
 // @route   GET /api/v1/classStudents/:id
 // @access  Private
 exports.getClassStudent = asyncHandler(async (req, res, next) => {
-  const classStudent = await ClassStudent.find({ nICNo: req.params.id }).populate('course');
+  const classStudent = await ClassStudent.find({ nICNo: req.params.nICNo }).populate('course');
   console.log(classStudent);
   if (!classStudent) {
     return next(
-      new ErrorResponse(`Resources not found with id of ${req.params.id}`)
+      new ErrorResponse(`Resources not found with id of ${req.params.nICNo}`)
     );
   }
 
