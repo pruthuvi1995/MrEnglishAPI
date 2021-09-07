@@ -1,42 +1,198 @@
 [
     {
       "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Passive Voice - Simple පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day29Lesson01",
       "day": "6075da74c75cd45a05afec6f",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "Amazing cookies ............... by my sister.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "is made",
+          "are made",
+          "were made"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "are made",
         "review":""
-      }
+      },
+      {"qText": "The door ............ by Nimal that day.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "was opened",
+        "are opened",
+        "were opened"
+      ],
+      "correctAnswer": "was opened",
+      "review":""
+    },
+    {"qText": "A brand new Prado ............. by him.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "was bought",
+      "is bought",
+      "were bought"
+    ],
+    "correctAnswer": "is bought",
+    "review":""
+  },
+  {"qText": "I .............. to the party tomorrow.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "was invited",
+    "will be invited",
+    "are invited"
+  ],
+  "correctAnswer": "will be invited",
+  "review":""
+},
+{"qText": "The table ............... for dinner yesterday.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "were decorated",
+  "is decorated",
+  "was decorated"
+],
+"correctAnswer": "was decorated",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "The puppies ................ at the same time.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "is fed",
+          "were fed",
+          "are fed"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "are fed",
+        "review":"puppies <- plural වේ. objective plural වනවිට be verb යෙදෙන්නේ are ලෙසය. බලු කුක්කන්ට කවනවා යන්න අර්ථවත් වේ."
+      },
+      {"qText": "The lunch ................ by her for my next birthday.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "is cooked",
+        "was cooked",
+        "will be cooked"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "will be cooked",
+      "review":"මගේ මීළඟ birthday එකේ දවල් කෑම ඇය විසින් සාදාවී යන්න අර්ථවත් වේ."
+    },
+    {"qText": "English ............... in Mexico hundred years ago.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "is spoken",
+      "was spoken",
+      "were spoken"
+    ],
+    "correctAnswer": "was spoken",
+    "review":"මෙක්සිකෝවේ ඉංග්‍රීසි කතා කරනු ලැබුවා යන්න අර්ථවත් වේ. simple past වලට අදාළ passive voice යෙදේ."
+  },
+  {"qText": "My birthday cake ............. by mother.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "is made",
+    "are made",
+    "will be made"
+  ],
+  "correctAnswer": "is made",
+  "review":"birthday cake, singular object එකකි. be verb ලෙස 'is' යෙදේ."
+},
+{"qText": "A new book .............. by her next summer.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "will be released",
+  "is released",
+  "will be release"
+],
+"correctAnswer": "will be released",
+"review":"ඇය මීළඟ ග්‍රීස්ම කාලයේදී පොතක් නිකුත් කරාවි යන්න අර්ථවත් වේ."
+},
+{"qText": "The application ..................... to him tomorrow.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "will sent",
+"will be send",
+"will be sent"
+],
+"correctAnswer": "will be sent",
+"review":"හෙට ඔහුට අයදුම් පත්‍රය ලබා දෙවි යන්න අර්ථවත් වේ. Future tense වලට අදාලව passive voice යෙදිය යුතුය."
+},
+{"qText": "The house ............. by Diyon last ast week.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "is painted",
+  "was painted",
+  "were painted"
+],
+"correctAnswer": "was painted",
+"review":"Diyon ගිය සතියේ ගෙදර පාට ගැවා යන්න අර්ථවත් වේ. වාක්‍යයේ මුලට object යෙදෙන බැවින් passive voice වේ."
+},
+{"qText": "The job ................ by tomorrow.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "is done",
+  "will be done",
+  "will do"
+],
+"correctAnswer": "will be done",
+"review":"වැඩේ හෙට සිදු කරාවි යන්න අර්ථවත් වේ. simple future වලට අදාළ passive යෙදේ."
+},
+{"qText": "Meetings ........... at weekends.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "is held",
+  "will be held",
+  "are held"
+],
+"correctAnswer": "are held",
+"review":"රැස්වීම සති අන්තයේ පවත්වනු ලබනවා යන්න අර්ථවත් වේ. කතෘ සදහන් කර නැත. passive voice නීති අනුගමනය කල යුතුය."
+},
+{"qText": "Emails ............ to Friends last few years.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "is sent",
+  "was sent",
+  "were sent"
+],
+"correctAnswer": "were sent",
+"review":"ගිය අවුරුදු ටිකේ යාලුවන්ට email යැව්වා යන්න අර්ථවත් වේ. emails plural objects බැවින් 'were' be verb යෙදිය යුතුය."
+}
+      ],
+      "videoURL":"lzyHDhahnnk"
   
     }
    

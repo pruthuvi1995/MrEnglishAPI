@@ -1,0 +1,184 @@
+[
+    {
+      "title": "පාඩම එකතු කර නැත.",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Relative Clauses - part 01 පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day28Lesson02",
+      "day": "6075da74c75cd45a05afec6e",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "I talked to the girl ............. car had broken down in front of the shop.",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "review":""
+    },
+   
+  {"qText": "I live in a house in Tokyo ............ is in Japan.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.25,
+    "type": "mcq",
+  "answers": [
+    "who",
+    "which",
+    "whose"
+  ],
+  "correctAnswer": "whose",
+  "review":""
+},
+{"qText": "This is the town ............... I was born.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.25,
+  "type": "mcq",
+"answers": [
+  "who",
+"which",
+"where"
+],
+"correctAnswer": "where",
+"review":"මෙහිදී the town යන noun එක විස්තර කෙරේ. ස්ථානයක් බැවින් where pronoun යෙදේ."
+},
+{"qText": "The stop ................ we usually buy our bread has closed down.",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+"type": "mcq",
+"answers": [
+"who",
+"where",
+"who"
+],
+"correctAnswer": "where",
+"review":""
+}
+   
+     
+      
+    
+      ],
+      "mcqLesson":[
+      
+
+      {"qText": "Thank you very much for your e-mail .......... was very interesting.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "correctAnswer": "which",
+      "review":"මෙහිදී විස්තර කරන්නේ e-mail වේ. එම නිසා who,whose යෙදිය නොහැක."
+    }, {"qText": "The man ............ father is a professor, forgot his umbrella.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "who",
+      "which",
+      "whose"
+    ],
+    "correctAnswer": "whose",
+    "review":"මෙහි අරුත වන්නේ 'තාත්තා ප්‍රොපෙසර් කෙනෙක් වන මනුස්සයාට කුඩේ  අමතක උන ලෙසය'. අයිතිය හැගවීමක් යෙදේ. "
+  }, {"qText": "An orphanage is a place .................. children who have no parents can live and be looked after.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "who",
+    "which",
+    "where"
+  ],
+  "correctAnswer": "where",
+  "review":"ස්ථානයක් විස්තර කරන බැවින් where relative pronoun යෙදේ."
+}, {"qText": "The car ............ driver is a young man, is from Negambo.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "who",
+"which",
+"whose"
+],
+"correctAnswer": "whose",
+"review":"මෙහිදී car ගැන විස්තර කරන්නේ රියදුරා යොදාගෙනය. 'රියදුරෙකු තරුණයෙකු වන කාර් එක මීගමුවෙන් ගෙනාවා යන අරුත ලැබේ. මෙහිදී කාර් එකේ රියදුරා ලෙස දක්වන බැවින් whose යෙදේ."
+}, {"qText": "What did you do with the money ............ your mother lent you?",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"who",
+"which",
+"whose"
+],
+"correctAnswer": "which",
+"review":"මෙහිදී money යන්න විස්තර කරන්නේ 'මව ණයට දුන්' යන අර්ථයෙනි. money ද්‍රව්‍යක් බැවින් who නොයෙදේ. "
+}, {"qText": "She worked for a man ............ used to be an athlete.",
+"imageUrl":"assets/images/h1.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"who",
+"that",
+"whom"
+],
+"correctAnswer": "who",
+"review":"ඇය වැඩකලේ ධාවකයෙකු වූ පුද්ගලයෙකුටය. යන අර්ථය ලැබේ.මෙහිදී මිනිසා විස්තර කරන බැවින් who යෙදේ."
+}, {"qText": "We broked the computer ............... belonged to my uncle.",
+"imageUrl":"assets/images/h2.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"whose",
+"whome",
+"that"
+],
+"correctAnswer": "whose",
+"review":"මෙහිදී කැඩූ පරිගණකය විස්තර කරන්නේ 'මගේ මාමට අයිති' යනුවෙනි.අයිතියක් විස්තර කරන බැවින් whose යෙදේ."
+}, {"qText": "We called the lawyer .............. lived nearby.",
+"imageUrl":"assets/images/h3.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"whose",
+"where",
+"who"
+],
+"correctAnswer": "who",
+"review":"මේ ලග ජීවත් වන lawyer ට අපි ඇමතුවා යන අරුත ලැබේ.මෙහිදී lawyer විස්තර කරන්නේ lived nearby ලෙසය. "
+}, {"qText": "She loves books ............... have happy endings.",
+"imageUrl":"assets/images/h4.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"what",
+"which",
+"whose"
+],
+"correctAnswer": "which",
+"review":"'ඇය කැමති සතුට දනවන අවසානයක් ඇති පොත් වලට' මෙහිදී books යන්න විස්තර විය යුතුය."
+}, {"qText": "I ran to the canteen ........... is next to the dancing room.",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"what",
+"where",
+"when"
+],
+"correctAnswer": "where",
+"review":"මෙහිදී canteen එක විස්තර කෙරේ. එය ස්ථානයක් බැවින් where වේ."
+}
+      ],
+      "videoURL":"HiAWSsfVvwM"
+  
+    }
+   
+    
+  ]
+  

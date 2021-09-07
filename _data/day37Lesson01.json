@@ -1,7 +1,7 @@
 [
     {
       "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Bar Charts පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day37Lesson01",
       "day": "6075da74c75cd45a05afec77",
       "imageURL": "1",
@@ -23,20 +23,9 @@
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
+       "https://tlgur.com/d/GW1JNwZ4"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "videoURL":"GFRPECjJeKU"
   
     }
    

@@ -1,42 +1,192 @@
 [
     {
-      "title": "",
-      "description": "",
+      "title": "Somebody/ Nobody/ Everybody",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Somebody/ Nobody/ Anybody/ Everybody පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day25Lesson02",
       "day": "6075da74c75cd45a05afec6b",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "I’m sorry. I speak …………. French.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "somebody",
+          "anybody",
+          "nobody"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "somebody",
         "review":""
-      }
+      },
+      {"qText": "........ needs friends.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "Somebody",
+        "Anybody",
+        "Everybody"
+      ],
+      "correctAnswer": "Everybody",
+      "review":""
+    },
+    {"qText": "There isn’t ....... in the garden.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "somebody",
+      "anybody",
+      "nobody"
+    ],
+    "correctAnswer": "anybody",
+    "review":""
+  },
+  {"qText": "There is .......... at school at this time.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "anybody",
+    "nobody",
+    "somebody"
+  ],
+  "correctAnswer": "nobody",
+  "review":""
+},
+{"qText": "What’s happening? I don’t know ......... knows.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "nobody",
+  "anybody",
+  "somebody"
+],
+"correctAnswer": "nobody",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "I like all the people in this room. .......... is friendly.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "Somebody",
+          "Everybody",
+          "Nobody"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "Everybody",
+        "review":"මම මේ කාමරයේ ඉන්න සෑම මිනිසාටම කැමතියි. ඔවුන් ඔක්කොම හිතවත් යන අර්ථය ලැබේ."
+      },
+      {"qText": "Do you know ........ in Colombo?",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "anybody",
+        "everybody",
+        "somebody"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "somebody",
+      "review":"ඔයා කොළොඹ ඉන්න කවුරුහරි දන්නවාද යන්න අර්ථවත් වේ."
+    },
+    {"qText": "Who did you meet? .......... The party was over.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "Somebody",
+      "Anybody",
+      "Nobody"
+    ],
+    "correctAnswer": "Nobody",
+    "review":"කවුද ඔයාට මුණ ගැහුණේ? කවුරුත් නෑ. පාටිය ඉවර වුණා. යන්න අර්ථවත් වේ."
+  },
+  {"qText": "Let’s have lunch. .......  woke up hungry!",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "Nobody",
+    "Everybody",
+    "Somebody"
+  ],
+  "correctAnswer": "Somebody",
+  "review":"තර්කානුකුලව බැලීමේදී හොදම පිළිතුර somebody වේ. අපි දවල් කෑම කමු නේද කියමින් සමහරු බඩගිනි වෙලා නැගිට්ටා යන්න අර්ථවත් වේ."
+}, {"qText": "I am lonely. I don’t have ......... to talk.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "somebody",
+  "nobody",
+  "everybody"
+],
+"correctAnswer": "nobody",
+"review":"මම තනිවම ඉන්නේ යනු කවුරුත් කතා කරන්න නොමැති බවයි. haven't ලෙස යොදා නොමැත. Positive ලෙස නැත අර්ථය පවසන්නේ nobody මඟිනි."
+}, {"qText": "Does .......... live in that house?",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "everybody",
+  "nobody",
+  "anybody"
+],
+"correctAnswer": "anybody",
+"review":"කවුරුහරි අර ගෙදර ඉන්නවාද යන්න අදහස් වේ."
+}, {"qText": "The shop is closed. ........  has gone home.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "Nobody",
+  "Everybody",
+  "Somebody"
+],
+"correctAnswer": "everybody",
+"review":"කඩේ වහලා.හැමෝම ගෙදර ගිහිල්ලා යන්න අදහස් කෙරේ."
+}, {"qText": "Does .......... want to go to cinema? ",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "anybody",
+  "everybody",
+  "nobody"
+],
+"correctAnswer": "anybody",
+"review":"කාටහරි චිත්‍රපටි ශාලාවට යන්න අවශ්‍යද යන්න අර්ථවත් වේ."
+}, {"qText": "I’m sad because ......... remembered my birthday.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "everybody",
+  "somebody",
+  "nobody"
+],
+"correctAnswer": "nobody",
+"review":"මට දුකයි. මොකද කාටවත් මගේ උපන්දිනය මතක තිබුනේ නෑ යන්න අර්ථවත් වේ."
+}, {"qText": "Can ........ tell me the capital of Australia? ",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "anybody",
+  "nobody",
+  "everybody"
+],
+"correctAnswer": "anybody",
+"review":"කාටහරි කියන්න පුලුවන්ද ඕස්ට්‍රේලියාවේ අගනුවර මොකද්ද කියලා යන්න අර්ථවත් වේ."
+}
+      ],
+      "videoURL":"pZ7uiC1S7G8"
   
     }
    

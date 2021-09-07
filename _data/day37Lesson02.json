@@ -1,7 +1,7 @@
 [
     {
-      "title": "",
-      "description": "",
+      "title": "පාඩම එකතු කර නැත.",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Pie Charts පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day37Lesson02",
       "day": "6075da74c75cd45a05afec77",
       "imageURL": "1",
@@ -23,20 +23,9 @@
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
+       "https://tlgur.com/d/8BO9OX3G"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "videoURL":"clms97Ezhq0"
   
     }
    

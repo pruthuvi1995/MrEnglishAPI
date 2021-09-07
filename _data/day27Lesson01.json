@@ -1,42 +1,174 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Also and Too",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Also and Too පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day27Lesson01",
       "day": "6075da74c75cd45a05afec6d",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "I ........... like chocolate.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "also",
+          "too"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "also",
         "review":""
-      }
+      },
+      {"qText": "She ............. likes to read poetry.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "also",
+        "too"
+      ],
+      "correctAnswer": "also",
+      "review":""
+    },
+    {"qText": "He is ................ becoming a teacher.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "also",
+      "too"
+    ],
+    "correctAnswer": "also",
+    "review":""
+  },
+  {"qText": "Alice can join us. Helene can join us ...........",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "also",
+    "too"
+  ],
+  "correctAnswer": "too",
+  "review":""
+},
+{"qText": "My tea is ............. hot to drink.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "too",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "I love chocolate. I ........ love pizza.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "also",
+          "too"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "also",
+        "review":"මම pizza වලටත් කැමතියි යන අර්ථය ලැබේ."
+      },   {"qText": "If he wants to go .........., he should meet us at 8:00.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "also",
+        "too"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "too",
+      "review":"ඔහුටත් යන්න අවශ්‍යයි යන්න අර්ථවත් වේ. clause හි අවසානයට යෙදෙන බැවින් too යෙදිය යුතුය."
+    },   {"qText": "I am studying economics ...............",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "also",
+      "too"
+    ],
+    "correctAnswer": "too",
+    "review":"මම ආර්ථික විද්‍යාවත් ඉගෙන ගන්නවා යන්න අර්ථවත් වේ."
+  },   {"qText": "Mr. Jones wanted the contract. Ms. Jackson, .......... , thought it was necessary.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "also",
+    "too"
+  ],
+  "correctAnswer": "also",
+  "review":"Mr. Jackson නුත් හිතුවා යන්න අර්ථවත් වේ."
+},   {"qText": "I don’t like cold climates. I don’t think you like it ................ ",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "too",
+"review":"මම හිතනවා ඔබත් කැමති නෑ කියලා යන්න අර්ථවත් වේ. වාක්‍යයේ අගට යෙදෙන බැවින් too යෙදේ."
+},   {"qText": "My friends are going to college next year. I am ............. going to college next year.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "also",
+"review":"මමත් යනවා යන්න ලෙස අර්ථවත් වේ."
+},   {"qText": "My wife is a diligent engineer. I am a diligent engineer ...........",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "too",
+"review":"මමත් එහෙමයි යන්න අර්ථවත් වේ."
+},   {"qText": "I love swimming. My son loves it ............. ",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "too",
+"review":"මගේ පුතත් පිහිනීමට කැමතියි යන්න අර්ථවත් වේ. වාක්‍යයේ අගට යෙදෙන බැවින් too යෙදේ."
+},   {"qText": "I eat a lot more than an average person. My brother ............... eat a lot. ",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "also",
+"review":"මගේ සහෝදරයාත් ගොඩක් කනවා යන්න අර්ථවත් වේ."
+},   {"qText": "A bear can run very fast. A tiger runs very fast ............ ",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "also",
+  "too"
+],
+"correctAnswer": "too",
+"review":"කොටියාටත් වේගයෙන් දුවන්න පුලුවන් යන්න අර්ථවත් වේ."
+}
+      ],
+      "videoURL":"WLZKlnD1Tu8"
   
     }
    

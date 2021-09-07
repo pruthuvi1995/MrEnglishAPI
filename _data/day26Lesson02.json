@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Such as/ Like",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Such as/ Like පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day26Lesson02",
+      "day": "6075da74c75cd45a05afec6c",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "I have been to cities ............. Los Angeles.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.3,
+          "type": "mcq",
+        "answers": [
+         "such as",
+         "like"
+        ],
+        "correctAnswer": "such as",
+        "review":""
+      },
+      {"qText": "I like the new animation movies .............. Ice age and Rio.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.3,
+        "type": "mcq",
+      "answers": [
+       "such as",
+       "like"
+      ],
+      "correctAnswer": "such as",
+      "review":""
+    },
+    {"qText": "Captain America was another superhero movie ............. Spider-Man and Superman.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.4,
+      "type": "mcq",
+    "answers": [
+     "such as",
+     "like"
+    ],
+    "correctAnswer": "like",
+    "review":""
+  }
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "I have been to some great cities in California .............. Los Angeles and San Francisco.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.125,
+          "type": "mcq",
+        "answers": [
+          "such as",
+          "like"
+        ],
+        "correctAnswer": "such as",
+        "review":"මම කැලිෆෝනියා වල ඇති මෙවැනි නගරවලට ගිහින් තියෙනවා යන්න අර්ථවත් වේ. මෙහිදී උදාහරණ වල සංසන්දනය කිරීමක් සිදු නොවන නිසා like යෙදෙන්නේ නැත."
+      },
+      {"qText": "A man .............. Dr. Kimble will always be remembered.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "such as",
+        "like"
+      ],
+      "correctAnswer": "like",
+      "review":"'Kimble' වගේ මිනිස්සු හැමදාම මතකයේ තියෙනවා යන්න අර්ථවත් වේ. එහිදී සංසන්දනයක් සිදුවන බැවින් such as නොයෙදේ."
+    },
+    {"qText": "Anne loves furry animals ................. rabbits and hamsters.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "such as",
+      "like"
+    ],
+    "correctAnswer": "such as",
+    "review":"සතුන් අතර සංසන්දනයක් නොවේ. උදාහරණ වශයෙන් දැක්වීමක් පමණි."
+  },
+  {"qText": "John is smart ............ Peter.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "such as",
+    "like"
+  ],
+  "correctAnswer": "like",
+  "review":"මෙහිදී 'ජෝන් පීටර් වගේ දක්‍ෂයි' වැනි අර්ථයක් ඇත. එකිනෙකා සංසන්දනයක් සිදුවේ. සන්සන්දනයකදී like යෙදේ."
+},
+{"qText": "My puppy Leo loves to eat sweet food ................... chocolates and candies.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "such as",
+  "like"
+],
+"correctAnswer": "such as",
+"review":"බලු කුක්කා කන කෑම වර්ග උදාහරණ සමග දක්වයි."
+},
+{"qText": "Fruits .............. oranges, apples, grapes, and papayas are rich in vitamin C.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "such as",
+  "like"
+],
+"correctAnswer": "such as",
+"review":"සංසන්දනයක් නොව උදාහරණ දැක්වීමක් සිදුවේ."
+},
+{"qText": "Cartoon characters .............. Mickey Mouse and Snoopy are still popular.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "such as",
+  "like"
+],
+"correctAnswer": "like",
+"review":"මෙහිදී cartoon character වල පොඩි සංසන්දනයක් සිදුවේ."
+},
+{"qText": "Things .............. glass, paper, and plastic can all be recycled.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "such as",
+  "like"
+],
+"correctAnswer": "such as",
+"review":"උදාහරණ දැක්වීමක් සිදුවේ."
+}
+
+      ],
+      "videoURL":"XuVIBOpxj0E"
+  
+    }
+   
+    
+  ]
+  

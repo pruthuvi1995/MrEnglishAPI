@@ -1,40 +1,148 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Passive Voice - Continuous",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Passive Voice - Continuous පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day30Lesson01",
       "day": "6075da74c75cd45a05afec70",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
+        {"qText": "When I was going to the club, Andrew .................... by Jason.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.3,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "is beaten",
+          "was being beaten",
+          "beat"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "was being beaten",
         "review":""
-      }
+      },
+      {"qText": "Now I am in a phone shop because my phone .......................",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.4,
+        "type": "mcq",
+      "answers": [
+        "prepare",
+        "is prepared",
+        "is being prepared"
+      ],
+      "correctAnswer": "is being prepared",
+      "review":""
+    },{"qText": "Applications ...................... selected now in the board room.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.3,
+      "type": "mcq",
+    "answers": [
+      "are being",
+      "are",
+      "have been"
+    ],
+    "correctAnswer": "are being",
+    "review":""
+  }
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
+        {"qText": "The book .............. by me now.",
+          "imageUrl":"assets/images/h1.jpg",
           "mark":0.125,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "is being read",
+"is read",
+"read"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "is being read",
+        "review":"මෙහි now ලෙස සඳහන් කර ඇති නිසා present continuous tense වලට අදාළ වේ. The book 'object' මුලික වී ඇති බැවින් passive voice වේ."
+      },
+      {"qText": "Yesterday morning at 10.00 a.m. another toy .................. by Narada.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "have broken",
+"was broken",
+"was being broken"
+      ],
+      "correctAnswer": "was being broken",
+      "review":"ඊයේ උදේ නිශ්චිත වෙලාවක් ගැන සඳහන් බැවින් continuous tense යෙදිය යුතුමය."
+    },
+    {"qText": "A letter ................. by her at this moment.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "is written",
+"is being written",
+"was being written"
+    ],
+    "correctAnswer": "is written",
+    "review":"මේ මොහොතේ ඇය විසින් ලියුමක් ලියමින් තිබෙනවා යන්න අර්ථවත් වේ."
+  },
+  {"qText": "The invitation .................... by them while I was calling her.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "is being accepted",
+"was accepted",
+"was being accepted"
+
+  ],
+  "correctAnswer": "was being accepted",
+  "review":"මම ඇයට call කරමින් සිටින විට ඔවුන් ආරාධනා පිළිගනිමින් සිටියා යන්න අර්ථවත් වේ. past continuous tense වේ."
+},
+{"qText": "While I was watching the movie, English songs .................. by our sister.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "is being listening",
+"was being listening",
+"was being listened"
+],
+"correctAnswer": "was being listened",
+"review":"මම ඊයේ චිත්‍රපටය බලමින් ඉන්නා විට අපේ සහෝදරිය විසින් ඉංග්‍රීසි සින්දු අසමින් හිටියා යන්න අර්ථවත් වේ."
+},
+{"qText": "When I was reaching home, chinese food ............... by her.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "is being cooked",
+"was being cooked",
+"was being cooking"
+],
+"correctAnswer": "was being cooked",
+"review":"මම ගෙදරට ළඟා වෙමින් සිටින විට ඇය විසින් චීන කෑම සාදමින් සිටියා යන්න අර්ථවත් වේ."
+},
+{"qText": "A phone .................... by mother at this moment in the shop.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "have been selected",
+"is being selected",
+"is being selecting"
+],
+"correctAnswer": "is being selected",
+"review":"මේ මොහොතේ phone එකක් තෝරමින් ඉන්න බව අදහස් වේ. Present continuous tense වලට අදාළ passive voice වේ."
+},
+{"qText": "Appuhami was bit by a viper when vegetables ................. by him.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "has been watered",
+"were being watered",
+"is being watered"
+],
+"correctAnswer": "were being watered",
+"review":"එළවලු වලට වතුර දමමින් සිටින විට යන අර්ථය ලැබේ."
+}
       ],
       "videoURL":"HiAWSsfVvwM"
   

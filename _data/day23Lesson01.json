@@ -1,42 +1,190 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Zero and 1st condition",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Zero and 1st condition පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day23Lesson01",
       "day": "6075da74c75cd45a05afec69",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "If I see him, I .......... him a lift.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "give",
+          "gave",
+          "have given"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "give",
         "review":""
-      }
+      },
+      {"qText": "The table will break if you ........... on it.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "sitting",
+        "sat",
+        "sit"
+      ],
+      "correctAnswer": "sit",
+      "review":""
+    },
+    {"qText": "If he ............... all that, he will be ill.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "ate",
+      "had eaten",
+      "eat"
+    ],
+    "correctAnswer": "eat",
+    "review":""
+  },
+  {"qText": "If I find your passport, I ........... you.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "will telephone",
+    "telephone",
+    "would telephone"
+  ],
+  "correctAnswer": "will telephone",
+  "review":""
+},
+{"qText": "The police .......... him, if they catch him.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "will arrest",
+  "had arrested",
+  "arrest"
+],
+"correctAnswer": "will arrest",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "If he ............... in bad light, he will ruin his eyes.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "read",
+          "would read",
+          "will read"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "read",
+        "review":"ඔහු අනතුරුදායක ආලෝකයේ වැඩකරනවා නම් ඇස් නරක් වේවි යන්න අර්ථවත් වේ. first conditional වේ. if clause එක වන්නේ simple present, main clause එක වන්නේ simple future."
+      },
+      {"qText": "Someone .......... your car if you leave it unlocked.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "will steal",
+        "steals",
+        "steal"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "will steal",
+      "review":"මෙය first conditional ය. ඔබ කාර් එක ලොක් නොකර ගියොත් කවුරු හෝ එය හොරකම් කරාවි යන්න අර්ථවත් වේ. main clause simple future tense වලින් තැබිය යුතුය."
+    }, {"qText": "What will happen if my parachute ........... ?",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "won’t open",
+      "not open",
+      "doesn’t open"
+    ],
+    "correctAnswer": "doesn’t open",
+    "review":"ඔබේ පැරෂුටය open වෙන්නැතිනම් කුමක් වේවිද යන්න අර්ථවත් වේ. first conditional වේ. if clause simple present tense විය යුතුය."
+  }, {"qText": "If he ........... my car, I'll give him rs.1000.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "washes",
+    "will wash",
+    "wash"
+  ],
+  "correctAnswer": "washes",
+  "review":"ඔහු මගේ කාරය හෝදන්නේ නම් රු. 1000ක් දෙනවා යන්න අර්ථවත් වේ. first conditional."
+}, {"qText": "If she ............ a radio, she can borrow mine.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "needs",
+  "will need",
+  "need"
+],
+"correctAnswer": "needs",
+"review":"ඇයට අවශ්‍යනම් රේඩියෝවක් මගේ එක ණයට ගන්න පුළුවන් යන්න අර්ථවත් වේ."
+}, {"qText": "If you .......... away, I'll call the police.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "won’t go",
+  "not go",
+  "don’t go"
+],
+"correctAnswer": "don’t go",
+"review":"ඔබ යන්නැතිනම් මම පොලිසියට call කරනවා යන්න අර්ථවත් වේ. first conditional වේ. if clause simple present tense විය යුතුය."
+}, {"qText": "I'll be very angry if he ........... any more mistakes.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "make",
+  "makes",
+  "will make"
+],
+"correctAnswer": "makes",
+"review":"ඔහු වෙන මොනවහරි වැරද්දක් කරොත් මට තරහා යාවි යන්න අර්ථවත් වේ. first conditional වේ."
+}, {"qText": "If he ........... late, we'll go without him.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "is",
+  "will be",
+  "would be"
+],
+"correctAnswer": "is",
+"review":"first conditional. ඔහු පරක්කු නම් මම ඔහු නොමැතිව යාවි යන්න අර්ථවත් වේ."
+}, {"qText": "She will be absolutely furious if she .......... about this.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "will hear",
+  "hears",
+  "hear"
+],
+"correctAnswer": "hears",
+"review":"ඇය මේ ගැන ඇහුවොත් ඇත්තටම පුදුමයට පත්වේවි යන්න අර්ථවත් වේ. first conditional වේ."
+}, {"qText": "If you put on the kettle, I .............. some tea.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "will make",
+  "would make",
+  "make"
+],
+"correctAnswer": "will make",
+"review":"ඔයා කේතලය on කරනවා නම් මම තේ හදන්නම් යන්න අර්ථවත් වේ. first conditional වේ. main clause එක වන්නේ simple future. if clause එක වන්නේ simple present"
+}
+      ],
+      "videoURL":"6DGuBToMXmk"
   
     }
    

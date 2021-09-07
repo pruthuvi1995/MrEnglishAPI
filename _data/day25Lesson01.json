@@ -1,42 +1,191 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Few/ Litte",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Few/ Litte පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day25Lesson01",
       "day": "6075da74c75cd45a05afec6b",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "I’m sorry. I speak ......... French.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "few",
+        
+          "little"
         ],
         "correctAnswer": "",
         "review":""
-      }
+      },
+      {"qText": "I have got ........ friends in the city.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "few",
+        
+          "little"
+      ],
+      "correctAnswer": "",
+      "review":""
+    },
+    {"qText": "There was ......... time to finish my homework.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "few",
+        
+          "little"
+    ],
+    "correctAnswer": "",
+    "review":""
+  },
+  {"qText": "They have got ......... cakes on the table.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "few",
+        
+          "little"
+  ],
+  "correctAnswer": "",
+  "review":""
+},
+{"qText": "The kittle is ..........",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "He has ........ photos on facebook.",
+          "imageUrl":"assets/images/h.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "few",
+        
+  "little"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "few",
+        "review":"Few, little වල අර්ථය 'පොඩ්ඩක්' යන්නයි. අදාළ දෙය countable නම් few ද uncountable නම් little ද වේ."
+      }, {"qText": "We had ......... snow last winter. ",
+        "imageUrl":"assets/images/h.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "few",
+        
+  "little"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "little",
+      "review":"'හිම පොඩ්ඩක්' යන අර්ථය යෙදිය යුතුය. snow, uncountable වේ."
+    }, {"qText": "......... people were interested in the exhibition.",
+      "imageUrl":"assets/images/h.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "Few",
+        
+      "Little"
+    ],
+    "correctAnswer": "Few",
+    "review":"People, countable වන නිසා"
+  }, {"qText": "There are ........ gentlemen nowadays.",
+    "imageUrl":"assets/images/h.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "few",
+        
+    "little"
+  ],
+  "correctAnswer": "few",
+  "review":"'මහත්වරු ටිකක්' යාබ අර්ථය යෙදීමේදී එය countable වන බැවින් පිළිතුර few වේ."
+}, {"qText": "She has .......... relatives.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "few",
+"review":"ඇයට නෑදෑයෝ ටිකක් ඉන්නවා යන්න අර්ථවත් වේ."
+}, {"qText": "There is ........ water in the pond.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "little",
+"review":"වතුර ටිකක් යන්න අර්ථ දැක්වීමේදී water, uncountable වේ."
+}, {"qText": "The professor spends .......... time with students.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "little",
+"review":""
+}, {"qText": "We have ......... knowledge on this subject.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "little",
+"review":""
+}, {"qText": "We have ......... knowledge on this subject.",
+"review":"knowledge (දැනුම) uncountable වේ."
+}, {"qText": "There are ........... mushrooms in the soup.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "few",
+        
+  "little"
+],
+"correctAnswer": "few",
+"review":"සුප් එකේ බිම්මල් ටිකක් තිබුනා යන්න අර්ථවත් වේ. mushrooms countable වේ."
+}, {"qText": "........ animals can survive in the desert.",
+  "imageUrl":"assets/images/h.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "Few",
+        
+  "Little"
+],
+"correctAnswer": "Few",
+"review":"සතුන් කිහිපදෙනෙකුට පුළුවන් කාන්තාරයේ නොමැරී ජිවත් වෙන්න. animals, countable nouns වන බැවින් few යෙදේ"
+}
+      ],
+      "videoURL":"oSTXYoZcjEw"
   
     }
    

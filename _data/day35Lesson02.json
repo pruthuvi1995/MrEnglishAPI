@@ -1,9 +1,9 @@
 [
     {
-      "title": "",
-      "description": "",
-      "lesson":"day31Lesson02",
-      "day": "6075da74c75cd45a05afec71",
+      "title": "පාඩම එකතු කර නැත.",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Notices පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day35Lesson02",
+      "day": "6075da74c75cd45a05afec75",
       "imageURL": "1",
       "mcqTrail":[
         {"qText": "",
@@ -23,18 +23,7 @@
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
+       "https://tlgur.com/d/4RmBdvDg"
       ],
       "videoURL":"HiAWSsfVvwM"
   

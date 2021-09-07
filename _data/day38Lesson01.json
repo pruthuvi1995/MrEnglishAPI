@@ -1,7 +1,7 @@
 [
     {
       "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Tables පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day38Lesson01",
       "day": "6075da74c75cd45a05afec78",
       "imageURL": "1",
@@ -23,18 +23,7 @@
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
+      "https://tlgur.com/d/4yqbVXX4"
       ],
       "videoURL":"HiAWSsfVvwM"
   

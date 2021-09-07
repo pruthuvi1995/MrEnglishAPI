@@ -20,6 +20,8 @@ const SeminarDetail = require('./models/SeminarDetail');
 const Class = require('./models/Class');
 const ClassDetail = require('./models/ClassDetail');
 const ClassStudent = require('./models/ClassStudent');
+const Chapter = require('./models/Chapter');
+const ChapterDetail = require('./models/ChapterDetail');
 
 // Connect to DB
 mongoose.connect(process.env.MONGO_URI, {
@@ -83,6 +85,14 @@ const classStudents = JSON.parse(
   fs.readFileSync(`${__dirname}/_data/classStudents.json`, 'utf-8')
 );
 
+const chapters = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/chapters.json`, 'utf-8')
+);
+
+const chapterDetails = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/chapterDetails.json`, 'utf-8')
+);
+
 // Import into DB
 const importData = async () => {
   try {
@@ -99,6 +109,8 @@ const importData = async () => {
     await ClassStudent.create(classStudents);
     await Class.create(classes);
     await ClassDetail.create(classDetails);
+    await Chapter.create(chapters);
+    await ChapterDetail.create(chapterDetails);
     console.log('Data imported.....'.green.inverse);
     process.exit;
   } catch (err) {
@@ -122,6 +134,8 @@ const deleteData = async () => {
     await ClassStudent.deleteMany();
     await Class.deleteMany();
     await ClassDetail.deleteMany();
+    await Chapter.deleteMany();
+    await ChapterDetail.deleteMany();
     console.log('Data destroyed.....'.red.inverse);
     process.exit;
   } catch (err) {

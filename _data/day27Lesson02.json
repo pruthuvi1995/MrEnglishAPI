@@ -1,0 +1,173 @@
+[
+    {
+      "title": "Too and Enough",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Too and Enough පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+      "lesson":"day27Lesson02",
+      "day": "6075da74c75cd45a05afec6d",
+      "imageURL": "1",
+      "mcqTrail":[
+        {"qText": "These oranges are .......... ripe. Don’t eat them.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.2,
+          "type": "mcq",
+        "answers": [
+          "too",
+          "enough"
+        ],
+        "correctAnswer": "too",
+        "review":""
+      },{"qText": "My bag was ........ heavy, so asked a man to help me.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "too",
+        "enough"
+      ],
+      "correctAnswer": "too",
+      "review":""
+    },{"qText": "There’s ........ food for everyone so help yourself.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "too",
+      "enough"
+    ],
+    "correctAnswer": "enough",
+    "review":""
+  },{"qText": "You are ........... nervous and I don’t want to talk with you.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "too",
+    "enough"
+  ],
+  "correctAnswer": "too",
+  "review":""
+},{"qText": "Being a student is …………… stressful for me.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "too",
+          "enough"
+],
+"correctAnswer": "too",
+"review":""
+}
+     
+      
+    
+      ],
+      "mcqLesson":[
+        {"qText": "This is ......... I can’t take it anymore!",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "too",
+    "enough"
+        ],
+        "correctAnswer": "enough",
+        "review":"මෙය ප්‍රමාණවත්. මට ඊට වඩා ගන්න බෑ යන්න අර්ථවත් වේ."
+      }, {"qText": "The film was ........... boring so we came back.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "too",
+    "enough"
+      ],
+      "correctAnswer": "too",
+      "review":"චිත්‍රපටිය ඕනවට වඩා කම්මැලියි. ඒ නිසා අපි ආපසු ආවා යන්න අර්ථවත් වේ."
+    }, {"qText": "Nishadi isn’t hardworking ......... to pass all the examinations.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "too",
+    "enough"
+    ],
+    "correctAnswer": "enough",
+    "review":"නිශාධි අවශ්‍ය ප්‍රමාණයට වැඩ කලේ නෑ යන්න අර්ථවත් වේ."
+  }, {"qText": "The room was .......... dark to find my pink gloves.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "too",
+    "enough"
+  ],
+  "correctAnswer": "too",
+  "review":"කාමරය ඕනවට වඩා අඳුරුයි යන්න අර්ථවත් වේ."
+}, {"qText": "The book was .......... boring to read so I stopped reading it.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+    "enough"
+],
+"correctAnswer": "too",
+"review":"පොත ඕනවට වැඩිය කම්මැලියි කියවන්න යන්න අර්ථවත් වේ."
+}, {"qText": "I haven’t got ........... time at the moment.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+    "enough"
+],
+"correctAnswer": "enough",
+"review":"මට අවශ්‍ය තරම් කාලය මෙහි නෑ යන්න අර්ථවත් වේ."
+}, {"qText": "He can’t be a good player as he isn’t tall ..............",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+    "enough"
+],
+"correctAnswer": "enough",
+"review":"ඔහුට හොඳ player කෙනෙක් වෙන්න බෑ. මොකද ඔහු අවශ්‍ය තරම් උස නෑ යන්න අර්ථවත් වේ."
+}, {"qText": "I haven’t got ......... clothes for such a long trip.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+    "enough"
+],
+"correctAnswer": "enough",
+"review":"ඒ වගේ චාරිකාවක් යන්න මට අවශ්‍ය තරම් ඇදුම් නෑ යන්න අර්ථවත් වේ."
+}, {"qText": "The sea isn’t warm ........... for swimming.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+  "enough"
+],
+"correctAnswer": "enough",
+"review":"පිහිනන්න අවශ්‍ය තරම් මුහුද උණුසුම් නෑ යන්න අර්ථවත් වේ."
+}, {"qText": "You still make ................ many mistakes.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "too",
+  "enough"
+],
+"correctAnswer": "too",
+"review":"ඔයා තාමත් ඕනාවට වඩා වැරදි කරනවා යන්න අර්ථවත් වේ."
+}
+      ],
+      "videoURL":"6UtgLWh0Vik"
+  
+    }
+   
+    
+  ]
+  

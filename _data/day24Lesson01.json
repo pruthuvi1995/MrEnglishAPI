@@ -1,42 +1,194 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "2nd and 3rd condition",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන 2nd and 3rd condition පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day24Lesson01",
       "day": "6075da74c75cd45a05afec6a",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "If he ........... jobs, he would be a lot happier.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "changed",
+          "would change",
+          "would have changed"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "changed",
         "review":""
-      }
-     
+      },
+      {"qText": "If I were you, I ............... her that I love her.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "had told",
+        "'d tell",
+        "told"
+      ],
+      "correctAnswer": "'d tell",
+      "review":""
+    },
+    {"qText": "Even if he ............. them, they wouldn't have agreed to come.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "asked",
+      "had asked",
+      "would ask"
+    ],
+    "correctAnswer": "asked",
+    "review":""
+  },
+  {"qText": "If she hadn’t threatened him, he .............. ",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "hadn't left",
+    "wouldn’t leave",
+    "wouldn’t have left"
+  ],
+  "correctAnswer": "wouldn’t have left",
+  "review":""
+},
+{"qText": "I ............. him if I were you.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "wouldn't trust",
+  "hadn’t trusted",
+  "didn’t trust"
+],
+"correctAnswer": "wouldn't trust",
+"review":""
+}
+
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "He ............. with her if he had known she would behave so irresponsibly.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "wouldn't have gone",
+          "hadn’t gone",
+          "wouldn’t had gone"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "wouldn't have gone",
+        "review":"මෙහිදී if clause, past perfect වලින් ඇති නිසා type 3 conditional අනුගමනය කල යුතුය."
+      },  {"qText": "I wouldn't have been able to do it unless ............ me.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "wouldn't have helped",
+        "hadn’t helped",
+        "had helped"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "had helped",
+      "review":"කලින් පාඩම් මාලාවක කතා කල පරිදි unless හි negative form, if වේ. type 3 conditional අනුගමනය කරයි."
+    },  {"qText": "If he ............... earlier, he wouldn't have been late for work.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "would have got up",
+      "got up",
+      "had got up"
+    ],
+    "correctAnswer": "had got up",
+    "review":"ඔහු කලින් නැගිටලා තිබුනානම් පරක්කු වෙන් නෑ යන අර්ථය ලැබේ. type 3 conditional වේ. if clause past perfect වේ."
+  },  {"qText": "If we ........... to spend the day in London, we would have bought a day pass.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "would have wanted",
+    "had been wanting",
+    "had wanted"
+  ],
+  "correctAnswer": "had wanted",
+  "review":"අපට ලන්ඩන් වල දවසක් ගත කරන්න උවමනා වෙලා තිබුනානම් day pass එකක් ගෙනල්ලා තියන්න තිබුනා යන්න අර්ථවත් වේ."
+},  {"qText": "If you ............. less on clothes, you would be able to save some money.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "spent",
+  "didn’t spend",
+  "would spend"
+],
+"correctAnswer": "spent",
+"review":"main clause, 'would' ලෙස ඇත. මෙය type 2 conditional වේ."
+},  {"qText": "If she .............. more experienced, she would be more likely to get the job.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "were",
+  "had been",
+  "would be",
+  "would have been"
+],
+"correctAnswer": "were",
+"review":"ඇය අත්දැකීම් බහුල උනානම් රැකියාව ලබාගන්න තිබුනා යන්න අර්ථවත් වේ. type 2 conditional අනුගමනය කරයි."
+},  {"qText": "If the food ............. so bad, we wouldn't have complained.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "wasn't",
+  "hadn't been",
+  "wouldn't be",
+  "wouldn't have been"
+],
+"correctAnswer": "hadn't been",
+"review":"main clause, wouldn't have ලෙස ඇත. type 3 conditional අනුගමනය කරයි."
+},  {"qText": "If I ................ her, she might feel a bit better.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "was calling",
+  "called",
+  "would call",
+  "would have called"
+],
+"correctAnswer": "called",
+"review":"මම ඇයට කතා කලානම් ඇයට වඩා හොඳ හැඟීමක් දැනෙන්න තිබුනා. type 2 conditional අනුගමනය කරයි."
+},  {"qText": "If it wasn’t raining, we .............. a picnic today.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "had",
+  "'d had",
+  "'d have",
+  "'d been had"
+],
+"correctAnswer": "had",
+"review":"අද වැස්සේ නැත්නම් අපි චාරිකාවේ ඉන්න තිබුනා යන්න අදහස් වේ. If clause, simple past tense එකෙන් පවතී. type 2 conditional අනුගමනය කරයි."
+},  {"qText": "If he hadn’t run out of money, he ............... his trip.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "didn't cancel",
+  "hadn't cancelled",
+  "wouldn't be cancelled",
+  "wouldn't have cancelled"
+],
+"correctAnswer": "wouldn't have cancelled",
+"review":"type 3 conditional අනුගමනය කරයි."
+}
+      ],
+      "videoURL":"obVPfojtVZk"
   
     }
    

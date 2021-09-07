@@ -1,42 +1,170 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Unless",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Unless පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day26Lesson01",
       "day": "6075da74c75cd45a05afec6c",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
+        {"qText": "We cannot go sailing ..........the rain stops.",
+          "imageUrl":"assets/images/h1.jpg",
         "mark":0.2,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "if",
+          "unless"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "unless",
         "review":""
-      }
+      }, {"qText": "I won't talk to her ...............she apologizes to me.",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "if",
+        "unless"
+      ],
+      "correctAnswer": "if",
+      "review":""
+    }, {"qText": "You won't be able to find the house ...................you get help from your GPS.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "if",
+      "unless"
+    ],
+    "correctAnswer": "unless",
+    "review":""
+  }, {"qText": "I won't go ..............he is going.",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "if",
+    "unless"
+  ],
+  "correctAnswer": "if",
+  "review":""
+}, {"qText": " ...........we don’t take the necessary measures now, we may have serious problems later.",
+  "imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "If",
+  "Unless"
+],
+"correctAnswer": "If",
+"review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": ".............you don't take notes you will have hard time studying later.",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "If",
+          "Unless"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "If",
+        "review":"ඔබ notes ලියා ගත්තේ නැත්නම් යන අර්ථය ලැබේ. මෙහිදී don't take ලෙස සඳහන් නිසා unless යෙදිය නොහැකිය. if යෙදිය යුතුය."
+      },{"qText": "She must have graduated already, ............she failed a class.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "if",
+        "unless"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "unless",
+      "review":"ඇයට මේ වනවිටත් උපාධිය ලැබිය යුතුව තිබුනා පන්තිය අසමත් වුනේ නැත්නම් යන අර්ථය ලැබේ."
+    },{"qText": "Jason is always cheerful ...........something really bad happens.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "if",
+      "unless"
+    ],
+    "correctAnswer": "unless",
+    "review":"මොනවාහරි නරක සිදුවීමක් නොවන සෑම විටම Jason සතුටින් ඉන්නවා යන අර්ථය ලැබේ."
+  },{"qText": "I will never forgive you ...........you tell him the truth.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "if",
+    "unless"
+  ],
+  "correctAnswer": "unless",
+  "review":"මම ඔබට සමාව දෙන නෑ ඔබ ඔහුට ඇත්ත නොකිව්වොත් යන අර්ථය ලැබේ."
+},{"qText": "You are not allowed into the casino...........  you are under 21 years old.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "if",
+  "unless"
+],
+"correctAnswer": "if",
+"review":"ඔබට සුදු කෙලින්න අවසර නෑ ඔබ අවුරුදු 18ට අඩුනම් යන අර්ථය ලැබේ."
+},{"qText": "My mother will cook ..........they decide to eat out.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "if",
+  "unless"
+],
+"correctAnswer": "unless",
+"review":"ඔවුන් එළියෙන් කෑම ගැනීමට තීරණය නොකරයිනම් අම්මා උයාවී යන අර්ථය ලැබේ. මෙහි negative අවස්තාව යෙදෙන බැවින් පිළිතුර unless ය."
+},{"qText": "I should be there by 11 o'clock.............  I don't catch any traffic.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "if",
+  "unless"
+],
+"correctAnswer": "unless",
+"review":"මම ට්‍රැෆික් එකට අහුවෙන් නැත්නම් 11ට එහෙ ඉන්න ඕනා යන අර්ථය ලැබේ. මෙහිදී if I don't catch යෙදිය නොහැකිය. unless I don't catch යෙදිය යුතු වේ. එහි අර්ථය මම ට්‍රැෆික් එකට අසු නොවුනානම් යන අර්ථය ලැබීමට I don't catch යෙදිය යුතුය."
+},{"qText": "She should be there by 11 o'clock ............ she catches a bus.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "if",
+  "unless"
+],
+"correctAnswer": "if",
+"review":"බස් එක අල්ලා ගන්නවානම් යන අර්ථය යෙදිය යුතුය."
+},{"qText": "The show should start at 9:30 .............they changed the schedule.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "if",
+  "unless"
+],
+"correctAnswer": "unless",
+"review":"schedule එක වෙනස් නොකලානම් show එක 9.30ට පටන් ගත යුතුයි යන අර්ථය ලැබේ."
+},{"qText": ".............. those children are not welcome here I won't be here anymore.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "If",
+  "Unless"
+],
+"correctAnswer": "If",
+"review":"ළමයින්ව මෙහාට පිලිගන් නැත්නම් මම තවදුරටත් මෙහෙ ඉන් නෑ යන අර්ථය ලැබේ."
+}
+      ],
+      "videoURL":"sJpIGAZzSd0"
   
     }
    

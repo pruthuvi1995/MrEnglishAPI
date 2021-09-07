@@ -1,45 +1,190 @@
 [
-    {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
-      "lesson":"day31Lesson01",
-      "day": "6075da74c75cd45a05afec71",
-      "imageURL": "1",
-      "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
-     
-      
-    
+  {
+    "title": "පාඩම එකතු කර නැත.",
+    "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Passive Voice - Perfect පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
+    "lesson":"day31Lesson01",
+    "day": "6075da74c75cd45a05afec71",
+    "imageURL": "1",
+    "mcqTrail":[
+      {"qText": "An amazing book ........... by me before you came here last week..",
+        "imageUrl":"assets/images/h1.jpg",
+      "mark":0.2,
+        "type": "mcq",
+      "answers": [
+        "had been read",
+        "have read",
+        "read"
       ],
-      "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
-        "answers": [
-          "",
-          "",
-          ""
-        ],
-        "correctAnswer": "",
-        "review":""
-      }
-      ],
-      "videoURL":"HiAWSsfVvwM"
-  
-    }
+      "correctAnswer": "had been read",
+      "review":""
+    },
+    {"qText": "The home work ........... by me.",
+      "imageUrl":"assets/images/h2.jpg",
+    "mark":0.2,
+      "type": "mcq",
+    "answers": [
+      "have been done",
+      "has been done",
+      "done"
+    ],
+    "correctAnswer": "has been done",
+    "review":""
+  },       {"qText": "A new scooter ............. by Sunil before it will rain next vacation.",
+    "imageUrl":"assets/images/h3.jpg",
+  "mark":0.2,
+    "type": "mcq",
+  "answers": [
+    "will bought",
+    "will have been bought",
+    "will be bought"
+  ],
+  "correctAnswer": "will have been bought",
+  "review":""
+},       {"qText": "The fire ............. by the fire fighters before the minister reached there.",
+  "imageUrl":"assets/images/h4.jpg",
+"mark":0.2,
+  "type": "mcq",
+"answers": [
+  "had been put off",
+  "has put off",
+  "have put off"
+],
+"correctAnswer": "had been put off",
+"review":""
+},       {"qText": "The milk ............. by the kitten.",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.2,
+"type": "mcq",
+"answers": [
+"has been drunk",
+"had been drunk",
+"have been drunk"
+],
+"correctAnswer": "has been drunk",
+"review":""
+}
    
     
-  ]
   
+    ],
+    "mcqLesson":[
+      {"qText": "The problem ............ by Dhanuka.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "have solved",
+        "has solved",
+        "had been solved"
+      ],
+      "correctAnswer": "had been solved",
+      "review":"The problem යන්න වාක්‍යයේ මුලට ඇත. එය object වන බැවින් මෙම වාක්‍යය passive voice විය යුතුය."
+    },
+    {"qText": "The city .............. by the brave man.",
+      "imageUrl":"assets/images/h2.jpg",
+      "mark":0.1,
+      "type": "mcq",
+    "answers": [
+      "had been saved",
+      "has saved",
+      "saved"
+    ],
+    "correctAnswer": "had been saved",
+    "review":"නිර්භීත මිනිස්සු විසින් මේ නගරය රැකගනු ලැබ තිබුනා යන්න අර්ථවත් වේ. Past perfect වලට අදාළ passive voice වේ."
+  },
+  {"qText": "The clothes ........... by the girls yesterday.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "had been ironed",
+    "have been ironed",
+    "has been ironed"
+  ],
+  "correctAnswer": "had been ironed",
+  "review":"ගැහැණු ළමයි විසින් ඇදුම් මදිනු ලබා තිබුනා  අර්ථවත් වේ. past perfect වලට අදාලව ලිවීමේදී object singular, plural ඕනෑම විටක had been යෙදේ."
+}, {"qText": "The book ........... by me some years ago.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "has been read",
+  "have been read",
+  "had been read"
+],
+"correctAnswer": "has been read",
+"review":"අවුරුදු කිහිපයකට පෙර මා විසින් එම පොත කියවලා තියනවා යන්න අර්ථවත් වේ. book singular වන බැවින් has been යෙදේ."
+}, {"qText": "The toys .......... by the kid before he will complain his parents.",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"will receive",
+"will have been received",
+"will be received"
+],
+"correctAnswer": "will have been received",
+"review":"දරුවා දෙමව්පියන්ට පැමිණිලි කරන්න කලින් toys ලැබිලා තියේවි යන අර්ථය ඇත. Toys වාක්‍යයේ මුලට ඇති නිසා මෙය passive voice විය යුතුය."
+}, {"qText": "The new movies ............. by us before we will be selected to the university.",
+"imageUrl":"assets/images/h1.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"will shown",
+"will have been shown",
+"will be shown"
+],
+"correctAnswer": "will have been shown",
+"review":"මෙහි clauses දෙකම future tense වේ. එකක් simple future නම් ඊට කලින් සිදුවීම future perfect වේ. මේවා passive voice වලින් යෙදී ඇත."
+}, {"qText": "Another glass ............ by Narada then father has beaten him.",
+"imageUrl":"assets/images/h2.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"has been broken",
+"have been broken",
+"had been broken"
+],
+"correctAnswer": "has been broken",
+"review":"නාරද විසින් තවත් වීදුරුවක් බිඳලා තියනවා යන්න අර්ථවත් වේ. Present perfect passive නීති අනුගමනය කරයි."
+}, {"qText": "I ............. by my alarm before mother will make me wake up.",
+"imageUrl":"assets/images/h3.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"will wake up",
+"will have been woke up",
+"will be woke up"
+],
+"correctAnswer": "will have been woke up",
+"review":"අම්මා කතා කරන්න කලින් එලාම් එක මාව නැගිටුවා තියේවි යන අර්ථය ලැබේ. Future perfect වලට අදාළ passive voice යෙදේ. "
+}, {"qText": "The window ................ by the girl.",
+"imageUrl":"assets/images/h4.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"has broken",
+"broken",
+"had been broken"
+],
+"correctAnswer": "had been broken",
+"review":"මෙහිදී අර්ථය වන්නේ ගැණු ළමයා විසින් ජනේලය කඩනු ලැබ තිබුනා යන්නයි. past perfect වලට අදාළ passive voice වේ."
+}, {"qText": "Bags ............ in the shops Before we will return here.",
+"imageUrl":"assets/images/h5.jpg",
+"mark":0.1,
+"type": "mcq",
+"answers": [
+"will sell",
+"will have been sold",
+"will be sold"
+],
+"correctAnswer": "will have been sold",
+"review":"අපි මෙහි එන්න කලින් බෑග් විකුනලා තියේවි යන අර්ථය ලැබේ. මෙහි bag යන object එක වාක්‍යයෙදී මුලික වී ඇත. Future perfect වලට අදාළ passive voice වේ."
+}
+    ],
+    "videoURL":"lTvp78Phyqo"
+
+  }
+ 
+  
+]

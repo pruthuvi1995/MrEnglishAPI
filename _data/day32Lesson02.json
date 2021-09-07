@@ -1,40 +1,164 @@
 [
     {
-      "title": "",
-      "description": "",
+      "title": "පාඩම එකතු කර නැත",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Reported Speech - Past normal පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day32Lesson02",
       "day": "6075da74c75cd45a05afec72",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
+        {"qText": "In past normal expressions of reported speech ",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.25,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "Pronouns are changed.",
+          "Tense type is changed.",
+          "Above all."
         ],
-        "correctAnswer": "",
+        "correctAnswer": "Above all.",
         "review":""
-      }
-     
+      },
+      {"qText": "In past expressions of reported speech past tense is changed to",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "present tense",
+        "past continuous tense",
+        "past perfect tense"
+      ],
+      "correctAnswer": "past perfect tense",
+      "review":""
+    },
+    {"qText": "Select the most suitable reported speech.* *Nihal said 'I went to the hospital yesterday'.",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.25,
+      "type": "Dialog",
+    "answers": [
+      "Nihal said that I went to the hospital yesterday.",
+      "Nihal said that he had gone to the hospital yesterday.",
+      "Nihal said that he had gone to the hospital the previous day."
+    ],
+    "correctAnswer": "Nihal said that he had gone to the hospital the previous day.",
+    "review":""
+  },
+  {"qText": "In past expressions of reported speech present continuous tense is converted to",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.25,
+    "type": "mcq",
+  "answers": [
+    "past continuous tense",
+    "past perfect tense",
+    "Not change"
+  ],
+  "correctAnswer": "past continuous tense",
+  "review":""
+}
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+        {"qText": "In past expressions of reported speech past perfect tense is converted to",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "Present perfect tense",
+          "Past tense",
+          "Not change"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "Not change",
+        "review":"Past perfect tense වෙනස් නොවේ."
+      },
+      {"qText": "Select the correct reported speech.* *My brother said to me 'my girlfriend has met with an accident'.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "Dialog",
+      "answers": [
+        "My brother said to me that my girlfriend had met with an accident.",
+        "My brother said to me that his girlfriend had met with an accident.",
+        "My brother said to me his girlfriend had met with an accident."
+      ],
+      "correctAnswer": "My brother said to me that his girlfriend had met with an accident.",
+      "review":"මගේ සහෝදරයා කිව්වා ඔහුගේ පෙම්වතිය අනතුරකට ලක් වී තිබුනේ ලෙස reported විය යුතුය. Present perfect, past perfect බවට වෙනස් වේ."
+    },  {"qText": "Select the correct reported speech.* *She said 'My mother cooked biriyani yesterday'.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "Dialog",
+    "answers": [
+      "She said that her mother cooked biriyani the previous day",
+      "She said that her mother has cooked biriyani the previous day",
+      "She said that her mother had cooked biriyani the previous day"
+    ],
+    "correctAnswer": "She said that her mother had cooked biriyani the previous day",
+    "review":"Reported විය යුත්තේ ඇය කිව්වා ඇගේ අම්මා ඊට කලින් දවසේ බිරියානි පිළියෙළ කරලා තිබුනා ලෙසයි. Simple past, past perfect බවට වෙනස් වේ."
+  },  {"qText": "In past expressions of reported speech 'tomorrow' is converted to ",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "today",
+    "the previous day",
+    "the following day"
+  ],
+  "correctAnswer": "the following day",
+  "review":"හෙට යන්න ඊළඟ දවස ලෙස වෙනස් වේ."
+},  {"qText": "Select the correct reported speech.* *Ranaweera uncle said to me 'Your brother has beaten my son today morning'.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "Ranaweera uncle said to me that my brother has beaten his son that day morning",
+  "Ranaweera uncle said to me that my brother had beaten his son yesterday morning",
+  "Ranaweera uncle said to me that my brother has beaten his son that day morning"
+],
+"correctAnswer": "Ranaweera uncle said to me that my brother has beaten his son that day morning",
+"review":"එදා දවසේ උදේ මගේ මල්ලී ඔහුගේ පුතාට පහරදීලා තිබුනා ලෙස වලදී වෙනස් වේ. present perfect, past perfect ලෙස වෙනස් වේ."
+},  {"qText": "Fill in the blanks with the correct answer.* *Father said 'I am going to get the vaccine.* *reported speech* *Father said that ............. ............. going to get the vaccine'.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "I, was",
+  "he, is",
+  "he, was"
+],
+"correctAnswer": "he, was",
+"review":"තාත්තා කිව්වා ඔහු එන්නත ගන්න යමින් සිටියා ලෙස වෙනස් වේ. Present continuous, past continuous ලෙස වෙනස් වේ."
+},  {"qText": "Fill in the blanks with the correct answer.* *Chandupa said to me I had never seen a girl like you'.* *Reported speech* *Chandupa said to me ................. had never seen a girl like ...............",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "he, me",
+  "he, I",
+  "I, me"
+],
+"correctAnswer": "he, me",
+"review":"චන්දුප මට කිව්වා ඔහු මම වගේ ගෑනු ළමයෙක් කවදාවත් දැකලා තිබුනේ නෑ කියලා. Past perfect tense වෙනස් නොවේ."
+},  {"qText": "Select the correct reported speech.* *Fathima said to him 'I want to kill you and drink your blood'.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "Fathima said to him that she wants to kill me and drink my blood.",
+  "Fathima said to him that she wanted to kill him and drank my blood.",
+  "Fathima said to him that she wants to kill him and had drunk his blood."
+],
+"correctAnswer": "Fathima said to him that she wanted to kill him and drank my blood.",
+"review":"ෆාතිමා කිව්වා ඔහුට ඇයට උවමනා උනා කියලා ඔහුව මරලා ඔහුගේ ලේ බොන්න. Perfect tense, past tense වලට වෙනස් වේ."
+},  {"qText": "Select the correct reported speech.* *little brother said 'I need this green coloured phone'.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.125,
+  "type": "Dialog",
+"answers": [
+  "My little brother said that he needed that green coloured phone.",
+  "My little brother said that he needed this green coloured phone.",
+  "My little brother said that I needed this green coloured phone."
+],
+"correctAnswer": "My little brother said that he needed that green coloured phone.",
+"review":"මගේ මල්ලී කිව්වා ඔහුට අර කොලපාට phone එක ඕනේ කියලා. Simple present, simple past tense වලට වෙනස් වේ."
+}
       ],
       "videoURL":"HiAWSsfVvwM"
   

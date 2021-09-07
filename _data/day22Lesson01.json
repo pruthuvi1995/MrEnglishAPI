@@ -1,42 +1,164 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Conjuctive adverb",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Conjuctive adverb පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day22Lesson01",
       "day": "6075da74c75cd45a05afec68",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
+        {"qText": "Select a conjunctive adverb.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.25,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "but",
+          "and",
+          "because",
+          "hence"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "hence",
         "review":""
-      }
+      },
+      {"qText": "ඔහු වෙහෙස හිටියේ. එහි ප්‍රතිඵලයක් ලෙස ඔහුට අනතුරක් සිදු වුනා. මෙය නිවැරිදි ඉංග්‍රීසියෙන් ඇත්තේ ",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "He was tried and faced an accident.",
+        "He was tired because he faced an accident.",
+        "He was tired. As a result he faced an accident."
+      ],
+      "correctAnswer": "He was tired. As a result he faced an accident.",
+      "review":""
+    },
+    {"qText": "'Hence' යන්නට සමාන conjunction  එකක් වන්නේ ",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.25,
+      "type": "mcq",
+    "answers": [
+      "because",
+      "therefore",
+      "by"
+    ],
+    "correctAnswer": "therefore",
+    "review":""
+  },
+  {"qText": "චමිල් සහා අකීල් ආවා. කොහොමහරි සිතුම් ආවේ විනාඩි 10කට පස්සේ.* *මෙය නිවැරිදිව ඉංග්‍රීසියෙන් ලියා ඇත්තේ,",
+    "imageUrl":"assets/images/h4.jpg",
+  "mark":0.25,
+    "type": "Dialog",
+  "answers": [
+    "Chamil and Akil were in time. However, Sithum arrived ten minutes late.",
+    "Chamil and Akil were in time. But, Sithum arrived ten minutes late.",
+    "Chamil and Akil were in time. So, Sithum arrived ten minutes late."
+  ],
+  "correctAnswer": "Chamil and Akil were in time. However, Sithum arrived ten minutes late.",
+  "review":""
+}
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
+        {"qText": "Mangoes are healthy. .............. they are easy to eat.",
+          "imageUrl":"assets/images/h1.jpg",
           "mark":0.125,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "However",
+"Therefore",
+"In addition"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "In addition",
+        "review":"අඹ සෞඛ්‍යට හිතකරයි. ඊට අමතරව ඒවා කන්න පහසුයි යන්න අර්ථවත් වේ."
+      },
+      {"qText": "Smoking cigarettes can cause several health problems for smokers. ................. it can affect the heath of others who breath in second hand smoke.",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.125,
+        "type": "mcq",
+      "answers": [
+        "moreover",
+"therefore",
+"however"
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "moreover",
+      "review":"දුම්බීම දුම් බොන්නන්ට ගොඩක් ප්‍රශ්න ඇති කරනවා. තවදුරටත් කිව්වොත් ඒ දුම ආග්‍රහණය කරන අයගේ සෞඛ්‍යටත් බලපෑවා යන්න අර්ථවත් වේ."
+    },
+    {"qText": "Just before the examination also he watched cricket matches on T.V. .................. he failed the examination.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.125,
+      "type": "mcq",
+    "answers": [
+      "Consequently",
+"Because",
+"however"
+    ],
+    "correctAnswer": "Consequently",
+    "review":"විභාගයට ඉතා ආසන්නයේදී ඔහු T.V. එකේ ක්‍රිකට් බැලුවා. එහි ප්‍රතිඵලයක් ලෙස විභාගය අසමත් වුනා යන්න අර්ථවත් වේ."
+  },
+  {"qText": "You need to put more effort intoyour works; .................... you won't get a paasing grade.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.125,
+    "type": "mcq",
+  "answers": [
+    "Moreover",
+"Unless",
+"Otherwise"
+  ],
+  "correctAnswer": "Otherwise",
+  "review":" ඔබ වැඩවලට ලොකු වෙහෙසක් දැරුවේ නැත්නම් හොඳ සාමාර්ථයක් ගන්න බැරිවේවි යන්න අර්ථවත් වේ."
+},
+{"qText": "He is a good man; ......................, smoking.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "beside",
+"additionally",
+"accordingly"
+],
+"correctAnswer": "beside",
+"review":"දුම්බීම හැරුනුකොට ඔහු හොඳ මිනිසෙක් යන්න අර්ථවත් වේ."
+}
+,
+{"qText": "",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "So",
+"Hence",
+"On the other hand"
+],
+"correctAnswer": "On the other hand",
+"review":"එක අතකින් ඔහු වැරදි. අනිත් අතින් අපි වැරදි යන්නර්තවත් වේ."
+},
+{"qText": "He doesn't listen to parents; .................. he will become a bad egg.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "Accordingly",
+"Consequently",
+"Moreover"
+],
+"correctAnswer": "Consequently",
+"review":"ඔහු දෙමව්පියන්ට ඇහුම්කන් දෙන නෑ. ප්‍රතිඵලයක් විදියට ඔහු නරක වේවි යන්න අර්ථවත් වේ."
+},
+{"qText": "I like you a lot; ...................., I think we should be best friends.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.125,
+  "type": "mcq",
+"answers": [
+  "in fact",
+"nonetheless",
+"however"
+],
+"correctAnswer": "in fact",
+"review":"මම ගොඩක් ඔබට කැමතියි. ඇත්ත වශයෙන්ම මම හිතන්නේ අපි හොඳම යාළුවො විය යුතුයි යන්න අර්ථවත් වේ."
+}
+      ],
+      "videoURL":"hXLoD8D4dl8"
   
     }
    

@@ -1,40 +1,163 @@
 [
     {
       "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Reported Speech - Present පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day32Lesson01",
       "day": "6075da74c75cd45a05afec72",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
+        {"qText": "In present expressions of reported speech",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.3,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "The tense type is changed",
+          "Time is changed",
+          "Pronoun is changed"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "Pronoun is changed",
         "review":""
-      }
+      },
+      {"qText": "'We are quite cold in here.' reported speech is",
+        "imageUrl":"assets/images/h2.jpg",
+      "mark":0.3,
+        "type": "mcq",
+      "answers": [
+        "They say they are quite cold here.",
+        "They say that they are quite cold here.",
+        "They say that they were quite cold here."
+      ],
+      "correctAnswer": "They say that they are quite cold here.",
+      "review":""
+    },
+    {"qText": "He says 'I am going out'. Indirect speech is",
+      "imageUrl":"assets/images/h3.jpg",
+    "mark":0.4,
+      "type": "mcq",
+    "answers": [
+      "He says that he is going out.",
+      "He says that he was going out.",
+      "He says he is going out."
+    ],
+    "correctAnswer": "He says that he is going out.",
+    "review":""
+  }
      
       
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
-          "type": "mcq",
+        {"qText": "He says 'I am not a good guy'.* * In this direct speech pronoun is changed to",
+          "imageUrl":"assets/images/h1.jpg",
+          "mark":0.1,
+          "type": "Dialog",
         "answers": [
-          "",
-          "",
-          ""
+          "we",
+"he",
+"not changed"
         ],
-        "correctAnswer": "",
-        "review":""
-      }
+        "correctAnswer": "he",
+        "review":"Reported speech වලදී ඔහු කියනවා ඔහු  හොඳ මනුස්සයෙක් නොවෙයිලු ලෙස වෙනස් විය යුතුය."
+      },  {"qText": "He says to me 'I have arrived before you'. Correct indirect speech is",
+        "imageUrl":"assets/images/h2.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "He says to me that he has arrived before you.",
+"He says to me he has arrived before me.",
+"He says to me that he had arrived before me."
+      ],
+      "correctAnswer": "He says to me that he had arrived before me.",
+      "review":"ඔහු කියනවා මට ඔහු ඔහු මට කලින් ලඟා වෙලා තියනවාලු යන අර්ථය ලැබිය යුතුය."
+    },  {"qText": "Select the suitable indirect speech.* *She says 'I have been studying a lot'.",
+      "imageUrl":"assets/images/h3.jpg",
+      "mark":0.1,
+      "type": "Dialog",
+    "answers": [
+      "She says that she had been studying a lot.",
+"She says that I've been studying a lot.",
+"She says that she has been studying a lot."
+    ],
+    "correctAnswer": "She says that she has been studying a lot.",
+    "review":"ඇය කියනවා ඇය ගොඩක් ඉගෙනගනිමින් ඉන්නවා කියලා."
+  },  {"qText": "My best friend says that he ............... to the funeral morning.",
+    "imageUrl":"assets/images/h4.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "goes",
+"went",
+"go"
+  ],
+  "correctAnswer": "went",
+  "review":"Indirect speech වලින් අර්ථය වන්නේ මගේ හොඳම යාලුවා කියනවා ඊයේ උදේ ඔහු  funeral ගියාලු යන්නයි. Present expression වලදී tense type වෙනස් නොවේ."
+},  {"qText": "Select the correct reported speech.* *She says 'I must go there'.",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "She says that I must go there.",
+"She says that she must go there.",
+"She says that she must went there."
+],
+"correctAnswer": "She says that she must go there.",
+"review":"ඇය කියනවා ඇය එහි  යුතුයිලු කියලා යන්න අර්ථවත් වේ."
+},  {"qText": "Kasuni: 'Suran don't come to meet me again.'* *Kasuni says to Suran that ............... come to meet ................ again.",
+  "imageUrl":"assets/images/h1.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "don't, me",
+"didn't, her",
+"not to, her"
+],
+"correctAnswer": "not to, her",
+"review":"Reported speech වලදී don't යන්න not to ලෙස වෙනස් විය යුතුය."
+},  {"qText": "The stranger says 'I live in the city center'.* *Correct reported speech is",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "Dialog",
+"answers": [
+  "The stranger says that I live in the city center.",
+"The stranger says he lives in the city center.",
+"The stranger says that he lives in the city center."
+],
+"correctAnswer": "The stranger says that he lives in the city center.",
+"review":"අමුත්තා කිව්වා ඔහු city senter එකේ ජිවත් වෙනවා කියලා. Present expression වලදී tense type වෙනස් නොවේ."
+},  {"qText": "Our uncle says ' I'll be there at 2pm'.* *Fill in the blanks.* *Our uncle says that ............... there at 2 pm.",
+  "imageUrl":"assets/images/h3.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "I will",
+"he will",
+"he would"
+],
+"correctAnswer": "he will",
+"review":"මාමා කියනවා සවස 2ට ඔහු එහෙ ඉදිවී කියලා."
+},  {"qText": "The presenter says ' Don't underestimate yourself.* *Correct reported speech is",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "The presenter says that don't underestimate yourself.",
+"The presenter says that don't underestimate ourselves.",
+"The presenter says that no to underestimate ourselves."
+],
+"correctAnswer": "The presenter says that no to underestimate ourselves.",
+"review":"Present expression වලදී don't යන්න not to ලෙස වෙනස් වේ. yourself යන්න ourselves ලෙස වෙනස් විය යුතුය."
+},  {"qText": "The music teacher says 'Students, you should complete the exercise within two days'.* *Correct reported speech is",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "The music teacher says that we should complete the exercise within two days.",
+"The music teacher says that students, we should complete the exercise within two days.",
+"The music teacher says that we should completed the exercise within two days."
+],
+"correctAnswer": "The music teacher says that we should complete the exercise within two days.",
+"review":"සංගීත ගුරුතුමී කියනවා අපි අභ්‍යාස දින 2ක් තුල අවසන් කල යුතුයි කියලා යන්න අර්ථවත් වේ."
+}
       ],
       "videoURL":"HiAWSsfVvwM"
   

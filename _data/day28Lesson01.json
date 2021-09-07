@@ -1,42 +1,201 @@
 [
     {
-      "title": "පාඩම එකතු කර නැත.",
-      "description": "",
+      "title": "Relative Clauses - 1",
+      "description": "ඉංග්‍රීසි භාෂාවේ භාවිතා වන Relative Clauses - part 01 පිළිබඳව මෙම පාඩම ඔස්සේ discuss කෙරේ.",
       "lesson":"day28Lesson01",
       "day": "6075da74c75cd45a05afec6e",
       "imageURL": "1",
       "mcqTrail":[
-        {"qText": "",
-          "imageUrl":"assets/images/englishGrammerIcon.jpeg",
-        "mark":0.2,
+
+
+        {"qText": "Mr Richards, ............. is a taxi driver, lives on the corner.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.25,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "who",
+          "which",
+          "whose"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "who",
         "review":""
-      }
+      },
+
+
+
+
+       
+        {"qText": "Children ............. eat a lot of chocolate.",
+          "imageUrl":"assets/images/h2.jpg",
+        "mark":0.25,
+          "type": "mcq",
+        "answers": [
+          "who",
+          "which",
+          "whose"
+        ],
+        "correctAnswer": "who",
+        "review":""
+      },
+      {"qText": "Here is the newspaper ................. is in my book.",
+        "imageUrl":"assets/images/h3.jpg",
+      "mark":0.25,
+        "type": "mcq",
+      "answers": [
+        "who",
+        "which",
+        "whose"
+       
+      ],
+      "correctAnswer": "which",
+      "review":""
+    },
+    {"qText": "The book ............... you gave me is great.",
+      "imageUrl":"assets/images/h4.jpg",
+    "mark":0.25,
+      "type": "mcq",
+    "answers": [
+      "who",
+      "when",
+      "that"
      
-      
+    ],
+    "correctAnswer": "that",
+    "review":""
+  }
     
       ],
       "mcqLesson":[
-        {"qText": "",
-          "imageUrl":"assets/images/hasanjana.jpg",
-          "mark":0.125,
+
+        {"qText": "This is the girl ............... comes from Spain.",
+          "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
           "type": "mcq",
         "answers": [
-          "",
-          "",
-          ""
+          "who",
+        "which",
+        "whose"
         ],
-        "correctAnswer": "",
+        "correctAnswer": "who",
         "review":""
-      }
+        },{"qText": "That's Shamal, the boy ............... has just arrived at the airport.",
+          "imageUrl":"assets/images/h2.jpg",
+          "mark":0.1,
+          "type": "mcq",
+          "answers": [
+          "who",
+          "which",
+          "whose"
+          ],
+          "correctAnswer": "who",
+          "review":""
+          },
+          {"qText": "The children ................ shouted in the street are not from our school.",
+            "imageUrl":"assets/images/h3.jpg",
+            "mark":0.1,
+            "type": "mcq",
+          "answers": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "correctAnswer": "who",
+          "review":"විදියේ කැගහපු ළමයි අපේ පාසලේ නොවෙයි යන අරුත ලැබේ. මෙහිදී 'The Children' යන්න විස්තර කෙරේ."
+        }, {"qText": "I posted all the letters ................... you gave me.",
+          "imageUrl":"assets/images/h4.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "who",
+          "which",
+          "where"
+         
+        ],
+        "correctAnswer": "which",
+        "review":"ඔබ දුන් සියලු ලියුම් මම තැපැල් කළා යන්න අර්ථවත් වේ. letters විස්තර කරන බැවින් which pronoun යෙදේ."
+      },
+
+
+        {"qText": "My uncle .................. is a teacher has got three children.",
+          "imageUrl":"assets/images/h5.jpg",
+          "mark":0.1,
+          "type": "mcq",
+        "answers": [
+          "who",
+          "which",
+          "whose"
+         
+        ],
+        "correctAnswer": "who",
+        "review":"මෙහිදී uncle යන noun විස්තර කරන බැවින් who pronoun යෙදේ."
+      },
+      {"qText": "My sister ................. lives in Mathale is going to visit us.",
+        "imageUrl":"assets/images/h1.jpg",
+        "mark":0.1,
+        "type": "mcq",
+      "answers": [
+        "who",
+        "which",
+        "whose"
+       
       ],
-      "videoURL":"HiAWSsfVvwM"
+      "correctAnswer": "who",
+      "review":"my sister යන noun 1 විස්තර කෙරේ. පුද්ගලයෙකු විස්තර කිරීමේදී who relative pronoun වේ."
+    },
+  {"qText": "A hammer is a tool ................. is used to knock nails into wood.",
+    "imageUrl":"assets/images/h3.jpg",
+    "mark":0.1,
+    "type": "mcq",
+  "answers": [
+    "who",
+    "which",
+    "whose"
+   
+  ],
+  "correctAnswer": "which",
+  "review":"උපකරණයක් විස්තර කරන බැවින් which relative pronoun යෙදේ."
+},
+{"qText": "My friend .................... doesn't have a cell phone, suddenly knocked on the door last night.",
+  "imageUrl":"assets/images/h4.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "who",
+  "which",
+  "whose"
+ 
+],
+"correctAnswer": "who",
+"review":"ජංගම දුරකතනයක් නැති මගේ මිතුරා යන්න අර්ථවත් වේ. පුද්ගලයෙක් විස්තර කරන බැවින් who යෙදේ."
+},
+{"qText": "Can you please return the calculator ...................... you borrowed yesterday?",
+  "imageUrl":"assets/images/h5.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "who",
+  "that",
+  "whose"
+ 
+],
+"correctAnswer": "that",
+"review":"ඔබ මගෙන් ණයට ගත් කැල්කියුලේටරය නැවත ලබා දෙන්න පුලුවන්ද යන්න අර්ථවත් වේ. Calculator යන්න විස්තර කරන බැවින් that relative pronoun යෙදේ."
+},
+{"qText": "Do you know anyone ................... could fix my computer.",
+  "imageUrl":"assets/images/h2.jpg",
+  "mark":0.1,
+  "type": "mcq",
+"answers": [
+  "who",
+  "which",
+  "whose"
+ 
+],
+"correctAnswer": "who",
+"review":"ඔයා දන්නවාද මගේ පරිඝනකය හදන්න පුලුවන් කෙනෙක් යන්න අර්ථවත් වේ. පුද්ගලයෙක් විස්තර කරන බැවින් who යෙදේ."
+}
+      ],
+      "videoURL":"CKtbbUQn8q8"
   
     }
    
