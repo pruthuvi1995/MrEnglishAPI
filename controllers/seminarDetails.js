@@ -58,7 +58,7 @@ exports.addSeminarDetails = asyncHandler(async (req, res, next) => {
   req.body.user = req.params.userId;
   req.body.seminar = req.params.seminarId;
 
-  const seminarDetails = await Seminar.find( {$and: [{user: req.body.user}, {seminar: req.body.seminar }]});
+  const seminarDetails = await SeminarDetail.find( {$and: [{user: req.body.user}, {seminar: req.body.seminar }]});
 
   if (seminarDetails.length != 0) {
     return res.status(200).json({

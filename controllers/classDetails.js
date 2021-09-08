@@ -58,7 +58,7 @@ exports.addClassDetails = asyncHandler(async (req, res, next) => {
   req.body.user = req.params.userId;
   req.body.class = req.params.classId;
 
-  const classDetails = await Class.find( {$and: [{user: req.body.user}, {class: req.body.class }]});
+  const classDetails = await ClassDetail.find( {$and: [{user: req.body.user}, {class: req.body.class }]});
 
   if (classDetails.length != 0) {
     return res.status(200).json({
