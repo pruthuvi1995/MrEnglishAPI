@@ -5,7 +5,7 @@ const FreeVideo = require('../models/FreeVideo');
 
 // @desc    Get all FreeVideo
 // @route   GET /api/v1/freevideos
-// @access  Private
+// @access  Pvt
 exports.getFreeVideos = asyncHandler(async (req, res, next) => {
   const freeVideos = await FreeVideo.find();
 
