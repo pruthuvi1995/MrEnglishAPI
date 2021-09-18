@@ -22,6 +22,7 @@ const ClassDetail = require('./models/ClassDetail');
 const ClassStudent = require('./models/ClassStudent');
 const Chapter = require('./models/Chapter');
 const ChapterDetail = require('./models/ChapterDetail');
+const FreeVideo = require('./models/FreeVideo');
 
 // Connect to DB
 mongoose.connect(process.env.MONGO_URI, {
@@ -93,6 +94,10 @@ const chapterDetails = JSON.parse(
   fs.readFileSync(`${__dirname}/_data/chapterDetails.json`, 'utf-8')
 );
 
+const freeVideos = JSON.parse(
+  fs.readFileSync(`${__dirname}/_data/freeVideos.json`, 'utf-8')
+);
+
 // Import into DB
 const importData = async () => {
   try {
@@ -111,6 +116,7 @@ const importData = async () => {
     await ClassDetail.create(classDetails);
     await Chapter.create(chapters);
     await ChapterDetail.create(chapterDetails);
+    await FreeVideo.create(freeVideos);
     console.log('Data imported.....'.green.inverse);
     process.exit;
   } catch (err) {
@@ -136,6 +142,7 @@ const deleteData = async () => {
     await ClassDetail.deleteMany();
     await Chapter.deleteMany();
     await ChapterDetail.deleteMany();
+    await FreeVideo.deleteMany();
     console.log('Data destroyed.....'.red.inverse);
     process.exit;
   } catch (err) {

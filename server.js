@@ -37,6 +37,8 @@ const classes = require('./routes/classes');
 const classDetails = require('./routes/classDetails');
 const chapters = require('./routes/chapters');
 const chapterDetails = require('./routes/chapterDetails');
+const seminars = require('./routes/freeVideos');
+
 
 const app = express();
 
@@ -95,6 +97,7 @@ app.use('/api/v1/classes', classes);
 app.use('/api/v1/classDetails', classDetails);
 app.use('/api/v1/chapters', chapters);
 app.use('/api/v1/chapterDetails', chapterDetails);
+app.use('/api/v1/freeVideos', freeVideos);
 
 
 app.use(errorHandler);
