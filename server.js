@@ -37,7 +37,7 @@ const classes = require('./routes/classes');
 const classDetails = require('./routes/classDetails');
 const chapters = require('./routes/chapters');
 const chapterDetails = require('./routes/chapterDetails');
-const seminars = require('./routes/freeVideos');
+const freeVideos = require('./routes/freeVideos');
 
 
 const app = express();
