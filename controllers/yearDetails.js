@@ -58,7 +58,7 @@ exports.addYearDetails = asyncHandler(async (req, res, next) => {
   req.body.user = req.params.userId;
   req.body.year = req.params.yearId;
 
-  const yearDetails = await YearDetail.find( {$and: [{user: req.body.user}, {day: req.body.year }]});
+  const yearDetails = await YearDetail.find( {$and: [{user: req.body.user}, {year: req.body.year }]});
 
   if (yearDetails.length != 0) {
     return res.status(200).json({
